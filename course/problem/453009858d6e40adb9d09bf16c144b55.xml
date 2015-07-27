@@ -1,0 +1,14 @@
+<problem display_name="Query 8" markdown="null" max_attempts="1" showanswer="never">
+  <center>
+    <img src="/static/C2_SuspensionBridge.jpg"/>
+  </center>
+  <p>What is the form taken by the main cables of a suspension bridge called? </p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the form taken by the main cables of a suspension bridge called?" type="MultipleChoice" show_correctness="never">
+      <choice correct="true">A Parabola</choice>
+      <choice correct="false">A Polynomial</choice>
+      <choice correct="false">A Catenary</choice>
+      <choice correct="false">A Semi-circle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

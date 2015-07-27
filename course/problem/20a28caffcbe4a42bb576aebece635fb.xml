@@ -1,0 +1,14 @@
+<problem display_name="Query 2" markdown="null" max_attempts="1" showanswer="never">
+<p>Do you expect the bottom surface of Owl’s beam to be in tension, compression, shear, or torsion?</p>
+<img src="/static/C5_WDYT2.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect the bottom surface of Owl’s beam to be in tension, compression, shear, or torsion?" type="MultipleChoice" show_correctness="never">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Shear</choice>
+    <choice correct="false">Torsion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

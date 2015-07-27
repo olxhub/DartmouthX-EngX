@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;In addition to downward forces, the supports at the base of a vault or arch must typically also resist:&lt;&lt;&#10;&#10;[x] outward forces &#10;[ ] upward forces&#10;[ ] shear forces&#10;[ ] tension forces&#10;&#10;[explanation]&#10;Explanation: The supports at the base of a vault or arch must resist a downward force and an outward thrust or force due to an applied downward load.&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>In addition to downward forces, the supports at the base of a vault or arch must typically also resist:</p>
+<choiceresponse>
+  <checkboxgroup label="In addition to downward forces, the supports at the base of a vault or arch must typically also resist:" direction="vertical">
+    <choice correct="true">outward forces </choice>
+    <choice correct="false">upward forces</choice>
+    <choice correct="false">shear forces</choice>
+    <choice correct="false">tension forces</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: The supports at the base of a vault or arch must resist a downward force and an outward thrust or force due to an applied downward load.</p>
+
+</div>
+</solution>
+
+</problem>

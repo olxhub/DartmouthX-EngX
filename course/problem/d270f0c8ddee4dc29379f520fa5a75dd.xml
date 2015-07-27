@@ -1,0 +1,14 @@
+<problem display_name="Query 4" markdown="null" max_attempts="1" showanswer="never">
+<legend>Will a short, stiff building or a tall, flexible building be more damaged during an earthquake?</legend>
+<multiplechoiceresponse>
+  <choicegroup label="Will a short, stiff building or a tall, flexible building be more damaged during an earthquake?" type="MultipleChoice" show_correctness="never">
+    <choice correct="false">A short, stiff building will be more damaged during an earthquake</choice>
+    <choice correct="false">A tall, flexible building will be more damaged during an earthquake</choice>
+    <choice correct="false">They will be damaged the same amount during an earthquake</choice>
+    <choice correct="true">It depends</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

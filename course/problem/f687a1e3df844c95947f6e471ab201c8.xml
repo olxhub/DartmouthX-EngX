@@ -1,0 +1,12 @@
+<problem display_name="Query 3" markdown="null" max_attempts="1" showanswer="never">
+<legend>If the mass of a structure increases, will the structure tend to oscillate faster, slower, or the same.</legend>
+<multiplechoiceresponse>
+  <choicegroup label="If the mass of a structure increases, will the structure tend to oscillate faster, slower, or the same." type="MultipleChoice" show_correctness="never">
+    <choice correct="false">If the mass increases the structure will tend to oscillate faster</choice>
+    <choice correct="true">If the mass increases the structure will tend to oscillate slower</choice>
+    <choice correct="false">If the mass increases there will be no change in how the structure oscillates</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 3" markdown="null" max_attempts="2">
+  <p>If the cables are adjusted so that they are perfectly horizontal, what is the force in the cable given that the applied load is 2Newtons (2N)?</p>
+  <p/>
+  <center>
+    <img src="/static/C2_KC3.jpg" width="350px" alt="Diagram"/>
+  </center>
+  <p/>
+  <multiplechoiceresponse>
+    <choicegroup label="If the cables are adjusted so that they are perfectly horizontal, what is the force in the cable given that the applied load is 2Newtons (2N)?" type="MultipleChoice">
+      <choice correct="false">2N</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">10N</choice>
+      <choice correct="false">1N</choice>
+      <choice correct="true">Not possible</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A cable that is perfectly horizontal is not able to support any load. There must be some sag in the cable.</p>
+    </div>
+  </solution>
+</problem>

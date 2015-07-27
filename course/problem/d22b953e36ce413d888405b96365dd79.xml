@@ -1,0 +1,10 @@
+<problem display_name="Query 4" markdown="null" max_attempts="1" showanswer="never">
+  <p>An engineer is considering using a column with one of the cross-sections shown below, A or B. Assuming the cross-sections have the same total area, which would you choose?</p>
+  <img src="/static/C3_WDYT_Q7.png" alt="(A) smaller square solid column or (B) larger square hollow column"/>
+  <multiplechoiceresponse>
+    <choicegroup label="An engineer is considering using a column with one of the cross-sections shown below, A or B. Assuming the cross-sections have the same total area, which will make a stronger column?" type="MultipleChoice" show_correctness="never">
+      <choice correct="false">Column A, solid square</choice>
+      <choice correct="true">Column B, hollow square</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,9 @@
+<video youtube="1.00:DRMg2nld_Os" url_name="c48bc217ca7e46639a12e1c97bbeab8e" display_name="Lesson: Bending Stress in Beams (Video 3:30)" download_track="true" download_video="true" edx_video_id="90f58739-007c-4b7d-ba07-3164c466eb3d" html5_sources="[]" sub="DRMg2nld_Os" track="/static/C5_LessonBendingStressInBeams.pdf" youtube_id_1_0="DRMg2nld_Os">
+  <track src="/static/C5_LessonBendingStressInBeams.pdf"/>
+  <video_asset client_video_id="C5_LessonBendingStressInBeams2.mp4" duration="210.14">
+    <encoded_video bitrate="246" file_size="6465899" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004400_MB1.mp4"/>
+    <encoded_video bitrate="194" file_size="5104100" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004400_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="DRMg2nld_Os"/>
+    <encoded_video bitrate="427" file_size="11235109" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004400_DTH.mp4"/>
+  </video_asset>
+</video>

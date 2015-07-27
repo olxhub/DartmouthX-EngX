@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 6" markdown="&gt;&gt;Do you expect a long, slender column to fail in compression or by buckling?&lt;&lt;&#10;     ( ) Compression&#10;     (x) Buckling&#10;     &#10;[explanation]&#10;Explanation: A long, slender column is more likely to buckle. As the height increases the buckling load decreases and as the cross-section becomes smaller the moment of inertia decreases as does the buckling load.&#10;[explanation]&#10;" max_attempts="1">
+<p>Do you expect a long, slender column to fail in compression or by buckling?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect a long, slender column to fail in compression or by buckling?" type="MultipleChoice">
+    <choice correct="false">Compression</choice>
+    <choice correct="true">Buckling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: A long, slender column is more likely to buckle. As the height increases the buckling load decreases and as the cross-section becomes smaller the moment of inertia decreases as does the buckling load.</p>
+
+</div>
+</solution>
+
+</problem>

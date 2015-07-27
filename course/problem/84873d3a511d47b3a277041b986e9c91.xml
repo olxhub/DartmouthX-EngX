@@ -1,0 +1,13 @@
+<problem display_name="Knowledge Check 14" markdown="null" max_attempts="2">
+<p>Where along the height of the cross-section of a cantilever beam with a point load at the end will the tensile stress be greatest?</p>
+  <img src="/static/C5_KC14.jpg" width="600"/>
+<multiplechoiceresponse>
+  <choicegroup label="Where along the height of the cross-section of cantilever beam with a point load at the end will the tensile stress be greatest?" type="MultipleChoice">
+    <choice correct="true">at the top of the cross-section - Point A</choice>
+    <choice correct="false">at the midpoint of the cross-section - Point B</choice>
+    <choice correct="false">at the bottom of the cross-section - Point C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

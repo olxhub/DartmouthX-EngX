@@ -1,0 +1,20 @@
+<problem display_name="Question 10" markdown="null" max_attempts="1">
+<p>What is the compressive force in an anti-funicular arch that spans 75m, is 25m high at the center and supports a load of 50kN/m.</p>
+
+<multiplechoiceresponse>
+  <choicegroup label="What is the compressive force in an anti-funicular arch that spans 75m, is 25m high at the center and supports a load of 50kN/m." type="MultipleChoice">
+    <choice correct="false">52.1 kN</choice>
+    <choice correct="false">351.6 kN</choice>
+    <choice correct="true">1406.3 kN</choice>
+    <choice correct="false">2812.5 kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+  <p><img src="/static/C3_CYUAns10.png" width="600"/></p>
+</div>
+</solution>
+</problem>

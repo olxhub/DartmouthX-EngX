@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 5" markdown="null" max_attempts="1">
+<p>Is the truss shown below statically determinate or statically indeterminate? The black dots represent pinned joints used to join two or more members.</p>
+  <p><img src="/static/C4_TrussesKC5.JPG" alt="Truss image" width="350"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="Is the truss shown below statically determinate or statically indeterminate? The black dots represent pinned joints used to join two or more members." type="MultipleChoice">
+    <choice correct="true">Statically determinate</choice>
+    <choice correct="false">Statically indeterminate</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>This truss is statically determinate since the number of unknowns equals the number of equations available. The number of unknowns = 3 unknown reaction forces (one at the roller connection, represented by an open circle, and two at the pinned connection, represented by an open triangle) plus 13 unknown bar forces (one unknown bar force per truss member) = 16 unknowns. The number of equations available to solve for these unknowns = 2*number of joints = 2*8 = 16 equations. </p>
+
+</div>
+</solution>
+
+</problem>

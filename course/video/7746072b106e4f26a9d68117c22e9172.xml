@@ -1,0 +1,9 @@
+<video youtube="1.00:kaKUHU3YYzY" url_name="7746072b106e4f26a9d68117c22e9172" display_name="Lesson: Lateral Force-Resisting Systems (Video 9:10)" download_track="true" download_video="true" edx_video_id="d9cb490d-b006-43ec-ad01-ea20d45e3eaf" html5_sources="[]" sub="kaKUHU3YYzY" track="/static/C6_LessonLateralForceResistingSystems.pdf" youtube_id_1_0="kaKUHU3YYzY">
+  <track src="/static/C6_LessonLateralForceResistingSystems.pdf"/>
+  <video_asset client_video_id="C6_LessonLateralForceResistingSystems.mp4" duration="550.66">
+    <encoded_video bitrate="174" file_size="12017396" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004900_MB2.mp4"/>
+    <encoded_video bitrate="474" file_size="32690375" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004900_DTH.mp4"/>
+    <encoded_video bitrate="283" file_size="19524984" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004900_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="kaKUHU3YYzY"/>
+  </video_asset>
+</video>

@@ -1,0 +1,22 @@
+<problem display_name="Question 8" markdown="&gt;&gt;Arches primarily resist what type of force?&lt;&lt;&#10;( ) Tension&#10;(x) Compression&#10;( ) Shear&#10;( ) Bending&#10;&#10;[explanation]&#10;Explanation: arches primarily resist compression forces.&#10;[explanation]&#10;&#10;" max_attempts="2">
+<p>Arches primarily resist what type of force?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Arches primarily resist what type of force?" type="MultipleChoice">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Shear</choice>
+    <choice correct="false">Bending</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: arches primarily resist compression forces.</p>
+
+</div>
+</solution>
+
+
+</problem>

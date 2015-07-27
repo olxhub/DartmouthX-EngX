@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 6" markdown="null" max_attempts="2" showanswer="finished">
+<p>Which of the beams shown below is over-restrained (too many supports)?</p>
+  <img src="/static/C5_KC1.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the beams shown below is over-restrained (too many supports)?" type="MultipleChoice">
+    <choice correct="false">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="true">C</choice>
+    <choice correct="false">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Beam C is over-restrained. Three support forces are required to fully restrict the motion of a beam. Beams a, b, and d each have three support forces but beam c has four support forces.</p>
+
+</div>
+</solution>
+
+</problem>

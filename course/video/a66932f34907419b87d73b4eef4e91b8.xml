@@ -1,0 +1,10 @@
+<video youtube="1.00:-VrAinXULUc" url_name="a66932f34907419b87d73b4eef4e91b8" display_name="Example: Basic Steel Column (Video 06:03)" download_track="true" download_video="true" edx_video_id="ee1752eb-9284-4678-8cac-f87f13439822" html5_sources="[]" sub="-VrAinXULUc" track="/static/C3_ExampleBasicSteelColumn.pdf" youtube_id_1_0="-VrAinXULUc">
+  <track src="/static/C3_ExampleBasicSteelColumn.pdf"/>
+  <video_asset client_video_id="C3_ExampleBasicSteelColumn.mp4" duration="362.51">
+    <encoded_video bitrate="949" file_size="43019989" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002900_DTH.mp4"/>
+    <encoded_video bitrate="393" file_size="17829602" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002900_MB1.mp4"/>
+    <encoded_video bitrate="1098" file_size="49792519" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002900_DTH.webm"/>
+    <encoded_video bitrate="185" file_size="8419279" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002900_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="-VrAinXULUc"/>
+  </video_asset>
+</video>

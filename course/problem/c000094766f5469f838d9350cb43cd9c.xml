@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 3" markdown="&gt;&gt;True or False? You should never change your design goal.&lt;&lt;&#10;&#9;( ) True&#10;    (x) False&#10;&#10;     &#10;[explanation]&#10;You should continually re-visit and refine your design goal!&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="1">
+<p>True or False? You should never change your design goal.</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False? You should never change your design goal." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You should continually re-visit and refine your design goal!</p>
+
+</div>
+</solution>
+
+
+</problem>

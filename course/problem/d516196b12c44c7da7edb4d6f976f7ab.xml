@@ -1,0 +1,18 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" weight="0.0">
+  <p>If the height of the column in problem 1 is reduced to 2.5m, what is the buckling load?   </p>
+  <multiplechoiceresponse>
+    <choicegroup label="If the height of the column in problem 1 is reduced to 2.5m, what is the buckling load?   " type="MultipleChoice">
+      <choice correct="false">P<sub>cr</sub>= 68.0kN</choice>
+      <choice correct="false">P<sub>cr</sub>= 85.3kN</choice>
+      <choice correct="false">P<sub>cr</sub>= 145.2kN</choice>
+      <choice correct="true">P<sub>cr</sub>= 341.1kN</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation:</p>
+      <p>Decreasing the height results in an increase in the buckling load; thus, the column is able to support a higher load. Shorter columns typically support more load.</p>
+      <img src="/static/C3_Problem2Ans.jpg" width="600" alt="Pcr = (pi^2*E*I)/L^2. E=200x106kN/m^2, I=(0.06m)4/12=1.08x10-6m^4, L=2.5m."/>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,22 @@
+<problem display_name="Finding 2" markdown="&gt;&gt;What happens to the allowable load when the span of a funicular form is increased?&lt;&lt;&#10;     (x) The allowable load decreases&#10;     ( ) The allowable load increases&#10;     ( ) The allowable load remains the same&#10;     &#10;[explanation]&#10;As the cable becomes closer to horizontal, the force, &lt;strong&gt;&lt;em&gt;F&lt;/em&gt;&lt;/strong&gt;, in the cable increases and thus the allowable load decreases.&#10;[explanation]&#10;&#10;" max_attempts="2" weight="0.0">
+<p>What happens to the allowable load when the span of a funicular form is increased?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What happens to the allowable load when the span of a funicular form is increased?" type="MultipleChoice">
+    <choice correct="true">The allowable load decreases</choice>
+    <choice correct="false">The allowable load increases</choice>
+    <choice correct="false">The allowable load remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the cable becomes closer to horizontal, the force, <strong><em>F</em></strong>, in the cable increases and thus the allowable load decreases.</p>
+
+</div>
+</solution>
+
+
+</problem>

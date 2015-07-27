@@ -1,0 +1,10 @@
+<video youtube="1.00:151NCsvYD6M" url_name="f19b1ddd4368472a975aeb8b21c413b1" display_name="Case Study: Leverone Field House (Video 00:58)" download_track="true" download_video="true" edx_video_id="4f746273-a23c-4669-b29a-3f8a3c1ea6aa" html5_sources="[]" sub="151NCsvYD6M" track="/static/C3_ExampleLeverone.pdf" youtube_id_1_0="151NCsvYD6M">
+  <track src="/static/C3_ExampleLeverone.pdf"/>
+  <video_asset client_video_id="C3_ExampleLeverone.mp4" duration="57.17">
+    <encoded_video bitrate="1117" file_size="7988310" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002300_DTH.webm"/>
+    <encoded_video bitrate="239" file_size="1711094" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002300_MB2.mp4"/>
+    <encoded_video bitrate="641" file_size="4582961" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002300_MB1.mp4"/>
+    <encoded_video bitrate="1750" file_size="12512562" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002300_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="151NCsvYD6M"/>
+  </video_asset>
+</video>

@@ -1,0 +1,42 @@
+<problem display_name="Question 1" markdown="null" max_attempts="1">
+  <script type="loncapa/python"> 
+import re 
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 1
+</script>
+  <span id="C4WDYTGroupA"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#C4WDYTGroupA") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>What is the most interesting thing you learned about shear and bending?</p>
+  <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Great! Your submission has been received <img src="/static/aaa_checkmark.png"/> </p>
+    </div>
+  </solution>
+</problem>

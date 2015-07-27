@@ -1,0 +1,10 @@
+<video youtube="1.00:YQVNS-ItfvY" url_name="f17566185f7f4a2586879e33f776f3b3" display_name="Build Anti-funicular Forms (Video 04:00)" download_track="true" download_video="true" edx_video_id="5ff8ecc8-a440-4f69-9026-c8250c6d7adb" html5_sources="[]" sub="YQVNS-ItfvY" track="/static/C3_BuildAntifunicularForms.pdf" youtube_id_1_0="YQVNS-ItfvY">
+  <track src="/static/C3_BuildAntifunicularForms.pdf"/>
+  <video_asset client_video_id="C3_BuildAntifunicularForms.mp4" duration="239.14">
+    <encoded_video bitrate="768" file_size="22966271" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002800_MB1.mp4"/>
+    <encoded_video bitrate="1999" file_size="59766658" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002800_DTH.mp4"/>
+    <encoded_video bitrate="278" file_size="8321226" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002800_MB2.mp4"/>
+    <encoded_video bitrate="1081" file_size="32336691" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="YQVNS-ItfvY"/>
+  </video_asset>
+</video>

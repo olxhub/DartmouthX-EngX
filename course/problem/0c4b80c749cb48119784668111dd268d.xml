@@ -1,0 +1,24 @@
+<problem display_name="Question 5" markdown="null" max_attempts="1">
+
+<p>If the height of a truss decreases, what happens to the magnitude of the forces in the diagonal members of the truss shown below in green?
+ </p>
+  <p><img src="/static/C4_CYUQ5.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="If the height of a truss decreases, what happens to the magnitude of the forces in the diagonal members of the truss shown below in green?" type="MultipleChoice">
+    <choice correct="true">The force in these diagonal members will increase</choice>
+    <choice correct="false">The force in these diagonal members will decrease</choice>
+    <choice correct="false">The force in these diagonal members will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the height decreases the force in these diagonal members will increase. Similarly to funicular forms, as the height decreases the force increase since less of the force in the bar or truss member will resist the applied vertical loads.
+</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="Question 6" markdown="null" max_attempts="1">
+  <p>The towers of a suspension bridge must resist what types of forces?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The towers of a suspension bridge must resist what types of forces?" type="MultipleChoice">
+      <choice correct="false">Primarily only</choice>
+      <choice correct="true">Primarily Compression</choice>
+      <choice correct="false">Tension and bending</choice>
+      <choice correct="false">Shear</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The main cables of a suspension bridge are typically anchored to abutments rather than to the tower, thus mainly compressive forces are induced in the tower. </p>
+    </div>
+  </solution>
+</problem>

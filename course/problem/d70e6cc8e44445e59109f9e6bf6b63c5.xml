@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 13" markdown="null" max_attempts="2">
+<p>Should the longer dimension of a rectangular beam be oriented vertically or horizontally to minimize the deflection due to a vertical load?</p>
+  <img src="/static/C5_KC13.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the bending moments along the length of the beam? Assume the loading remains the same." type="MultipleChoice">
+    <choice correct="true">A - Longer dimension oriented vertically</choice>
+    <choice correct="false">B - Longer dimension oriented horizontally</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Orienting the longer dimension vertically will result in smaller deflections - try it!</p>
+
+</div>
+</solution>
+
+</problem>

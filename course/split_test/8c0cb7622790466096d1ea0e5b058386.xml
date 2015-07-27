@@ -1,0 +1,4 @@
+<split_test group_id_to_child="{&quot;602361593&quot;: &quot;i4x://DartmouthX/DART.ENGS.01.X/vertical/907f60d629f3417a8c747cec2b39dfe9&quot;, &quot;756465564&quot;: &quot;i4x://DartmouthX/DART.ENGS.01.X/vertical/84bd3029f340426f986001f34a71b7f9&quot;}" user_partition_id="164211874" display_name="What do you think Content Experiment">
+  <vertical url_name="907f60d629f3417a8c747cec2b39dfe9"/>
+  <vertical url_name="84bd3029f340426f986001f34a71b7f9"/>
+</split_test>

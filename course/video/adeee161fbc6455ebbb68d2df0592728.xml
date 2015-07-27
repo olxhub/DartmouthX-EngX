@@ -1,0 +1,10 @@
+<video youtube="1.00:m8nx92UBShM" url_name="adeee161fbc6455ebbb68d2df0592728" display_name="Lesson: Funicular Forms (Video 6:57)" download_track="true" download_video="true" edx_video_id="9722ca27-ab51-4b6d-bfd5-beff00f092cb" html5_sources="[]" sub="m8nx92UBShM" track="/static/C2_LessonFunicularForms.pdf" youtube_id_1_0="m8nx92UBShM">
+  <track src="/static/C2_LessonFunicularForms.pdf"/>
+  <video_asset client_video_id="C2_LessonFunicularForms.mp4" duration="416.94">
+    <encoded_video bitrate="194" file_size="10148752" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001700_MB2.mp4"/>
+    <encoded_video bitrate="989" file_size="51587578" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001700_DTH.mp4"/>
+    <encoded_video bitrate="406" file_size="21162877" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001700_MB1.mp4"/>
+    <encoded_video bitrate="1065" file_size="55523323" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="m8nx92UBShM"/>
+  </video_asset>
+</video>

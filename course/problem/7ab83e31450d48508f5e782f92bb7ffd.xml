@@ -1,0 +1,19 @@
+<problem display_name="Finding 2" markdown="&gt;&gt;As you increase the mass of the SDOF system, what happens to the frequency?&lt;&lt;&#10;&#10;( ) The frequency increases&#10;(x) The frequency decreases&#10;( ) The frequency remains the same&#10;&#10;[explanation]&#10;As you increase the mass, the frequency or rate of oscillations decreases. More mass causes the system to oscillate more slowly.&#10;[explanation]" max_attempts="3" weight="0.0">
+<p>As you increase the mass of the SDOF system, what happens to the frequency?</p>
+<multiplechoiceresponse>
+  <choicegroup label="As you increase the mass of the SDOF system, what happens to the frequency?" type="MultipleChoice">
+    <choice correct="false">The frequency increases</choice>
+    <choice correct="true">The frequency decreases</choice>
+    <choice correct="false">The frequency remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As you increase the mass, the frequency or rate of oscillations decreases. More mass causes the system to oscillate more slowly.</p>
+
+</div>
+</solution>
+</problem>

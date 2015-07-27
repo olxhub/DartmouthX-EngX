@@ -1,0 +1,10 @@
+<video youtube="1.00:sz9VCaeXRro" url_name="3818f8c05cb5465e831ae255969378e1" display_name="Why Do We Care About Tension (Video 3:26)" download_track="true" download_video="true" edx_video_id="5a56d794-9f54-477b-89a2-4a7750c39bc0" html5_sources="[]" sub="sz9VCaeXRro" track="/static/C2_WhyDoWeCareAboutTension.pdf" youtube_id_1_0="sz9VCaeXRro">
+  <track src="/static/C2_WhyDoWeCareAboutTension.pdf"/>
+  <video_asset client_video_id="C2_WhyDoWeCareAboutTension.mp4" duration="205.84">
+    <encoded_video bitrate="348" file_size="8976890" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001600_MB1.mp4"/>
+    <encoded_video bitrate="207" file_size="5332179" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001600_MB2.mp4"/>
+    <encoded_video bitrate="761" file_size="19596293" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001600_DTH.mp4"/>
+    <encoded_video bitrate="1035" file_size="26654309" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="sz9VCaeXRro"/>
+  </video_asset>
+</video>

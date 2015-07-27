@@ -1,0 +1,24 @@
+<problem display_name="Knowledge Check 16" markdown="&gt;&gt;What type of lateral force-resisting system does the Wainwright Building in St. Louis use?&lt;&lt;&#10;&lt;img src=&quot;/static/C6_WainrightBuilding.jpg&quot; alt=&quot;Wainwright Building&quot; width=&quot;400&quot; /&gt;&#10;&#10;(x) a moment-resisting frame&#10;( ) a braced frame&#10;( ) a shearwall&#10;( ) a tube-framed system&#10;( ) don’t know&#10;&#10;[explanation]&#10;&lt;img src=&quot;/static/C6_WainrightBuilding2.jpg&quot; alt=&quot;Wainwright Building&quot; width=&quot;400&quot; /&gt;&#10;The Wainwright building was one of the first taller buildings and like most of the early buildings used a moment-resisting steel frame.&#10;[explanation]&#10;" max_attempts="2">
+<p>What type of lateral force-resisting system does the Wainwright Building in St. Louis use?</p>
+<img src="/static/C6_WainrightBuilding.jpg" alt="Wainwright Building" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="What type of lateral force-resisting system does the Wainwright Building in St. Louis use?" type="MultipleChoice">
+    <choice correct="true">a moment-resisting frame</choice>
+    <choice correct="false">a braced frame</choice>
+    <choice correct="false">a shearwall</choice>
+    <choice correct="false">a tube-framed system</choice>
+    <choice correct="false">don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<img src="/static/C6_WainrightBuilding2.jpg" alt="Wainwright Building" width="400"/>
+<p>The Wainwright building was one of the first taller buildings and like most of the early buildings used a moment-resisting steel frame.</p>
+
+</div>
+</solution>
+
+</problem>

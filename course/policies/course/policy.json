@@ -1,0 +1,104 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "split_test"
+        ], 
+        "allow_anonymous": false, 
+        "catalog_visibility": "both", 
+        "course_image": "asset-v1-DartmouthX+DART.ENGS.01.X+2015_T2+type@asset+block@DART.ENGS.01.X_Thumbnail.jpg", 
+        "days_early_for_beta": 60.0, 
+        "discussion_topics": {
+            "A Course FAQ": {
+                "id": "i4x-DartmouthX-DART_ENGS_01_X-course-course_FAQ"
+            }, 
+            "Interest Groups": {
+                "id": "i4x-DartmouthX-DART_ENGS_01_X-course-course_InterestGroup"
+            }
+        }, 
+        "display_coursenumber": null, 
+        "display_name": "The Engineering of Structures Around Us", 
+        "end": "2015-06-19T23:59:00Z", 
+        "graceperiod": "", 
+        "info_sidebar_name": " ", 
+        "mobile_available": true, 
+        "showanswer": "finished", 
+        "start": "2015-05-05T13:30:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "name": "Syllabus", 
+                "type": "static_tab", 
+                "url_slug": "0f2332a395864d9fb070406fcfc76c3b"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Course Video", 
+                "type": "static_tab", 
+                "url_slug": "4799d952c5ef4931b41e5d1f7bb763f9"
+            }, 
+            {
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Community", 
+                "type": "static_tab", 
+                "url_slug": "ed8800f2412448e6a519350e332dbac1"
+            }, 
+            {
+                "name": "Course Team", 
+                "type": "static_tab", 
+                "url_slug": "ac482c3390964100aef7d96559da4e06"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }
+        ], 
+        "user_partitions": [
+            {
+                "description": "Two groups to test effects of inquiry-based learning on outcomes. Group A receives pre-content questions (mostly inside \"What do you think\" and \"Owl's Problem\"), whereas Group B doesn't. ", 
+                "groups": [
+                    {
+                        "id": 602361593, 
+                        "name": "Group A", 
+                        "version": 1
+                    }, 
+                    {
+                        "id": 756465564, 
+                        "name": "Group B", 
+                        "version": 1
+                    }
+                ], 
+                "id": 164211874, 
+                "name": "A/B Inquiry Experiment", 
+                "scheme": "random", 
+                "version": 2
+            }
+        ], 
+        "video_upload_pipeline": {
+            "course_video_upload_token": "7196a447bd8211e488f3685b35c5f98f"
+        }, 
+        "xml_attributes": {
+            "filename": [
+                "course/2014.xml", 
+                "course/2014.xml"
+            ]
+        }
+    }
+}

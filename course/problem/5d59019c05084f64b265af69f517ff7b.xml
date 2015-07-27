@@ -1,0 +1,12 @@
+<problem display_name="Query 5" markdown="null" max_attempts="1" showanswer="never">
+<p>Will it be easier to hold your arm out horizontally and support a book near your hand or near your shoulder?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Will it be easier to hold your arm out horizontally and support a book near your hand or near your shoulder?" type="MultipleChoice" show_correctness="never">
+    <choice correct="false">Near your hand</choice>
+    <choice correct="true">Near your shoulder</choice>
+    <choice correct="false">No difference</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

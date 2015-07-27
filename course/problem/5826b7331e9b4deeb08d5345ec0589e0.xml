@@ -1,0 +1,24 @@
+<problem display_name="Finding 2" markdown="Same set-up as above:&#10;Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. &#10;&#10;&gt;&gt;Where along the length of the beam is the moment the greatest?&lt;&lt;&#10;( ) At the supports&#10;( ) At the quarter point&#10;(x) At the midspan&#10;( ) None of the above&#10;&#10;&#10;&#10;[explanation]&#10;The bending moment is greatest at the midspan or middle of the beam. Moment tends to increase as the distance from the support or load increases. &#10;[explanation]&#10;" showanswer="always" weight="0.0">
+<p>Same set-up as above:</p>
+<p>Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. </p>
+
+<p>Where along the length of the beam is the moment the greatest?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Where along the length of the beam is the moment the greatest?" type="MultipleChoice">
+    <choice correct="false">At the supports</choice>
+    <choice correct="false">At the quarter point</choice>
+    <choice correct="true">At the midspan</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The bending moment is greatest at the midspan or middle of the beam. Moment tends to increase as the distance from the support or load increases. </p>
+
+</div>
+</solution>
+
+</problem>

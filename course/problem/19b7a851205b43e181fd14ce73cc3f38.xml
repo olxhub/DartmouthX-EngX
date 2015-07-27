@@ -1,0 +1,15 @@
+<problem display_name="Question 5" markdown="null" max_attempts="1">
+  <p>The form taken by the main cables of a suspension bridge is called: </p>
+  <p/>
+  <center>
+    <img src="/static/C2_SuspensionBridge.jpg"/>
+  </center>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the form taken by the main cables of a suspension bridge called?" type="MultipleChoice">
+      <choice correct="true">A Parabola</choice>
+      <choice correct="false">A Polynomial</choice>
+      <choice correct="false">A Catenary</choice>
+      <choice correct="false">A Semi-circle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

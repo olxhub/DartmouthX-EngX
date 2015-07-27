@@ -1,0 +1,10 @@
+<video youtube="1.00:bq8YMD5obz8" url_name="eda9565fa4824c8d96f3c272b59c89f6" display_name="Example: Funicular Form (Video 3:33)" download_track="true" download_video="true" edx_video_id="ca90b176-2f78-4c88-b3e0-1cd542c2f943" html5_sources="[]" sub="bq8YMD5obz8" track="/static/C2_ExampleFunicularForm.pdf" youtube_id_1_0="bq8YMD5obz8">
+  <track src="/static/C2_ExampleFunicularForm.pdf"/>
+  <video_asset client_video_id="C2_ExampleFunicularForm.mp4" duration="212.56">
+    <encoded_video bitrate="1124" file_size="29880786" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000900_DTH.mp4"/>
+    <encoded_video bitrate="204" file_size="5439115" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000900_MB2.mp4"/>
+    <encoded_video bitrate="1075" file_size="28584683" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000900_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="bq8YMD5obz8"/>
+    <encoded_video bitrate="500" file_size="13305324" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000900_MB1.mp4"/>
+  </video_asset>
+</video>

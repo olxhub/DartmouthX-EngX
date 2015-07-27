@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 1" markdown="&gt;&gt;True or False? The steps in the Design Thinking Process should always be followed in order or linearly.&lt;&lt;&#10;&#9;( ) True&#10;    (x) False&#10;&#10;     &#10;[explanation]&#10;The design thinking process is often nonlinear and iterative.&#10;[explanation]&#10;" max_attempts="1">
+<p>True or False? The steps in the Design Thinking Process should always be followed in order or linearly.</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False? The steps in the Design Thinking Process should always be followed in order or linearly." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The design thinking process is often nonlinear and iterative.</p>
+
+</div>
+</solution>
+
+</problem>

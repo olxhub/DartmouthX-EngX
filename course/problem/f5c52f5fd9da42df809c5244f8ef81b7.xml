@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;True or False? The cables of a suspension bridge are connected directly from the deck to the towers?&lt;&lt;&#10;     ( ) True&#10;     (x) False&#10;     &#10;     [explanation]&#10;False. The suspension cables of a suspension bridge are connected to the deck but then to main cables, which then typically are draped over the towers.&#10;[explanation]&#10;&#10;&#10;&#10;&#10;&#10;&#10;" max_attempts="1">
+<p>True or False? The cables of a suspension bridge are connected directly from the deck to the towers?</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False? The cables of a suspension bridge are connected directly from the deck to the towers?" type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+     <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>False. The suspension cables of a suspension bridge are connected to the deck but then to main cables, which then typically are draped over the towers.</p>
+
+</div>
+</solution>
+
+
+
+</problem>

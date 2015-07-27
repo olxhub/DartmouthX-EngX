@@ -1,0 +1,19 @@
+<problem display_name="Problem 3" markdown="&gt;&gt;For the beam bridge example we used a beam with a solid rectangular cross-section. Would using a beam with a hollow rectangular cross-section be more or less efficient? Assume that by efficient we mean that the total volume of material would be less.&lt;&lt;&#10;( ) A hollow rectangular cross-section would be less efficient&#10;(x) A hollow rectangular cross-section would be more efficient&#10;( ) A hollow rectangular cross-section would be equally efficient&#10;&#10;&#10;[explanation]&#10;Using a hollow rectangular cross-section would result in more of the mass of the cross-section being further from the center. The hollow cross-section would have a higher moment of inertia and would be better able to resist bending and would thus has a smaller required cross-sectional area and volume.&#10;&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>For the beam bridge example we used a beam with a solid rectangular cross-section. Would using a beam with a hollow rectangular cross-section be more or less efficient? Assume that by efficient we mean that the total volume of material would be less.</p>
+<multiplechoiceresponse>
+  <choicegroup label="For the beam bridge example we used a beam with a solid rectangular cross-section. Would using a beam with a hollow rectangular cross-section be more or less efficient? Assume that by efficient we mean that the total volume of material would be less." type="MultipleChoice">
+    <choice correct="false">A hollow rectangular cross-section would be less efficient</choice>
+    <choice correct="true">A hollow rectangular cross-section would be more efficient</choice>
+    <choice correct="false">A hollow rectangular cross-section would be equally efficient</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Using a hollow rectangular cross-section would result in more of the mass of the cross-section being further from the center. The hollow cross-section would have a higher moment of inertia and would be better able to resist bending and would thus has a smaller required cross-sectional area and volume.</p>
+</div>
+</solution>
+
+</problem>

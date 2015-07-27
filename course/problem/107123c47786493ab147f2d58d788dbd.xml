@@ -1,0 +1,12 @@
+<problem display_name="Query 3" markdown="null" max_attempts="1" showanswer="never">
+<legend>Which system, a braced frame or a moment-resisting frame, do you expect to deflect the least under a lateral load?</legend>
+  <img src="/static/C6_wdytQ2.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which system, a braced frame or a moment-resisting frame, do you expect to deflect the least under a lateral load?" type="MultipleChoice" show_correctness="never">
+    <choice correct="true">Braced frame will deflect less</choice>
+    <choice correct="false">Moment-resisting frame will deflect less</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

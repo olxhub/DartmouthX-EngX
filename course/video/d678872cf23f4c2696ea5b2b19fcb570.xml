@@ -1,0 +1,10 @@
+<video youtube="1.00:oRI7kYDK8sU" url_name="d678872cf23f4c2696ea5b2b19fcb570" display_name="Start Here (Video 04:59)" download_track="true" download_video="true" edx_video_id="e3ffcea2-6bbc-45a1-acd5-3bcac0f7f1b0" html5_sources="[]" sub="oRI7kYDK8sU" track="/static/C1_CourseTour.pdf" youtube_id_1_0="oRI7kYDK8sU">
+  <track src="/static/C1_CourseTour.pdf"/>
+  <video_asset client_video_id="C1_CourseTour.mp4" duration="298.54">
+    <encoded_video bitrate="140" file_size="5257967" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003700_MB2.mp4"/>
+    <encoded_video bitrate="921" file_size="34398000" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="oRI7kYDK8sU"/>
+    <encoded_video bitrate="253" file_size="9470530" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003700_DTH.mp4"/>
+    <encoded_video bitrate="215" file_size="8043982" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003700_MB1.mp4"/>
+  </video_asset>
+</video>

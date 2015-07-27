@@ -1,0 +1,49 @@
+<problem display_name="What do you think of Owl's solution?" markdown="null" max_attempts="3" showanswer="attempted">
+  <script type="loncapa/python"> 
+import re 
+   
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 0
+
+   
+</script>
+  <span id="anchor_change_my_id_for_each_one_on_the_page"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_change_my_id_for_each_one_on_the_page") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>
+    <strong>What principles from Concept 2 has Owl used in the design of the bridge to the second tree? What other types of bridges could Owl have designed and built? What are the advantages and disadvantages to the design that Owl chose? </strong>
+  </p>
+  <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Owl designed and built a cable-stayed bridge. They are popular these days, so I’m not surprised. Owl decided to use a harp design, with all of the cables evenly spaced along the height of the tower; this made the calculations a bit easier since all of the cables were at the same angle. Owl could have also used a fan design for the cables, with all of the cable connected to the tower at a single point. Owl used both of the trees as towers but could have used a single tree/tower. Other options for bridges that use tension include a rope bridge and a suspension bridge but bridges of other types (beams, arches, trusses) are options as well. </p>
+      <p/>
+    </div>
+  </solution>
+
+</problem>

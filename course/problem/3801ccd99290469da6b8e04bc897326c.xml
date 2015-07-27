@@ -1,0 +1,25 @@
+<problem display_name="Knowledge Check 10" markdown="null" max_attempts="2" weight="1.0">
+
+<p>If the height of a truss increases, what happens to the magnitude of the forces in the diagonal members of the truss shown below in green?</p>
+  <p><img src="/static/C4_TaftsvillKC5.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="If the height of a truss increases, what happens to the magnitude of the forces in the diagonal members of the truss shown below in green?" type="MultipleChoice">
+    <choice correct="false">The force in these diagonal members will increase</choice>
+    <choice correct="true">The force in these diagonal members will decrease</choice>
+    <choice correct="false">The force in these diagonal members will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the height increases the force in these diagonal members will decrease. Similarly to funicular forms, as the height increases, more of the force in the bar or truss member will resist the applied vertical loads.
+
+
+</p>
+
+</div>
+</solution>
+
+</problem>

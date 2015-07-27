@@ -1,0 +1,22 @@
+<problem display_name="Question 6" markdown="&gt;&gt;Where will the bending moment be greatest in a simply-supported beam with a point load at the center?&lt;&lt;&#10;&#10;&lt;img src=&quot;/static/C5_CYU_Q56.jpg&quot; width=&quot;500&quot; /&gt;&#10;&#10;( ) Point A&#10;(x) Point B&#10;( ) Point C&#10;&#10;&#10;&#10;[explanation]&#10;The bending moment is greatest at the center of the beam.&#10;[explanation]&#10;" max_attempts="1">
+<p>Where will the bending moment be greatest in a simply-supported beam with a point load at the center?</p>
+
+<img src="/static/C5_CYU_Q56.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="Where will the bending moment be greatest in a simply-supported beam with a point load at the center?" type="MultipleChoice">
+    <choice correct="false">Point A</choice>
+    <choice correct="true">Point B</choice>
+    <choice correct="false">Point C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The bending moment is greatest at the center of the beam.</p>
+
+</div>
+</solution>
+
+</problem>

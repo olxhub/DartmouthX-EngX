@@ -1,0 +1,29 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" weight="0.0">
+<table>
+    <tr width="95%">
+      <td width="50%">
+        <p>Given a funicular form with a height of 4m and a span of 8m (half of the span is 4m) and a load of 5kN, what is the force in the cable in kN?</p>
+        <p><em>This problem was previously open answer and we have changed it to multiple choice based on feedback.</em></p>
+      </td>
+      <td width="50%">
+        <img src="/static/C2_Prob1.jpg" width="400" alt="diagram"/>
+      </td>
+    </tr>
+  </table>
+
+<multiplechoiceresponse>
+  <choicegroup label="Given a funicular form with a height of 4m and a span of 8m (half of the span is 4m) and a load of 5kN, what is the force in the cable in kN?" type="MultipleChoice">
+    <choice correct="false">1.11 kN</choice>
+    <choice correct="false">2.80 kN</choice>
+    <choice correct="true">3.54 kN</choice>
+    <choice correct="false">7.07 kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+ <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <img src="/static/C2_FFProb1.jpg" width="600" alt="angle = 45degrees,  F=5kN/(2*sin(45)) = 3.54kN"/>
+    </div>
+  </solution>
+</problem>

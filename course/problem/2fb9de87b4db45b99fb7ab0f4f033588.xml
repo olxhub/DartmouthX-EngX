@@ -1,0 +1,19 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt; The mass of a building is often lumped at the floor level?&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;[explanation]&#10;Most of the mass of a building is located at the floor levels since this is the location of the people, equipment, etc within the building plus the weight of the beams themselves.&#10;[explanation]&#10;" max_attempts="1">
+<p> The mass of a building is often lumped at the floor level?</p>
+<multiplechoiceresponse>
+  <choicegroup label=" The mass of a building is often lumped at the floor level?" type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Most of the mass of a building is located at the floor levels since this is the location of the people, equipment, etc within the building plus the weight of the beams themselves.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,11 @@
+<video youtube="1.00:5Oeje1i1MG4" url_name="471b638e914240d09134c842eee08fda" display_name="Why do we care about compression? (Video 00:30)" download_track="true" download_video="true" edx_video_id="01b57077-c2ae-4fb9-8d72-face8858a310" html5_sources="[&quot;&quot;]" sub="5Oeje1i1MG4" track="/static/C3_WhyDoWeCareAboutCompressio.pdf" youtube_id_1_0="5Oeje1i1MG4">
+  <source src=""/>
+  <track src="/static/C3_WhyDoWeCareAboutCompressio.pdf"/>
+  <video_asset client_video_id="C3_WhyDoWeCareAboutCompression.mp4" duration="29.98">
+    <encoded_video bitrate="1086" file_size="4071645" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001900_DTH.webm"/>
+    <encoded_video bitrate="187" file_size="704321" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001900_MB2.mp4"/>
+    <encoded_video bitrate="389" file_size="1461777" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001900_MB1.mp4"/>
+    <encoded_video bitrate="858" file_size="3219822" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001900_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="5Oeje1i1MG4"/>
+  </video_asset>
+</video>

@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 15" markdown="&gt;&gt;The neutral axis of a beam is:&lt;&lt;&#10;( ) The axis of zero load&#10;(x) The axis of zero stress&#10;( ) The axis of zero shear force&#10;( ) The axis of zero bending moment&#10;&#10;[explanation]&#10;The neutral axis of a beam is the axis or line of zero stress in a beam.&#10;[explanation]&#10;" max_attempts="2">
+<p>The neutral axis of a beam is:</p>
+<multiplechoiceresponse>
+  <choicegroup label="The neutral axis of a beam is:" type="MultipleChoice">
+    <choice correct="false">The axis of zero load</choice>
+    <choice correct="true">The axis of zero stress</choice>
+    <choice correct="false">The axis of zero shear force</choice>
+    <choice correct="false">The axis of zero bending moment</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The neutral axis of a beam is the axis or line of zero stress in a beam.</p>
+
+</div>
+</solution>
+
+</problem>

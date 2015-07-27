@@ -1,0 +1,20 @@
+<problem display_name="Observation 1" markdown="&gt;&gt;Generally, a taller column will support more load than a shorter column.&lt;&lt;&#10;     ( ) True&#10;     (X) False&#10;     &#10;[explanation]&#10;A shorter column will support more load. A taller column is more likely to buckle.&#10;[explanation]&#10;" max_attempts="3" showanswer="attempted" weight="0.0">
+<p>Generally, a taller column will support more load than a shorter column.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Generally, a taller column will support more load than a shorter column." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A shorter column will support more load. A taller column is more likely to buckle.</p>
+
+</div>
+</solution>
+
+</problem>

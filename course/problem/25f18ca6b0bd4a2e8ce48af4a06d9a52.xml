@@ -1,0 +1,21 @@
+<problem display_name="Finding 3" markdown="&gt;&gt;The column I’ve designed fails in compression. If I decrease the height of the column, what happens to the allowable load?&lt;&lt;&#10;&#10;( ) The allowable load will decrease&#10;( ) The allowable load will increase&#10;(x) The allowable load will remain the same&#10;     &#10;[explanation]&#10;Compression failures are governed only by the force and cross-sectional area, height is not a factor (beyond self-weight…).&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>The column I’ve designed fails in compression. If I decrease the height of the column, what happens to the allowable load?</p>
+<multiplechoiceresponse>
+  <choicegroup label="The column I’ve designed fails in compression. If I decrease the height of the column, what happens to the allowable load?" type="MultipleChoice">
+    <choice correct="false">The allowable load will decrease</choice>
+    <choice correct="false">The allowable load will increase</choice>
+    <choice correct="true">The allowable load will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Compression failures are governed only by the force and cross-sectional area, height is not a factor (beyond self-weight…).</p>
+
+</div>
+</solution>
+
+</problem>

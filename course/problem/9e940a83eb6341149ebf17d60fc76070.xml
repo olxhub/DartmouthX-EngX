@@ -1,0 +1,17 @@
+<problem display_name="Question 3" markdown="&gt;&gt;What factors affect how much load a rope or cable can support?  Check all that apply.&lt;&lt;&#10;&#10;[ ] the length&#10;[x] the diameter&#10;[ ] the shape&#10;[x] the material type&#10;&#10;[explanation]&#10;The diameter and material type will affect how much load a rope or cable can support. Length and shape do not affect the amount of load a rope or cable can support.&#10;[explanation]&#10;" max_attempts="1">
+  <p>What factors affect how much load a rope or cable can support?  Check all that apply.</p>
+  <choiceresponse>
+    <checkboxgroup label="What factors affect how much load a rope or cable can support?  Check all that apply." direction="vertical">
+      <choice correct="false">the length</choice>
+      <choice correct="true">the diameter</choice>
+      <choice correct="false">the shape</choice>
+      <choice correct="true">the material type</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The diameter and material type will affect how much load a rope or cable can support. Length and shape do not affect the amount of load a rope or cable can support.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,34 @@
+<problem display_name="Knowledge Check 1" markdown="null" max_attempts="2">
+  <p>
+    <strong>Choose the bridge design under each image:</strong>
+  </p>
+  <p>What type of bridge is this?</p>
+  <img src="/static/C2_Bridge2.jpg" alt="Two support columns with cables attached down the column" width="450"/>
+  <multiplechoiceresponse>
+    <choicegroup label="What type of bridge is this, Bridge 2?" type="MultipleChoice">
+      <choice correct="false">Suspension bridge</choice>
+      <choice correct="false">Cable-stayed bridge with fan design</choice>
+      <choice correct="true">Cable-stayed bridge with harp design</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p/>
+  <p>What type of bridge is this?</p>
+  <img src="/static/C2_Bridge1.jpg" alt="Two support columns with cables at one point on the top" width="450"/>
+  <multiplechoiceresponse>
+    <choicegroup label="What type of bridge is this, Bridge 1?" type="MultipleChoice">
+      <choice correct="false">Suspension bridge</choice>
+      <choice correct="true">Cable-stayed bridge with fan design</choice>
+      <choice correct="false">Cable-stayed bridge with harp design</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p/>
+  <p>What type of bridge is this?</p>
+  <img src="/static/C2_Bridge3.jpg" alt="Two support columns with a main cable that support cables attach to vertically" width="450"/>
+  <multiplechoiceresponse>
+    <choicegroup label="What type of bridge is this, Bridge 3?" type="MultipleChoice">
+      <choice correct="true">Suspension bridge</choice>
+      <choice correct="false">Cable-stayed bridge with fan design</choice>
+      <choice correct="false">Cable-stayed bridge with harp design</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

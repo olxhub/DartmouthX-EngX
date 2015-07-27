@@ -1,0 +1,12 @@
+<course advanced_modules="[&quot;split_test&quot;]" allow_anonymous="false" catalog_visibility="both" course_image="asset-v1-DartmouthX+DART.ENGS.01.X+2015_T2+type@asset+block@DART.ENGS.01.X_Thumbnail.jpg" days_early_for_beta="60.0" display_coursenumber="null" display_name="The Engineering of Structures Around Us" end="&quot;2015-06-19T23:59:00+00:00&quot;" graceperiod="" info_sidebar_name=" " mobile_available="true" showanswer="finished" start="&quot;2015-05-05T13:30:00+00:00&quot;" user_partitions="[{&quot;name&quot;: &quot;A/B Inquiry Experiment&quot;, &quot;version&quot;: 2, &quot;groups&quot;: [{&quot;version&quot;: 1, &quot;id&quot;: 602361593, &quot;name&quot;: &quot;Group A&quot;}, {&quot;version&quot;: 1, &quot;id&quot;: 756465564, &quot;name&quot;: &quot;Group B&quot;}], &quot;scheme&quot;: &quot;random&quot;, &quot;id&quot;: 164211874, &quot;description&quot;: &quot;Two groups to test effects of inquiry-based learning on outcomes. Group A receives pre-content questions (mostly inside \&quot;What do you think\&quot; and \&quot;Owl's Problem\&quot;), whereas Group B doesn't. &quot;}]" video_upload_pipeline="{&quot;course_video_upload_token&quot;: &quot;7196a447bd8211e488f3685b35c5f98f&quot;}">
+  <chapter url_name="e30494da14ec460a82e78e8182d232c9"/>
+  <chapter url_name="4d10cd4ee67248c98551afbf563c91e4"/>
+  <chapter url_name="724b2f67e55c427d87bec78e5baf99ee"/>
+  <chapter url_name="7cc049df96854e028d24851c5c1d3d83"/>
+  <chapter url_name="8434b5c7c917448897f00ea8bf864d31"/>
+  <chapter url_name="21a7d4425ea0421d92f17db995e30878"/>
+  <chapter url_name="c6564c91a8964641b360a17e6d2d70f5"/>
+  <chapter url_name="1fc41c33b3104e34a37e2d7a0807d262"/>
+  <chapter url_name="92f9cbbc253a455882a2f901494329f9"/>
+  <wiki slug="DartmouthX.DART.ENGS.01.X.2015_T2"/>
+</course>

@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 11" markdown="&gt;&gt;The moment of inertia is:&lt;&lt;&#10;(x) a function of the cross-sectional shape and size.&#10;( ) a function of the length of the beam.&#10;( ) a function of the material of the beam.&#10;( ) a function of the supports of the beam.&#10;&#10;[explanation]&#10;The moment of inertia is a function of the shape and size of the cross-section of the beam. The bigger the cross-section, the higher the moment of inertia. The further the mass of the cross-section is from the center, the higher the moment of inertia.&#10;[explanation]&#10;" max_attempts="2">
+<p>The moment of inertia is:</p>
+<multiplechoiceresponse>
+  <choicegroup label="The moment of inertia is:" type="MultipleChoice">
+    <choice correct="true">a function of the cross-sectional shape and size.</choice>
+    <choice correct="false">a function of the length of the beam.</choice>
+    <choice correct="false">a function of the material of the beam.</choice>
+    <choice correct="false">a function of the supports of the beam.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The moment of inertia is a function of the shape and size of the cross-section of the beam. The bigger the cross-section, the higher the moment of inertia. The further the mass of the cross-section is from the center, the higher the moment of inertia.</p>
+
+</div>
+</solution>
+
+</problem>

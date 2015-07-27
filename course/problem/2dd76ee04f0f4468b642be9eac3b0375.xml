@@ -1,0 +1,28 @@
+<problem display_name="Problem 4" markdown="null" max_attempts="2" weight="0.0">
+<table>
+    <tr width="95%">
+      <td width="50%">
+        <p>Given that the force in a cable, F,  with a height of 3m and a span of 8m (half of the span is 4m) should not exceed 20kN, what is the allowable load, P, that may be applied?</p>
+        <p><em>This problem was previously open response and has been changed to multiple choice based on feedback.</em></p>
+      </td>
+      <td width="50%">
+        <img src="/static/C2_Prob4.jpg" width="400" alt="diagram"/>
+      </td>
+    </tr>
+  </table>
+
+<multiplechoiceresponse>
+  <choicegroup label="Given that the force in a cable, F,  with a height of 3m and a span of 8m half of the span is 4m should not exceed 20kN, what is the allowable load, P, that may be applied?" type="MultipleChoice">
+    <choice correct="true">24 kN</choice>
+    <choice correct="false">32 kN</choice>
+    <choice correct="false">40 kN</choice>
+    <choice correct="false">48 kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+<solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <img src="/static/C2_FFProb4.jpg" width="600" alt="P = 2*20kN*(⅗) = 24kN"/>
+    </div>
+  </solution>
+</problem>

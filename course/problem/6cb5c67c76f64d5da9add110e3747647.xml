@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;A moment is:&lt;&lt;&#10;(x) The tendency of a force to cause an object to rotate&#10;( ) The tendency of a force to cause failure in an object&#10;( ) The tendency of a force to cause an object to translate or move&#10;( ) I don't know&#10;&#10;[explanation]&#10;A moment is the tendency of a force to cause an object to rotate, which equals the force or load multiplied by the perpendicular distance from the point of support to the applied load.&#10;[explanation]&#10;" max_attempts="2">
+<p>A moment is:</p>
+<multiplechoiceresponse>
+  <choicegroup label="A moment is:" type="MultipleChoice">
+    <choice correct="true">The tendency of a force to cause an object to rotate</choice>
+    <choice correct="false">The tendency of a force to cause failure in an object</choice>
+    <choice correct="false">The tendency of a force to cause an object to translate or move</choice>
+    <choice correct="false">I don't know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A moment is the tendency of a force to cause an object to rotate, which equals the force or load multiplied by the perpendicular distance from the point of support to the applied load.</p>
+
+</div>
+</solution>
+
+</problem>

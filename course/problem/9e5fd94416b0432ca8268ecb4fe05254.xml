@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;True or False? Only engineers follow a design process.&lt;&lt;&#10;&#9;( ) True&#10;    (x) False&#10;&#10;     &#10;[explanation]&#10;Architects, product designers and many other often follow a design process.&#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>True or False? Only engineers follow a design process.</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False? Only engineers follow a design process." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Architects, product designers and many other often follow a design process.</p>
+
+</div>
+</solution>
+
+
+</problem>

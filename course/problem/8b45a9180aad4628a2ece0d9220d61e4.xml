@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;A building subjected to wind loads may often be modeled as a:&lt;&lt;&#10;( ) A column&#10;(x) A beam&#10;( ) A table&#10;( ) A wall&#10;&#10;[explanation]&#10;A building subjected to wind loads is often modeled as a cantilever beam, with the base fixed and the building extending upward. So it is just a beam that is rotated 90 degrees.&#10;[explanation]&#10;" max_attempts="2">
+<legend>A building subjected to wind loads may often be modeled as a:</legend>
+<multiplechoiceresponse>
+  <choicegroup label="A building subjected to wind loads may often be modeled as a:" type="MultipleChoice">
+    <choice correct="false">A column</choice>
+    <choice correct="true">A beam</choice>
+    <choice correct="false">A table</choice>
+    <choice correct="false">A wall</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A building subjected to wind loads is often modeled as a cantilever beam, with the base fixed and the building extending upward. So it is just a beam that is rotated 90 degrees.</p>
+
+</div>
+</solution>
+
+</problem>

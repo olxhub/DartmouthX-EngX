@@ -1,0 +1,21 @@
+<problem display_name="Finding 3" markdown="&gt;&gt;How about if you change the span of the arch instead? What happens to the compressive force as the span increases?&lt;&lt;&#10;&#10;(x) the compressive force, C, increases&#10;( ) the compressive force, C, decreases&#10;( ) the compressive force, C, remains the same&#10;&#10;[explanation]&#10;Explanation: As the span increases the compressive force (C) in the arch also increases. The closer you are to horizontal the higher the forces.&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="2" weight="0.0">
+<p>How about if you change the span of the arch instead? What happens to the compressive force as the span increases?</p>
+<multiplechoiceresponse>
+  <choicegroup label="How about if you change the span of the arch instead? What happens to the compressive force as the span increases?" type="MultipleChoice">
+    <choice correct="true">the compressive force, C, increases</choice>
+    <choice correct="false">the compressive force, C, decreases</choice>
+    <choice correct="false">the compressive force, C, remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: As the span increases the compressive force (C) in the arch also increases. The closer you are to horizontal the higher the forces.</p>
+
+</div>
+</solution>
+
+
+</problem>

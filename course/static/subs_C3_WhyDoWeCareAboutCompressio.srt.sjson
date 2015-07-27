@@ -1,0 +1,41 @@
+{
+  "start": [
+    0, 
+    3060, 
+    6710, 
+    9654, 
+    12820, 
+    14910, 
+    17660, 
+    20250, 
+    23310, 
+    26590, 
+    28340
+  ], 
+  "end": [
+    3060, 
+    6710, 
+    9654, 
+    12820, 
+    14910, 
+    17660, 
+    20250, 
+    23310, 
+    26590, 
+    28340, 
+    30670
+  ], 
+  "text": [
+    "", 
+    "So when we pull on an object, it tends to elongate and we called that tension.", 
+    "But what happens when we push on an object?", 
+    "It turns out a couple different things happen, and we call that compression.", 
+    "But why do we care about compression?", 
+    "Compression is what's going to hold up our building for one thing.", 
+    "And the different forms that we have to resist compression,", 
+    "columns are probably the most obvious, but arches, vaults, domes,", 
+    "and anti-funicular forms also help resist compression.", 
+    "Before we go any further, let's experiment", 
+    "a bit with columns and compression."
+  ]
+}

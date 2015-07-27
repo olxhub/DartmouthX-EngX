@@ -1,0 +1,17 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;Statically indeterminate trusses tend to be stiffer than statically determinate trusses?&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;[explanation]&#10;Statically indeterminate trusses have more members and supports than statically determinate structures, thus tend to be stiffer.[explanation]" max_attempts="1">
+<p>Statically indeterminate trusses tend to be stiffer than statically determinate trusses?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Statically indeterminate trusses tend to be stiffer than statically determinate trusses?" type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Statically indeterminate trusses have more members and supports than statically determinate structures, thus tend to be stiffer.</p>
+</div>
+</solution>
+</problem>

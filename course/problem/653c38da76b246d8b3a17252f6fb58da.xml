@@ -1,0 +1,17 @@
+<problem display_name="Observation 2" markdown="null" max_attempts="3" showanswer="attempted" weight="0.0">
+  <p>Which of the following properties affected the amount of load your column(s) could support? Select all that apply.</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following properties affected the amount of load your column(s) could support? Select all that apply." direction="vertical">
+      <choice correct="true">column height</choice>
+      <choice correct="true">cross-sectional shape</choice>
+      <choice correct="true">column width or diameter</choice>
+      <choice correct="true">material type</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>There are so many different things to think about when building columns! By the end of this concept you'll be able to determine which properties have more effect than others.</p>
+    </div>
+  </solution>
+</problem>

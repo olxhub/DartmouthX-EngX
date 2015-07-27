@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 1" markdown="&gt;&gt;Which of the following types of loads would be classified as lateral or horizontal loads on a typical building? Check all that apply.&lt;&lt;&#10;[x] Wind&#10;[ ] Self-weight&#10;[ ] Traffic&#10;[x] Earthquakes&#10;[ ] Snow&#10;&#10;[explanation]&#10;Wind and earthquake loads are typically classified as lateral or horizontal loads since the forces act horizontally (think about wind pushing on the side of a building). Earthquakes are a bit tougher to visualize but they also are typically classified as lateral forces since they cause shaking back and forth, which induce horizontal forces. Self-weight, traffic, and snow are usually classified as vertical loads since they act downward due to gravity.&#10;[explanation]&#10;" max_attempts="2">
+<p>Which of the following types of loads would be classified as lateral or horizontal loads on a typical building? Check all that apply.</p>
+<choiceresponse>
+  <checkboxgroup label="Which of the following types of loads would be classified as lateral or horizontal loads on a typical building? Check all that apply." direction="vertical">
+    <choice correct="true">Wind</choice>
+    <choice correct="false">Self-weight</choice>
+    <choice correct="false">Traffic</choice>
+    <choice correct="true">Earthquakes</choice>
+    <choice correct="false">Snow</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Wind and earthquake loads are typically classified as lateral or horizontal loads since the forces act horizontally (think about wind pushing on the side of a building). Earthquakes are a bit tougher to visualize but they also are typically classified as lateral forces since they cause shaking back and forth, which induce horizontal forces. Self-weight, traffic, and snow are usually classified as vertical loads since they act downward due to gravity.</p>
+
+</div>
+</solution>
+
+</problem>

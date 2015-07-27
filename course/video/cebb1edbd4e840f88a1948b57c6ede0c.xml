@@ -1,0 +1,10 @@
+<video youtube="1.00:ECiQlf8WRP8" url_name="cebb1edbd4e840f88a1948b57c6ede0c" display_name="Lesson: Anti-funicular Forms (Video 01:13)" download_track="true" download_video="true" edx_video_id="08d90cf8-b6a9-44c7-9999-4cc1a5f52015" html5_sources="[]" sub="ECiQlf8WRP8" track="/static/C3_LessonAntifunicularForms.pdf" youtube_id_1_0="ECiQlf8WRP8">
+  <track src="/static/C3_LessonAntifunicularForms.pdf"/>
+  <video_asset client_video_id="C3_LessonAntifunicularForms.mp4" duration="72.52">
+    <encoded_video bitrate="848" file_size="7695578" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002000_DTH.mp4"/>
+    <encoded_video bitrate="374" file_size="3394066" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002000_MB1.mp4"/>
+    <encoded_video bitrate="187" file_size="1704647" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002000_MB2.mp4"/>
+    <encoded_video bitrate="1077" file_size="9768074" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="ECiQlf8WRP8"/>
+  </video_asset>
+</video>

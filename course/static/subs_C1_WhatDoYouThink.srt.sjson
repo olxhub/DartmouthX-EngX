@@ -1,0 +1,32 @@
+{
+  "start": [
+    0, 
+    3000, 
+    6230, 
+    8410, 
+    10580, 
+    14400, 
+    15800, 
+    17633
+  ], 
+  "end": [
+    3000, 
+    6230, 
+    8410, 
+    10580, 
+    14400, 
+    15800, 
+    17633, 
+    19830
+  ], 
+  "text": [
+    "", 
+    "So for each of the concepts, we are going to ask you a series of questions", 
+    "before we ever get to the lesson material.", 
+    "The goal of asking you these questions is", 
+    "to get you thinking about the material, maybe generating your own questions.", 
+    "There's no right or wrong answer.", 
+    "We're really just trying to get you to think", 
+    "a little bit before we get started."
+  ]
+}

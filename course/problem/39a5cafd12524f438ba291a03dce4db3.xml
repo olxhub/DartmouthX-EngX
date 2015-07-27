@@ -1,0 +1,20 @@
+<problem display_name="Problem 4" markdown="&gt;&gt;For the beam bridge we assumed that the width of the rectangular cross-section would be 200mm, resulting in a required height of 225mm. If we assumed the width would be 100mm instead, what would be the required height of the cross-section assuming everything else about the beam remains the same?&lt;&lt;&#10;( ) 101mm&#10;( ) 225mm&#10;(x) 318mm&#10;( ) 450mm&#10;&#10;&#10;&#10;[explanation]&#10;&lt;img src=&quot;/static/C5_Prob5.jpg&quot; width=&quot;650&quot; /&gt;&#10;&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>For the beam bridge we assumed that the width of the rectangular cross-section would be 200mm, resulting in a required height of 225mm. If we assumed the width would be 100mm instead, what would be the required height of the cross-section assuming everything else about the beam remains the same?</p>
+<multiplechoiceresponse>
+  <choicegroup label="For the beam bridge we assumed that the width of the rectangular cross-section would be 200mm, resulting in a required height of 225mm. If we assumed the width would be 100mm instead, what would be the required height of the cross-section assuming everything else about the beam remains the same?" type="MultipleChoice">
+    <choice correct="false">101mm</choice>
+    <choice correct="false">225mm</choice>
+    <choice correct="true">318mm</choice>
+    <choice correct="false">450mm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<img src="/static/C5_Prob5.jpg" width="650"/>
+</div>
+</solution>
+
+</problem>

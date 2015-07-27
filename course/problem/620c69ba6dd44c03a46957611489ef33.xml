@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 3" markdown="null" max_attempts="2">
+<p>Which of the images below represents a shear deformation?</p>
+  <img src="/static/C5_KC4.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the images below represents a shear deformation?" type="MultipleChoice">
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Image A represents a shear deformation, which is a deformation (or failure) that results from two opposing forces acting across a section of a beam or column. Images B and C represent bending deformations.
+</p>
+
+</div>
+</solution>
+
+</problem>

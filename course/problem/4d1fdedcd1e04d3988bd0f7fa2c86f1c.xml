@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 1" markdown="null" max_attempts="1">
+<p>Which of the structures shown below will be able to resist the highest load?</p>
+  <p><img src="/static/C4_OwlTrusses.jpg" alt="A = triangle truss, B = square truss" width="600"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the structures shown below will be able to resist the highest load?" type="MultipleChoice">
+    <choice correct="true">A (triangle)</choice>
+    <choice correct="false">B (square)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The triangular structure will be able to resist a higher load. Triangular structures tend to be very stiff, meaning the deflections are very low, and strong, meaning they are able to resist a high load. A four bar structure with pinned connections will collapse under very little load.</p>
+
+</div>
+</solution>
+
+</problem>

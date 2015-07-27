@@ -1,0 +1,33 @@
+<problem display_name="Finding 3" markdown="null" showanswer="answered" weight="0.0">
+<p>Using the same Howe Truss designed in Finding 1; which member, of those listed below, has the highest force in the truss?</p>
+  
+  <multiplechoiceresponse>
+  <choicegroup label="Which member, of those listed below, has the highest force in the truss?" type="MultipleChoice">
+    <choice correct="true">CE</choice>
+    <choice correct="false">AC</choice>
+    <choice correct="false">CD</choice>
+    <choice correct="false">BD</choice>
+    <choice correct="false">BC</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Which member, of those listed below, has the lowest force in the truss?</p>
+<multiplechoiceresponse>
+  <choicegroup label="which member, of those listed below, has the lowest force in the truss?" type="MultipleChoice">
+    <choice correct="false">CE</choice>
+    <choice correct="false">AC</choice>
+    <choice correct="false">CD</choice>
+    <choice correct="false">BD</choice>
+    <choice correct="true">BC</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  
+  <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Positive and negative numbers signify the type of force. A compressive force is a negative number and a tensile force is a positive number. A negative number does not mean it's a smaller force, it only means it's a compressive force. As an example we can look at members AC and BD. AC shows a 75kN force and BD shows a -75kN force. They are both the same amount of force, 75kN, and AC is  tensile force (positive number) and BD is a compressive force (negative number).</p>
+
+</div>
+</solution>
+</problem>

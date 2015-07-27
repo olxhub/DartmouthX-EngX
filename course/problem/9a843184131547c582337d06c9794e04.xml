@@ -1,0 +1,12 @@
+<problem display_name="Query 3" markdown="null" max_attempts="1" showanswer="never">
+  <p>An engineer has calculated that a column will fail by buckling under the expected load. How could the engineer modify the column so it will not fail?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="An engineer has calcuated that a column will fail by buckling under the expected load. How should the engineer modify the column so it will not fail?" type="MultipleChoice" show_correctness="never">
+      <choice correct="false">Change the length/height of the column</choice>
+      <choice correct="false">Change the width or diameter of the column</choice>
+      <choice correct="false">Change the material that is used for the column</choice>
+      <choice correct="false">Change the shape of the column</choice>
+      <choice correct="true">Any of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

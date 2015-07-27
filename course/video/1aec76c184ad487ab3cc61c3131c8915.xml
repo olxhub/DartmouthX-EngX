@@ -1,0 +1,10 @@
+<video youtube="1.00:EAj3dDZajUo" url_name="1aec76c184ad487ab3cc61c3131c8915" display_name="Lesson: Bridges (Video 4:59)" download_track="true" download_video="true" edx_video_id="e5ae35e9-3ed3-48fa-9de8-f76dbd3c89a4" html5_sources="[]" sub="EAj3dDZajUo" track="/static/C2_LessonBridges.pdf" youtube_id_1_0="EAj3dDZajUo">
+  <track src="/static/C2_LessonBridges.pdf"/>
+  <video_asset client_video_id="C2_LessonBridges.mp4" duration="298.28">
+    <encoded_video bitrate="1665" file_size="62117755" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001800_DTH.mp4"/>
+    <encoded_video bitrate="672" file_size="25083505" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001800_MB1.mp4"/>
+    <encoded_video bitrate="237" file_size="8871010" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001800_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="EAj3dDZajUo"/>
+    <encoded_video bitrate="997" file_size="37178683" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001800_DTH.webm"/>
+  </video_asset>
+</video>

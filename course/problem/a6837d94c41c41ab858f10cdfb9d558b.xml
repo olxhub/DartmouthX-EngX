@@ -1,0 +1,14 @@
+<problem display_name="Query 1" markdown="null" max_attempts="1" showanswer="never">
+<p>Why do engineers sketch and build models or prototypes? Check all that apply.</p>
+<choiceresponse>
+  <checkboxgroup label="Why do engineers sketch and build models or prototypes? Check all that apply." direction="vertical" show_correctness="never">
+    <choice correct="true">To help them better understand the structure</choice>
+    <choice correct="true">To help them explore different options</choice>
+    <choice correct="true">To understand how the structure will look</choice>
+    <choice correct="true">To understand how the structure will fit together</choice>
+    <choice correct="true">To determine how the structure might fail</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+
+</problem>

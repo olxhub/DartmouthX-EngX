@@ -1,0 +1,10 @@
+<video youtube="1.00:44Y-ch-aWv8" url_name="9740d9f86b9c4c8e8e7c3536feb3df46" display_name="Understanding By Sketching David Macaulay (Video 3:59)" download_track="true" download_video="true" edx_video_id="a330a5f1-0b51-4c34-aa49-b46369dd92d9" html5_sources="[]" sub="44Y-ch-aWv8" track="/static/C1_UnderstandingBySketchingDavidMacaulay.pdf" youtube_id_1_0="44Y-ch-aWv8">
+  <track src="/static/C1_UnderstandingBySketchingDavidMacaulay.pdf"/>
+  <video_asset client_video_id="C1_UnderstandingBySketchingDavidMacaulay.mp4" duration="238.14">
+    <encoded_video bitrate="1499" file_size="44634237" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000300_DTH.mp4"/>
+    <encoded_video bitrate="238" file_size="7097564" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000300_MB2.mp4"/>
+    <encoded_video bitrate="1044" file_size="31094469" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="44Y-ch-aWv8"/>
+    <encoded_video bitrate="632" file_size="18835007" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000300_MB1.mp4"/>
+  </video_asset>
+</video>

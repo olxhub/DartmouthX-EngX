@@ -1,0 +1,10 @@
+<video youtube="1.00:x6A6jRPkcbs" url_name="7af4515e66fb4128aa94d4dc32fb7388" display_name="Lesson: Engineering And Architecture (Video 6:07)" download_track="true" download_video="true" edx_video_id="b9a3a213-07bd-4ae1-abb1-88dcb4a10788" html5_sources="[]" sub="x6A6jRPkcbs" track="/static/C1_LessonEngineeringAndArchitecture.pdf" youtube_id_1_0="x6A6jRPkcbs">
+  <track src="/static/C1_LessonEngineeringAndArchitecture.pdf"/>
+  <video_asset client_video_id="C1_LessonEngineeringAndArchitecture.mp4" duration="366.74">
+    <encoded_video bitrate="419" file_size="19245508" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000500_MB1.mp4"/>
+    <encoded_video bitrate="184" file_size="8472523" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000500_MB2.mp4"/>
+    <encoded_video bitrate="1179" file_size="54072293" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000500_DTH.mp4"/>
+    <encoded_video bitrate="1089" file_size="49958457" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="x6A6jRPkcbs"/>
+  </video_asset>
+</video>

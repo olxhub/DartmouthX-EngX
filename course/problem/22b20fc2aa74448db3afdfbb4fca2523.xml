@@ -1,0 +1,23 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" weight="0.0">
+  <p>The hollow steel tube used in the example buckles under a load of 68.0kN. If a solid steel column with a square cross-section is used instead, what is the buckling load? The length remains 5m and the width of the square cross-section is 60mm. 
+    
+    Note that the modulus of elasticity of steel, E, is 200x10<sup>6</sup>kN/m<sup>2</sup> and the equation for the moment of inertia is b<sup>4</sup>/12. You can also look the value for E and the equation for I up in the table provided at the beginning of this section. </p>
+  <p/> <img src="/static/C3_ExampleSteelColumn.JPG"/>
+  <multiplechoiceresponse>
+    <choicegroup label="The hollow steel tube used in the example buckles under a load of 68.0kN. If a solid steel column with a square cross-section is used instead, what is the buckling load? The length remains 5m and the width of the square cross-section is 60mm." type="MultipleChoice">
+      <choice correct="false">P<sub>cr</sub>= 68.0kN</choice>
+      <choice correct="true">P<sub>cr</sub>= 85.3kN</choice>
+      <choice correct="false">P<sub>cr</sub>= 145.2kN</choice>
+      <choice correct="false">P<sub>cr</sub>= 341.1kN</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation:</p>
+      <p>The solid cross-section has a larger cross-sectional area and moment of inertia so will result in a higher buckling load, thus the column will support more load. Note that the increased cross-sectional area results in an increase in volume and thus cost so is less efficient since more material is being used. Keeping the area the same and changing the shape would have been a more efficient way to increase the buckling load.</p>
+      <p>
+        <img src="/static/C3_Problem1Ans.jpg" width="600" alt="Pcr = (pi^2*E*I)/L^2. E=200x106kN/m^2, I=(0.06m^4)/12=1.08x10-6m^4, L=5m."/>
+      </p>
+    </div>
+  </solution>
+</problem>

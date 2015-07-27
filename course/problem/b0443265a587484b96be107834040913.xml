@@ -1,0 +1,11 @@
+<problem display_name="Query 5" markdown="null" max_attempts="1" showanswer="never">
+<p>The human body may be modeled as a tensegrity structure.</p>
+<multiplechoiceresponse>
+  <choicegroup label="The human body may be modeled as a tensegrity structure." type="MultipleChoice" show_correctness="never">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

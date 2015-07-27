@@ -1,0 +1,17 @@
+<problem display_name="Finding 3" markdown="null" max_attempts="2" weight="0.0">
+  <p>How much stronger is steel than nylon?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="How much stronger is steel than nylon?" type="MultipleChoice">
+      <choice correct="false">Steel is 2 times stronger than nylon</choice>
+      <choice correct="false">Steel is 3 times stronger than nylon</choice>
+      <choice correct="false">Steel is 4 times stronger than nylon</choice>
+      <choice correct="true">Steel is 5 times stronger than nylon</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Hint</p>
+      <p>Hint: You should be able to figure out by the allowable load for a funicular form using a steel cable by the allowable load for a nylon cable of the exact shape and diameter.</p>
+    </div>
+  </solution>
+</problem>

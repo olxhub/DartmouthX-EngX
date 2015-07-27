@@ -1,0 +1,15 @@
+<problem display_name="Question 7" markdown="null" max_attempts="1">
+  <p>As the height of a funicular form, h, increases what happens to the load that may be applied? Assume that the other dimensions and the allowable force in the cable remains the same.
+ </p>
+  <p/>
+  <center>
+    <img src="/static/C2_Q7.jpg" width="450" alt="General force/load diagram"/>
+  </center>
+  <multiplechoiceresponse>
+    <choicegroup label="As the height of a funicular form, h, increases what happens to the load that may be applied? Assume that the other dimensions and the allowable force in the cable remains the same. " type="MultipleChoice">
+      <choice correct="true">the load that may be applied increases</choice>
+      <choice correct="false">the load that may be applied decreases</choice>
+      <choice correct="false">The load that may be applied remains the same</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

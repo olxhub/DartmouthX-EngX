@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 8" markdown="&gt;&gt;The natural frequency of a building is &lt;&lt;&#10;( ) The rate at which earthquakes at the site will tend to oscillate&#10;(x) The rate at which the building tends to want to oscillate&#10;( ) The rate at which an earthquake will cause a building to oscillate&#10;&#10;[explanation]&#10;The natural frequency of a building is a function of the stiffness and mass of the building and is a the rate at which the building tends to want to oscillate.&#10;[explanation]&#10;" max_attempts="2">
+<p>The natural frequency of a building is </p>
+<multiplechoiceresponse>
+  <choicegroup label="The natural frequency of a building is " type="MultipleChoice">
+    <choice correct="false">The rate at which earthquakes at the site will tend to oscillate</choice>
+    <choice correct="true">The rate at which the building tends to want to oscillate</choice>
+    <choice correct="false">The rate at which an earthquake will cause a building to oscillate</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The natural frequency of a building is a function of the stiffness and mass of the building and is a the rate at which the building tends to want to oscillate.</p>
+
+</div>
+</solution>
+
+</problem>

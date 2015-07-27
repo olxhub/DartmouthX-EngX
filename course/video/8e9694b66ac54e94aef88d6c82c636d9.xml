@@ -1,0 +1,9 @@
+<video youtube="1.00:n9ULMIjvSIg" url_name="8e9694b66ac54e94aef88d6c82c636d9" display_name="Lesson: Resonance (Video 3:49)" download_track="true" download_video="true" edx_video_id="8070be6c-c9c3-4a0f-a688-315f966707b1" html5_sources="[]" sub="n9ULMIjvSIg" track="/static/C6_LessonResonance.pdf" youtube_id_1_0="n9ULMIjvSIg">
+  <track src="/static/C6_LessonResonance.pdf"/>
+  <video_asset client_video_id="C6_LessonResonance.mp4" duration="239.33">
+    <encoded_video bitrate="215" file_size="6442798" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004800_MB2.mp4"/>
+    <encoded_video bitrate="316" file_size="9457185" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004800_MB1.mp4"/>
+    <encoded_video bitrate="516" file_size="15450647" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004800_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="n9ULMIjvSIg"/>
+  </video_asset>
+</video>

@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;Engineers typically model the joints of a truss as:&lt;&lt;&#10;(x) Pinned connections&#10;() Fixed connections&#10;() Gusset connections&#10;() Welded connections&#10;&#10;[explanation]&#10;Engineers model the connections of a truss as pinned. By modeling the joints as pinned, each member of the truss will be in either tension or compression. Even if gusset plates or welded joints are used to build the truss, the engineer will often model the joints as pinned, at least for a preliminary analysis.&#10;[explanation]&#10;" max_attempts="2">
+<p>Engineers typically model the joints of a truss as:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Engineers typically model the joints of a truss as:" type="MultipleChoice">
+    <choice correct="true">Pinned connections</choice>
+    <choice correct="false">Fixed connections</choice>
+    <choice correct="false">Gusset connections</choice>
+    <choice correct="false">Welded connections</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Engineers model the connections of a truss as pinned. By modeling the joints as pinned, each member of the truss will be in either tension or compression. Even if gusset plates or welded joints are used to build the truss, the engineer will often model the joints as pinned, at least for a preliminary analysis.</p>
+
+</div>
+</solution>
+
+</problem>

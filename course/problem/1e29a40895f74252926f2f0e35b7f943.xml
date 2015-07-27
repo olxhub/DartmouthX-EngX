@@ -1,0 +1,28 @@
+<problem display_name="Report Participation" markdown="null" showanswer="attempted">
+  <p>Come back to this question after you consider, try to do, or complete the activity.</p>
+  <p><strong>Report your participation here!</strong></p>
+
+<p>Choose your level of participation in the Design Challenge: Cardboard Chair activity:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Choose your level of participation in the Design Challenge: Cardboard Chair activity:" type="MultipleChoice" show_correctness="never">
+    <choice correct="true">I have done the activity and have shared in discussion</choice>
+    <choice correct="false">I intend to do the activity and share in discussion</choice>
+    <choice correct="false">I want to do the activity, but cannot get the materials</choice>
+    <choice correct="false">I want to do the activity, but had trouble and did not complete</choice>
+    <choice correct="false">I never intended to do this activity or have decided not to do it</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p> If you are on the Certificate Track, you will receive 1 point for completing the activity and sharing in discussion, as self-reported above.</p>
+  <p> For the Certificate, you are asked to do 4 of the 7 hands-on activities listed in the Syllabus. A red X above means you have 0 points for this hands-on activity. When calculating the final grade, 3 of the lowest scores are dropped for the hands-on activities.</p>
+<p>Having the information on your completion, intent, and limitations will help us with future activities in the course, even if you are not on the Certificate track. Thanks!</p>
+  
+
+</div>
+</solution>
+
+</problem>

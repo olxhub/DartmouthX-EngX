@@ -1,0 +1,18 @@
+<problem display_name="Knowledge Check 2" markdown="null" max_attempts="2">
+  <p>Identify the proper loading for this anti-funicular form:</p>
+  <img src="/static/C3_AntifunSticks.png" width="600"/>
+  <multiplechoiceresponse>
+    <choicegroup label="Identify the proper loading for this anti-funicular form:" type="MultipleChoice">
+      <choice correct="false">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="true">C</choice>
+      <choice correct="false">D</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+ <p>An anti-funicular form is the inverse of a funicular form.</p>
+</div>
+</solution>
+</problem>

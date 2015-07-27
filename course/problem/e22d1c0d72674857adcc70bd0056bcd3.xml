@@ -1,0 +1,13 @@
+<problem display_name="Query 5" markdown="null" max_attempts="1" showanswer="never">
+<legend>Which of the following materials are used as structural elements? Check all that apply:</legend>
+<choiceresponse>
+  <checkboxgroup label="Which of the following materials are used as structural elements? Check all that apply:" direction="vertical" show_correctness="never">
+    <choice correct="true">Steel</choice>
+    <choice correct="true">Stone</choice>
+    <choice correct="true">Glass</choice>
+    <choice correct="true">Wood</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+
+</problem>

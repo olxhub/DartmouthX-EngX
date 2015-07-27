@@ -1,0 +1,10 @@
+<video youtube="1.00:7a_bkgINgZ4" url_name="426eadbaab88416abaf168e3c32d4d5a" display_name="Lesson: Determinancy (Video 05:07)" download_track="true" download_video="true" edx_video_id="9ee1ce27-5f20-4274-b317-7874bd16787f" html5_sources="[]" sub="7a_bkgINgZ4" track="/static/C4_LessonDeterminancy.pdf" youtube_id_1_0="7a_bkgINgZ4">
+  <track src="/static/C4_LessonDeterminancy.pdf"/>
+  <video_asset client_video_id="C4_LessonDeterminancy.mp4" duration="306.06">
+    <encoded_video bitrate="503" file_size="19280639" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003000_MB1.mp4"/>
+    <encoded_video bitrate="210" file_size="8062170" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003000_MB2.mp4"/>
+    <encoded_video bitrate="1273" file_size="48714573" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003000_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="7a_bkgINgZ4"/>
+    <encoded_video bitrate="1078" file_size="41260181" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003000_DTH.webm"/>
+  </video_asset>
+</video>

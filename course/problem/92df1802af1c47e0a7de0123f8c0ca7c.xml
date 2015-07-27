@@ -1,0 +1,22 @@
+<problem display_name="Question 7" markdown="&gt;&gt;If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the shear forces along the length of the beam? Assume the loading remains the same.&lt;&lt;&#10;&#10;&lt;img src=&quot;/static/C5_CYU_Q7.jpg&quot; width=&quot;500&quot; /&gt;&#10;&#10;( ) The shear forces along the length will increase&#10;( ) The shear forces along the length will decrease&#10;(x) The shear forces along the length will remain the same&#10;&#10;[explanation]&#10;This beam is statically determinate so the material type will not affect the shear forces or bending moments. The bending stresses, however, will change.&#10;[explanation]&#10;" max_attempts="1">
+<p>If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the shear forces along the length of the beam? Assume the loading remains the same.</p>
+
+<img src="/static/C5_CYU_Q7.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the shear forces along the length of the beam? Assume the loading remains the same." type="MultipleChoice">
+    <choice correct="false">The shear forces along the length will increase</choice>
+    <choice correct="false">The shear forces along the length will decrease</choice>
+    <choice correct="true">The shear forces along the length will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>This beam is statically determinate so the material type will not affect the shear forces or bending moments. The bending stresses, however, will change.</p>
+
+</div>
+</solution>
+
+</problem>

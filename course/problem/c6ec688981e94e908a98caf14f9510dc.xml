@@ -1,0 +1,24 @@
+<problem display_name="Knowledge Check 9" markdown="null" max_attempts="2" weight="1.0">
+
+<p>If the diagonals are reversed, do you expect the diagonal members of the truss that are highlighted in green to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows? </p>
+  <p><img src="/static/C4_TaftsvillKC4.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="If the diagonals are reversed, do you expect the diagonal members of the truss that are highlighted in green to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows? " type="MultipleChoice">
+    <choice correct="true">Tension</choice>
+    <choice correct="false">Compression</choice>
+    <choice correct="false">Both tension and compression</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The diagonals in this case will be in tension and will balance out the downward loading.
+
+</p>
+
+</div>
+</solution>
+
+</problem>

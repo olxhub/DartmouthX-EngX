@@ -1,0 +1,46 @@
+<problem display_name="Question 8" markdown="null" max_attempts="1"> 
+<script type="loncapa/python"> 
+import re 
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 1
+</script>     
+  <span id="anchor_Question8"/> 
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_Question8") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+
+<p>Discuss some of the advantages and disadvantages of designing a truss (or other type of structure) that is statically indeterminate, meaning it has more than the minimum number of required supports and members.</p> 
+  <customresponse cfn="checkAnswer4"> 
+<textline size="40" correct_answer="" label="Problem Text"/> 
+  </customresponse> 
+  
+ <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+  <p>A statically indeterminate truss (or other structure) will typically be stiffer (less deflection) and stronger (carry more load) and it will have redundancy (some members can fail without the overall structure failing) but the analysis will be more complex and the cost will be greater due to additional materials and construction costs. </p>
+
+</div>
+</solution>
+</problem>

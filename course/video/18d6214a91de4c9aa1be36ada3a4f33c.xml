@@ -1,0 +1,9 @@
+<video youtube="1.00:H_pcXM9qyDo" url_name="18d6214a91de4c9aa1be36ada3a4f33c" display_name="Lesson: Loads and Modeling (Video 7:30)" download_track="true" download_video="true" edx_video_id="f5bad3b5-7fa5-42e2-8723-4d7d0733535b" html5_sources="[]" sub="H_pcXM9qyDo" track="/static/C6_LessonLoadAndModeling.pdf" youtube_id_1_0="H_pcXM9qyDo">
+  <track src="/static/C6_LessonLoadAndModeling.pdf"/>
+  <video_asset client_video_id="C6_LessonLoadAndModeling.mp4" duration="450.14">
+    <encoded_video bitrate="213" file_size="11999355" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005000_MB2.mp4"/>
+    <encoded_video bitrate="288" file_size="16230764" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005000_MB1.mp4"/>
+    <encoded_video bitrate="531" file_size="29899655" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005000_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="H_pcXM9qyDo"/>
+  </video_asset>
+</video>

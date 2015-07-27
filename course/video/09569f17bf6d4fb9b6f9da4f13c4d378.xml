@@ -1,0 +1,10 @@
+<video youtube="1.00:9mxTBaquk6k" url_name="09569f17bf6d4fb9b6f9da4f13c4d378" display_name="Reflecting on the Marshmallow Challenge" download_track="true" download_video="true" edx_video_id="b258d848-77d1-46b6-b38c-b352e1680fb8" html5_sources="[]" sub="9mxTBaquk6k" track="/static/C1_ReflectingontheMarshmallowChallenge.pdf" youtube_id_1_0="9mxTBaquk6k">
+  <track src="/static/C1_ReflectingontheMarshmallowChallenge.pdf"/>
+  <video_asset client_video_id="C1_ReflectingontheMarshmallowChallenge.mp4" duration="126.66">
+    <encoded_video bitrate="254" file_size="4026589" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000200_MB1.mp4"/>
+    <encoded_video bitrate="155" file_size="2459085" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000200_MB2.mp4"/>
+    <encoded_video bitrate="546" file_size="8659686" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000200_DTH.mp4"/>
+    <encoded_video bitrate="1104" file_size="17495250" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="9mxTBaquk6k"/>
+  </video_asset>
+</video>

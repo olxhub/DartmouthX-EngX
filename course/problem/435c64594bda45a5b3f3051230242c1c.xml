@@ -1,0 +1,20 @@
+<problem display_name="Question 3" markdown="&gt;&gt;As the height of a SDOF system increases what happens to the frequency of the system?&lt;&lt;&#10;&#10;( ) As the height increases, the frequency of a SDOF system increases&#10;(x) As the height increases, the frequency of a SDOF system decreases&#10;( ) As the height increases, the frequency of a SDOF system remains the same&#10;&#10;[explanation]&#10;As the height increases, the stiffness of the column decreases, causing the frequency (or rate of oscillations) to decrease as well.&#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+<p>As the height of a SDOF system increases what happens to the frequency of the system?</p>
+<multiplechoiceresponse>
+  <choicegroup label="As the height of a SDOF system increases what happens to the frequency of the system?" type="MultipleChoice">
+    <choice correct="false">As the height increases, the frequency of a SDOF system increases</choice>
+    <choice correct="true">As the height increases, the frequency of a SDOF system decreases</choice>
+    <choice correct="false">As the height increases, the frequency of a SDOF system remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the height increases, the stiffness of the column decreases, causing the frequency (or rate of oscillations) to decrease as well.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,13 @@
+<problem display_name="Knowledge Check 18" markdown="null" max_attempts="2">
+<legend>What type of lateral-force resisting system did engineer Fazlur Kahn introduce with the John Hancock Tower and the Willis Tower, both in Chicago?</legend>
+  <img src="/static/C6_WillisHancock.jpg" width="600"/>
+<multiplechoiceresponse>
+  <choicegroup label="What type of lateral-force resisting system did engineer Fazlur Kahn introduce with the John Hancock Tower and the Willis Tower, both in Chicago?" type="MultipleChoice">
+    <choice correct="false">the moment-resisting frame</choice>
+    <choice correct="false">the braced frame</choice>
+    <choice correct="false">the shearwall</choice>
+    <choice correct="true">the tube-framed system</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+</problem>

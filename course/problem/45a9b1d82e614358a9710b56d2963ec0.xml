@@ -1,0 +1,9 @@
+<problem display_name="Query 5" markdown="null" max_attempts="1" showanswer="never">
+  <p>The supports at the base of an arch or vault must resist both upward and outward forces.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The supports at the base of an arch or vault must resist both downward and outward forces." type="MultipleChoice" show_correctness="never">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

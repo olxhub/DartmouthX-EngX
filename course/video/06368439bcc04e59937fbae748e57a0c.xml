@@ -1,0 +1,10 @@
+<video youtube="1.00:OG9F7KvFACY" url_name="06368439bcc04e59937fbae748e57a0c" display_name="Example: Suspension Bridge (Video 8:58)" download_track="true" download_video="true" edx_video_id="509264a8-25d5-4bc9-908d-18c67785ed91" html5_sources="[]" sub="OG9F7KvFACY" track="/static/C2_ExampleSuspensionBridge.pdf" youtube_id_1_0="OG9F7KvFACY">
+  <track src="/static/C2_ExampleSuspensionBridge.pdf"/>
+  <video_asset client_video_id="C2_ExampleSuspensionBridge.mp4" duration="537.54">
+    <encoded_video bitrate="225" file_size="15161251" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001400_MB2.mp4"/>
+    <encoded_video bitrate="517" file_size="34764428" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001400_MB1.mp4"/>
+    <encoded_video bitrate="1235" file_size="83007543" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001400_DTH.mp4"/>
+    <encoded_video bitrate="1094" file_size="73515785" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001400_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="OG9F7KvFACY"/>
+  </video_asset>
+</video>

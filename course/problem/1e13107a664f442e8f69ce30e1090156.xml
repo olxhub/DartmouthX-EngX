@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 7" markdown="null" max_attempts="2" weight="1.0">
+
+<p>If an upward force is applied to the truss instead of a downward force (as shown by the black arrows), do you expect the bottom chord/member of a truss (shown in green) to be in tension, compression, or both tension and compression?</p>
+  <p><img src="/static/C4_TaftsvillKC2.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="If an upward force is applied to the truss instead of a downward force (as shown by the black arrows), do you expect the bottom chord/member of a truss (shown in green) to be in tension, compression, or both tension and compression?" type="MultipleChoice">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Both tension and compression</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Under this loading condition the bottom of the truss will be in compression as it will shorten. The top chord/member of the truss will elongate, thus will be in tension.</p>
+
+</div>
+</solution>
+
+</problem>

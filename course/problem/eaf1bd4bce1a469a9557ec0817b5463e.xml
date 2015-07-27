@@ -1,0 +1,20 @@
+<problem display_name="Finding 2" markdown="&gt;&gt;Now change the height of the arch. What happens to the compressive force, C, in the arch as the height increases?&lt;&lt;&#10;&#10;( ) the compressive force, C, increases&#10;(x) the compressive force, C, decreases&#10;( ) the compressive force, C, remains the same&#10;&#10;[explanation]&#10;Explanation: as the height of the arch increases, the compressive force decreases. The closer you are to vertical the lower the force will be. &#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>Now change the height of the arch. What happens to the compressive force, C, in the arch as the height increases?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Now change the height of the arch. What happens to the compressive force, C, in the arch as the height increases?" type="MultipleChoice">
+    <choice correct="false">the compressive force, C, increases</choice>
+    <choice correct="true">the compressive force, C, decreases</choice>
+    <choice correct="false">the compressive force, C, remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: as the height of the arch increases, the compressive force decreases. The closer you are to vertical the lower the force will be. </p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,23 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" weight="0.0">
+<p>Which member(s) in this truss will be in compression? Check all that apply.</p>
+  <p/>
+<choiceresponse>
+  <checkboxgroup label="Which member(s) in this truss will be in compression? Check all that apply. " direction="vertical">
+    <choice correct="false">Member AB</choice>
+    <choice correct="true">Member AC</choice>
+    <choice correct="true">Member BC</choice>
+    <choice correct="false">None of the members</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>I expect members AC and BC to be in compression. As you push down from above the diagonal members will shorten and the bottom member will elongate. Support B will roll to the right (away from A).
+</p>
+
+</div>
+</solution>
+
+</problem>

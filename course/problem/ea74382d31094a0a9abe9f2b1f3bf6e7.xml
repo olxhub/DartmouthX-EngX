@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 2" markdown="null" max_attempts="2">
+  <p>If a funicular form is changed such that the span remains the same but the height of the form (or length of the cable) decreases, how will the forces in the cables be affected? Assume that the load stays the same.</p>
+  <p/>
+  <center>
+    <img src="/static/C2_KC2.jpg" width="500px" alt="Diagram"/>
+  </center>
+  <p/>
+  <multiplechoiceresponse>
+    <choicegroup label="If a funicular form is changed such that the span remains the same but the height of the form (or length of the cable) decreases, how will the forces in the cables be affected? Assume that the load stays the same." type="MultipleChoice">
+      <choice correct="true">The force in the cable will increase</choice>
+      <choice correct="false">The force in the cable will decrease</choice>
+      <choice correct="false">The force in the cable will remain the same</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>As the cable becomes closer to horizontal, the force increases.</p>
+    </div>
+  </solution>
+</problem>

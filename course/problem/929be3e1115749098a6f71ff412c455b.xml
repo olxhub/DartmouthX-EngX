@@ -1,0 +1,21 @@
+<problem display_name="Question 3" markdown="&gt;&gt;A shear deformation is:&lt;&lt;&#10;&#10;(x) A deformation that results from two opposing forces across a cross-section&#10;( ) A deformation that results from a point load&#10;( ) A deformation that results from bending&#10;( ) A deformation that results from support reactions&#10;&#10;&#10;[explanation]&#10;A shearing deformation is a deformation across the surface of a cross-section due to two opposing forces.&#10;[explanation]&#10;" max_attempts="1">
+<p>A shear deformation is:</p>
+<multiplechoiceresponse>
+  <choicegroup label="A shear deformation is:" type="MultipleChoice">
+    <choice correct="true">A deformation that results from two opposing forces across a cross-section</choice>
+    <choice correct="false">A deformation that results from a point load</choice>
+    <choice correct="false">A deformation that results from bending</choice>
+    <choice correct="false">A deformation that results from support reactions</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A shearing deformation is a deformation across the surface of a cross-section due to two opposing forces.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,35 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 9, 
+            "short_label": "KC", 
+            "type": "Knowledge Checks", 
+            "weight": 0.1
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 6, 
+            "short_label": "CYU", 
+            "type": "Check Your Understanding", 
+            "weight": 0.7
+        }, 
+        {
+            "drop_count": 2, 
+            "min_count": 6, 
+            "short_label": "SYW", 
+            "type": "Share Your World", 
+            "weight": 0.1
+        }, 
+        {
+            "drop_count": 3, 
+            "min_count": 7, 
+            "short_label": "BAS", 
+            "type": "Build Activities and Share", 
+            "weight": 0.1
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "Pass": 0.6
+    }
+}

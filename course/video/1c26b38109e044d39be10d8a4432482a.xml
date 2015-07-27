@@ -1,0 +1,10 @@
+<video youtube="1.00:7Z2YffmNCeo" url_name="1c26b38109e044d39be10d8a4432482a" display_name="Lesson: Design Thinking (Video 8:10)" download_track="true" download_video="true" edx_video_id="b045c222-629a-4a81-a128-d1abbc33abf9" html5_sources="[]" sub="7Z2YffmNCeo" track="/static/C1_LessonDesignThinking.pdf" youtube_id_1_0="7Z2YffmNCeo">
+  <track src="/static/C1_LessonDesignThinking.pdf"/>
+  <video_asset client_video_id="C1_LessonDesignThinking.mp4" duration="489.24">
+    <encoded_video bitrate="400" file_size="24469501" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000400_MB1.mp4"/>
+    <encoded_video bitrate="219" file_size="13410326" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000400_MB2.mp4"/>
+    <encoded_video bitrate="912" file_size="55824133" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000400_DTH.mp4"/>
+    <encoded_video bitrate="1061" file_size="64904286" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000400_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="7Z2YffmNCeo"/>
+  </video_asset>
+</video>

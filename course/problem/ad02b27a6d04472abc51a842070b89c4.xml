@@ -1,0 +1,24 @@
+<problem display_name="Finding 1" markdown="Here is a starting point for you: &#10;Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. &#10;&#10;&gt;&gt;Where along the length of the beam is the shear force the greatest? &lt;&lt;&#10;(x) At the supports&#10;( ) At the quarter point&#10;( ) At the midspan&#10;( ) None of the above&#10;&#10;&#10;[explanation]&#10;The shear force is greatest at the supports because the reaction forces cause a jump in the force that the beam must resist.&#10;[explanation]&#10;" showanswer="always" weight="0.0">
+<p>Here is a starting point for you: </p>
+<p>Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. </p>
+
+<p>Where along the length of the beam is the shear force the greatest? </p>
+<multiplechoiceresponse>
+  <choicegroup label="Where along the length of the beam is the shear force the greatest? " type="MultipleChoice">
+    <choice correct="true">At the supports</choice>
+    <choice correct="false">At the quarter point</choice>
+    <choice correct="false">At the midspan</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The shear force is greatest at the supports because the reaction forces cause a jump in the force that the beam must resist.</p>
+
+</div>
+</solution>
+
+</problem>

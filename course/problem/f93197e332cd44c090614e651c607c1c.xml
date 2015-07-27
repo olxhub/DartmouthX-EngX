@@ -1,0 +1,21 @@
+<problem display_name="Finding 4" markdown="&gt;&gt;The column I’ve designed fails by buckling. If I increase the height of the column, what happens to the allowable load?&lt;&lt;&#10;&#10;(x) The allowable load will decrease&#10;( ) The allowable load will increase&#10;( ) The allowable load will remain the same&#10;     &#10;[explanation]&#10;The taller the column the less load it can support before buckling.&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>The column I’ve designed fails by buckling. If I increase the height of the column, what happens to the allowable load?</p>
+<multiplechoiceresponse>
+  <choicegroup label="The column I’ve designed fails by buckling. If I increase the height of the column, what happens to the allowable load?" type="MultipleChoice">
+    <choice correct="true">The allowable load will decrease</choice>
+    <choice correct="false">The allowable load will increase</choice>
+    <choice correct="false">The allowable load will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The taller the column the less load it can support before buckling.</p>
+
+</div>
+</solution>
+
+</problem>

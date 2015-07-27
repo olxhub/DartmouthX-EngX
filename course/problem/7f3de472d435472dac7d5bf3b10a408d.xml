@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 12" markdown="null" max_attempts="2">
+<p>If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the bending moments along the length of the beam? Assume the loading remains the same.</p>
+  <img src="/static/C5_KC12.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="If the wood beam shown below is replaced with a steel beam of the exact same dimensions, what will happen to the bending moments along the length of the beam? Assume the loading remains the same." type="MultipleChoice">
+    <choice correct="false">The bending moments along the length will increase</choice>
+    <choice correct="false">The bending moments along the length will decrease</choice>
+    <choice correct="true">There will be NO change in the bending moments along the length</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>This beam is statically determinate so the material type will not affect the shear forces or bending moments. The allowable stress and deformations, however, will change.</p>
+
+</div>
+</solution>
+
+</problem>

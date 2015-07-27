@@ -1,0 +1,43 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="2" weight="0.0">
+<p>What is the magnitude of the force in member AB?</p>
+  <p/>
+<multiplechoiceresponse>
+  <choicegroup label="What is the magnitude of the force in member AB?" type="MultipleChoice">
+    <choice correct="false">20kN</choice>
+    <choice correct="true">30kN</choice>
+    <choice correct="false">40kN</choice>
+    <choice correct="false">50kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <p/>
+  <p>What is the magnitude of the force in member AC?</p>
+  <p/>
+<multiplechoiceresponse>
+  <choicegroup label="What is the magnitude of the force in member AC?" type="MultipleChoice">
+    <choice correct="false">20kN</choice>
+    <choice correct="false">30kN</choice>
+    <choice correct="false">40kN</choice>
+    <choice correct="true">50kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <p/>
+  <p>What is the magnitude of the force in member BC?</p>
+  <p/>
+<multiplechoiceresponse>
+  <choicegroup label="What is the magnitude of the force in member BC?" type="MultipleChoice">
+    <choice correct="false">20kN</choice>
+    <choice correct="false">30kN</choice>
+    <choice correct="false">40kN</choice>
+    <choice correct="true">50kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+  <p><img src="/static/C4_TrussProblem345.jpg" alt="Solution diagram" width="600"/></p>
+</div>
+</solution>
+
+</problem>

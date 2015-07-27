@@ -1,0 +1,39 @@
+<problem display_name="Experiment with Rope 2" markdown="null" showanswer="never">
+  <p>Choose the loading condition that represents each form. We'll review the answers in the Lesson: Funicular Forms video.</p>
+   <table width="70%">
+    <tr>
+      <td width="40%">
+        <img src="/static/C2_WDYT_load7.jpg"/>
+      </td>
+      <td width="60%">
+        <multiplechoiceresponse>
+          <choicegroup label="Choose the loading condition that represents each form 1:" type="MultipleChoice" show_correctness="never">
+            <choice correct="false">Cable with no load applied</choice>
+            <choice correct="false">Cable with 1 load applied</choice>
+            <choice correct="false">Cable with 2 equal loads applied</choice>
+            <choice correct="true">Cable with 2 unequal loads applied</choice>
+          </choicegroup>
+        </multiplechoiceresponse>
+      </td>
+    </tr>
+  </table>
+  <p/>
+   <table width="70%">
+    <tr>
+      <td width="40%">
+        <img src="/static/C2_WDYT_load9.jpg"/>
+      </td>
+      <td width="60%">
+        <multiplechoiceresponse>
+          <choicegroup label="Choose the loading condition that represents each form 1:" type="MultipleChoice" show_correctness="never">
+            <choice correct="false">Cable with no load applied</choice>
+            <choice correct="false">Cable with 1 load applied</choice>
+            <choice correct="true">Cable with 2 equal loads applied</choice>
+            <choice correct="false">Cable with 2 unequal loads applied</choice>
+          </choicegroup>
+        </multiplechoiceresponse>
+      </td>
+    </tr>
+  </table>
+  <p/>
+</problem>

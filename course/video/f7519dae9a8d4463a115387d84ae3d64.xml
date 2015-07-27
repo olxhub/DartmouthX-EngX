@@ -1,0 +1,9 @@
+<video youtube="1.00:SZM0kGBote4" url_name="f7519dae9a8d4463a115387d84ae3d64" display_name="Lesson: Shear and Bending (Video 8:58)" download_track="true" download_video="true" edx_video_id="11f49b69-2f15-444a-acdd-4484b53faa55" html5_sources="[]" sub="SZM0kGBote4" track="/static/C5_LessonShearAndBending.pdf" youtube_id_1_0="SZM0kGBote4">
+  <track src="/static/C5_LessonShearAndBending.pdf"/>
+  <video_asset client_video_id="C5_LessonShearAndBending.mp4" duration="538.75">
+    <encoded_video bitrate="175" file_size="11819990" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003900_MB2.mp4"/>
+    <encoded_video bitrate="296" file_size="19954558" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003900_MB1.mp4"/>
+    <encoded_video bitrate="523" file_size="35275715" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003900_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="SZM0kGBote4"/>
+  </video_asset>
+</video>

@@ -1,0 +1,17 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="2" weight="0.0">
+  <p>Design an arch with a height of 15m to span 100m and support a load 500kN/m. Determine the cross-sectional area required for the arch, given that the arch is made of a material with an allowable compressive stress of 1400kN/m<sup>2</sup>. Ignore self-weight and assume the arch fails in compression rather than buckling.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Design an arch with a height of 15m to span 100m and support a load 500kN/m. Determine the cross-sectional area required for the arch, given that the arch is made of a material with an allowable compressive stress of 1400kN/m2. Ignore self-weight and assume the arch fails in compression rather than buckling." type="MultipleChoice">
+      <choice correct="false">A = 12.2m<sup>2</sup> </choice>
+      <choice correct="true">A = 29.8m<sup>2</sup></choice>
+      <choice correct="false">A = 31.3m<sup>2</sup></choice>
+      <choice correct="false">A = 74.6m<sup>2</sup></choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <img src="/static/C3_Problem4Ans.jpg" width="600" alt="C=500kN/m*(100m)^2/(8*15m) = 41667kN; A&gt;Callowable stress = 1400kN/m^2 / 41667kN =  29.8m2 = A"/>
+    </div>
+  </solution>
+</problem>

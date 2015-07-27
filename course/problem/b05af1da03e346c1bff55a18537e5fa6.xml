@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 8" markdown="null" max_attempts="2" weight="1.0">
+
+<p>Do you expect the diagonal members of the truss that are highlighted in green to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows? </p>
+  <p><img src="/static/C4_TaftsvillKC3.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect the diagonal members of the truss that are highlighted in green to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows?" type="MultipleChoice">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Both tension and compression</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The diagonals will be in compression and the vertical members will be in tension (the diagonals need to balance out the tension in the verticals).
+</p>
+
+</div>
+</solution>
+
+</problem>

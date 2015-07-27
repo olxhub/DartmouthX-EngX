@@ -1,0 +1,23 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" weight="0.0">
+<p>
+    <img src="/static/C3_ArchP1.JPG"/>
+  </p>
+  <p>For the Landscape Arch example where height=24m, what is the compressive force in the arch if the span is 75m instead of 88m? Assume that the load on the arch remains the same at 222.8kN/m.</p>
+
+<multiplechoiceresponse>
+  <choicegroup label="For the Landscape Arch example where height=24m, what is the compressive force in the arch if the span is 75m instead of 88m?" type="MultipleChoice">
+    <choice correct="false">214 kN</choice>
+    <choice correct="true">6527 kN</choice>
+    <choice correct="false">8986 kN</choice>
+    <choice correct="false">2876 kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+    <div class="detailed-solution">
+      <p>Explanation:</p>
+      <p>As the span (or length, L) decreases the compressive force in the arch will also decrease.</p>
+      <img src="/static/C3_ProblemArch1Ans.jpg" width="600" alt="C=222.8kN/m*75m^2/(8*24m) = 6527kN"/>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,24 @@
+<problem display_name="Question 4" markdown="&gt;&gt;What type of lateral force-resisting system does the Willis Tower use?&lt;&lt;&#10;&lt;img src=&quot;/static/C6_Willis.jpg&quot; width=&quot;300&quot; /&gt;&#10;&#10;( ) a moment-resisting frame&#10;( ) a braced frame&#10;( ) a shearwall&#10;(x) a tube-framed system&#10;( ) I don’t know&#10;&#10;[explanation]&#10;The Willis Tower uses a tube-framed system to resist lateral loads. Fazlur Kahn introduced this type of system for buildings, allowing the heights of buildings to increase dramatically.&#10;[explanation]&#10;&#10;&#10;&#10;&#10;&#10;" max_attempts="1">
+<p>What type of lateral force-resisting system does the Willis Tower use?</p>
+<img src="/static/C6_Willis.jpg" width="300"/>
+<multiplechoiceresponse>
+  <choicegroup label="What type of lateral force-resisting system does the Willis Tower use?" type="MultipleChoice">
+    <choice correct="false">a moment-resisting frame</choice>
+    <choice correct="false">a braced frame</choice>
+    <choice correct="false">a shearwall</choice>
+    <choice correct="true">a tube-framed system</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The Willis Tower uses a tube-framed system to resist lateral loads. Fazlur Kahn introduced this type of system for buildings, allowing the heights of buildings to increase dramatically.</p>
+
+</div>
+</solution>
+
+
+</problem>

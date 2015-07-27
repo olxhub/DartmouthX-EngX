@@ -1,0 +1,9 @@
+<video youtube="1.00:sStmvV3uUF8" url_name="cebee6ae04f844669c3e8b945730cf5f" display_name="Lesson: Shear and Moment (Video 3:37)" download_track="true" download_video="true" edx_video_id="1b8c5601-568a-44fe-8487-57d386740085" html5_sources="[]" sub="sStmvV3uUF8" track="/static/C5_LessonSheerAndMoment.pdf" youtube_id_1_0="sStmvV3uUF8">
+  <track src="/static/C5_LessonSheerAndMoment.pdf"/>
+  <video_asset client_video_id="C5_LessonBendingStressInBeams.mp4" duration="217.69">
+    <encoded_video bitrate="635" file_size="17288550" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004000_DTH.mp4"/>
+    <encoded_video bitrate="315" file_size="8599517" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004000_MB1.mp4"/>
+    <encoded_video bitrate="227" file_size="6186649" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004000_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="sStmvV3uUF8"/>
+  </video_asset>
+</video>

@@ -1,0 +1,19 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" weight="0.0">
+  <p>
+    <img src="/static/C3_ArchP2.JPG"/>
+  </p>
+  <p>For the Landscape Arch example, how would the compressive stress in the arch change if the height was 30m instead of 24m?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="For the Landscape Arch example, how would the compressive stress in the arch change if the height was 30m instead of 24m?" type="MultipleChoice">
+      <choice correct="false">compressive stress will increase</choice>
+      <choice correct="false">compressive stress will stay the same</choice>
+      <choice correct="true">compressive stress will decrease</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>As the height of the arch increases, the compressive force in the arch decreases.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 3" markdown="&gt;&gt;What is the minimum number of support forces required for a truss (and other types of structures) to be stable?&lt;&lt;&#10;     ( ) 2&#10;     (x) 3&#10;     ( ) 4&#10;     ( ) 5&#10;     &#10;[explanation]&#10;Three reaction forces are required to keep a truss structure stable. Trusses are typically supported by a pinned connection at one end and a roller connection at the other end.&#10;[explanation]&#10;" max_attempts="2">
+<p>What is the minimum number of support forces required for a truss (and other types of structures) to be stable?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the minimum number of support forces required for a truss (and other types of structures) to be stable?" type="MultipleChoice">
+    <choice correct="false">2</choice>
+    <choice correct="true">3</choice>
+    <choice correct="false">4</choice>
+    <choice correct="false">5</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Three reaction forces are required to keep a truss structure stable. Trusses are typically supported by a pinned connection at one end and a roller connection at the other end.</p>
+
+</div>
+</solution>
+
+</problem>

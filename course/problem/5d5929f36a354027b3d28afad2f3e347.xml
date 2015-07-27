@@ -1,0 +1,17 @@
+<problem display_name="Knowledge Check 3" markdown="&gt;&gt;The bottom ring of a dome must support what type of force:&lt;&lt;&#10;&#10;( ) shear&#10;( ) bending&#10;(x) tension &#10;( ) compression&#10;&#10;[explanation]&#10;Explanation: the bottom ring of a dome must support tension forces. &#10;[explanation]&#10;&#10;" max_attempts="2">
+  <p>The bottom ring of a dome must support what type of force:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The bottom ring of a dome must support what type of force:" type="MultipleChoice">
+      <choice correct="false">shear</choice>
+      <choice correct="false">bending</choice>
+      <choice correct="true">tension </choice>
+      <choice correct="false">compression</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Explanation: the bottom ring of a dome must support tension forces. </p>
+    </div>
+  </solution>
+</problem>

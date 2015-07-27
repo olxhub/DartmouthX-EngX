@@ -1,0 +1,9 @@
+<video youtube="1.00:RW3ZDH6t7-8" url_name="69945af4d3ff48b680de77055658bf22" display_name="Example: Eiffel Tower (Video 6:18)" download_track="true" download_video="true" edx_video_id="4ed0d817-7340-4d92-902a-612a50a2fb85" html5_sources="[]" sub="RW3ZDH6t7-8" track="/static/C5_ExampleEiffelTower.pdf" youtube_id_1_0="RW3ZDH6t7-8">
+  <track src="/static/C5_ExampleEiffelTower.pdf"/>
+  <video_asset client_video_id="C5_ExampleEiffelTower.mp4" duration="377.3">
+    <encoded_video bitrate="372" file_size="17567311" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004100_MB1.mp4"/>
+    <encoded_video bitrate="253" file_size="11935905" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004100_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="RW3ZDH6t7-8"/>
+    <encoded_video bitrate="753" file_size="35548723" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004100_DTH.mp4"/>
+  </video_asset>
+</video>

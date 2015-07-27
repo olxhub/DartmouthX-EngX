@@ -1,0 +1,20 @@
+<problem display_name="Observation 2" markdown="&gt;&gt;As the mass increases, what happens to the time required for 5 cycles of motion?&lt;&lt;&#10;(x) the time increases&#10;( ) the time decreases&#10;( ) the time stays the same&#10;&#10;[explanation]&#10;As you increase the mass of the SDOF system it tends to oscillate at a slower rate. More mass means a slower frequency, or rate of oscillation.&#10;[explanation]&#10;" max_attempts="3" weight="0.0">
+<p>As the mass increases, what happens to the time required for 5 cycles of motion?</p>
+<multiplechoiceresponse>
+  <choicegroup label="As the mass increases, what happens to the time required for 5 cycles of motion?" type="MultipleChoice">
+    <choice correct="true">the time increases</choice>
+    <choice correct="false">the time decreases</choice>
+    <choice correct="false">the time stays the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As you increase the mass of the SDOF system it tends to oscillate at a slower rate. More mass means a slower frequency, or rate of oscillation.</p>
+
+</div>
+</solution>
+
+</problem>

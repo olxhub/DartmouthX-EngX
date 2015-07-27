@@ -1,0 +1,20 @@
+<problem display_name="Finding 2" markdown="&gt;&gt;Which cross-sectional shape is the most efficient? I.e., if all other parameters are kept constant, which shape uses the least amount of material?&lt;&lt;&#10;( ) A solid section&#10;(x) A hollow section&#10;( ) An I-beam&#10;&#10;[explanation] In this simulation the hollow section is the most efficient. By moving the area of the cross-section away from the center you get a higher moment of inertia thus more resistance to bending for less total area. It would be possible to design an i-beam that was as efficient or even more efficient but for this simulation the i-beam is less efficient.&#10;[explanation]&#10;" max_attempts="3" weight="0.0">
+<p>Which cross-sectional shape is the most efficient? I.e., if all other parameters are kept constant, which shape uses the least amount of material?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which cross-sectional shape is the most efficient? I.e., if all other parameters are kept constant, which shape uses the least amount of material?" type="MultipleChoice">
+    <choice correct="false">A solid section</choice>
+    <choice correct="true">A hollow section</choice>
+    <choice correct="false">An I-beam</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p> In this simulation the hollow section is the most efficient. By moving the area of the cross-section away from the center you get a higher moment of inertia thus more resistance to bending for less total area. It would be possible to design an i-beam that was as efficient or even more efficient but for this simulation the i-beam is less efficient.</p>
+
+</div>
+</solution>
+
+</problem>

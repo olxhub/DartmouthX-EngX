@@ -1,0 +1,10 @@
+<video youtube="1.00:Y-rNdQ6Gig8" url_name="fd0eb8f3dffc46cd8efbb776c6cbfcac" display_name="Lesson: Tensegrity (Video 02:26)" download_track="true" download_video="true" edx_video_id="aaf33330-8d1a-4177-bc4e-0f1c053c454b" html5_sources="[]" sub="Y-rNdQ6Gig8" track="/static/C4_LessonTensegrity.pdf" youtube_id_1_0="Y-rNdQ6Gig8">
+  <track src="/static/C4_LessonTensegrity.pdf"/>
+  <video_asset client_video_id="C4_LessonTensegrity.mp4" duration="145.33">
+    <encoded_video bitrate="449" file_size="8165534" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003400_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Y-rNdQ6Gig8"/>
+    <encoded_video bitrate="1002" file_size="18221990" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003400_DTH.mp4"/>
+    <encoded_video bitrate="1091" file_size="19820612" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003400_DTH.webm"/>
+    <encoded_video bitrate="214" file_size="3892920" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003400_MB2.mp4"/>
+  </video_asset>
+</video>

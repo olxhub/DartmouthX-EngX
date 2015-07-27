@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="&gt;&gt;For a given load, P, if the cross-sectional area, A, of a column is reduced by a factor of 2, what will happen to the compressive stress in the column?&lt;&lt;&#10;&#10;(x) It will double&#10;( ) It will decrease by a factor of 2&#10;( ) It will increase by a factor of 4&#10;( ) It will decrease by a factor of 4&#10;&#10;[explanation]&#10;Explanation: If the cross-sectional area is reduced by a factor of 2 the stress will increase by a factor of 2 since stress equals force divided by area.&#10;[explanation]&#10;" max_attempts="1">
+<p>For a given load, P, if the cross-sectional area, A, of a column is reduced by a factor of 2, what will happen to the compressive stress in the column?</p>
+<multiplechoiceresponse>
+  <choicegroup label="For a given load, P, if the cross-sectional area, A, of a column is reduced by a factor of 2, what will happen to the compressive stress in the column?" type="MultipleChoice">
+    <choice correct="true">It will double</choice>
+    <choice correct="false">It will decrease by a factor of 2</choice>
+    <choice correct="false">It will increase by a factor of 4</choice>
+    <choice correct="false">It will decrease by a factor of 4</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: If the cross-sectional area is reduced by a factor of 2 the stress will increase by a factor of 2 since stress equals force divided by area.</p>
+
+</div>
+</solution>
+
+</problem>

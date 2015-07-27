@@ -1,0 +1,10 @@
+<video youtube="1.00:_-jF5NWWB2U" url_name="0316106f6fd947d1bd5dd5fc2b204415" display_name="What do you think?" download_track="true" download_video="true" edx_video_id="d3ad936b-6ff6-4dbb-a5b1-86d045f600e5" html5_sources="[]" sub="_-jF5NWWB2U" track="/static/C1_WhatDoYouThink.pdf" youtube_id_1_0="_-jF5NWWB2U">
+  <track src="/static/C1_WhatDoYouThink.pdf"/>
+  <video_asset client_video_id="C1_WhatDoYouThink.mp4" duration="19.6">
+    <encoded_video bitrate="410" file_size="1008093" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000600_MB1.mp4"/>
+    <encoded_video bitrate="982" file_size="2409378" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000600_DTH.mp4"/>
+    <encoded_video bitrate="144" file_size="355406" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000600_MB2.mp4"/>
+    <encoded_video bitrate="1086" file_size="2662638" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="_-jF5NWWB2U"/>
+  </video_asset>
+</video>

@@ -1,0 +1,48 @@
+<problem display_name="What do you think of Owl's solution?" markdown="null" max_attempts="3" showanswer="attempted">
+  <script type="loncapa/python"> 
+import re 
+   
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 0
+
+   
+</script>
+  <span id="anchor_change_my_id_for_each_one_on_the_page"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_change_my_id_for_each_one_on_the_page") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>
+    <strong>What principles from Concept 3 did Owl use to fix the library treehouse? Why are the modifications working? Do you foresee any potential future pitfalls?</strong>
+  </p>
+  <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Owl's tree buckled due to the extra load from the books in the library. Owl was able to fix the buckling problem by attaching boards to the outside of the tree, thus increasing the tree's moment of inertia. Recall that the moment of inertia is a measure of a column's resistance to bending and buckling and is based on the cross-sectional shape and size of the column. The further the mass is away from the center of the column the higher the moment of inertia so adding boards to the outside of the tree was a great way to keep the tree from buckling. Can you think of other ways to 'solve' Owl's problem?  </p>
+      <p/>
+    </div>
+  </solution>
+</problem>

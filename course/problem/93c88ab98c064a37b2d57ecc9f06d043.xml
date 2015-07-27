@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 11" markdown="&gt;&gt;Resonance occurs when the frequency of an applied motion:&lt;&lt;&#10;( ) is less than the frequency of the system&#10;(x) matches the frequency of the system&#10;( ) is greater than the frequency of the system.&#10;&#10;&#10;&#10;[explanation]&#10;Resonance is a phenomenon that occurs when the natural frequency of the building or other object matches the frequency of the input motion, in our example the motion of an earthquake. When the two frequencies match the motions tend to be amplified.&#10;[explanation]&#10;" max_attempts="2">
+<p>Resonance occurs when the frequency of an applied motion:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Resonance occurs when the frequency of an applied motion:" type="MultipleChoice">
+    <choice correct="false">is less than the frequency of the system</choice>
+    <choice correct="true">matches the frequency of the system</choice>
+    <choice correct="false">is greater than the frequency of the system.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Resonance is a phenomenon that occurs when the natural frequency of the building or other object matches the frequency of the input motion, in our example the motion of an earthquake. When the two frequencies match the motions tend to be amplified.</p>
+
+</div>
+</solution>
+
+</problem>

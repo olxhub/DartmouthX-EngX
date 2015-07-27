@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 7" markdown="&gt;&gt;Do you expect a short, wide column to fail in compression or by buckling?&lt;&lt;&#10;     (x) Compression&#10;     ( ) Buckling&#10;     &#10;[explanation]&#10;Explanation: a short wide column is more likely to fail in compression as buckling is a function of the height and moment of inertia. &#10;[explanation]&#10;&#10;     &#10;&#10;&#10;" max_attempts="1">
+<p>Do you expect a short, wide column to fail in compression or by buckling?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect a short, wide column to fail in compression or by buckling?" type="MultipleChoice">
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Buckling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: a short wide column is more likely to fail in compression as buckling is a function of the height and moment of inertia. </p>
+
+</div>
+</solution>
+
+<p>     </p>
+
+</problem>

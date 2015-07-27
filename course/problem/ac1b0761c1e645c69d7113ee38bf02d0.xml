@@ -1,0 +1,15 @@
+<problem display_name="Question 2" markdown="null" max_attempts="1">
+<p>Which two of the highlighted members in the truss shown below are in compression assuming that downward loads (shown as black arrows) are applied along the bottom chord? </p>
+  <p><img src="/static/C4_CYUQ2b.jpg" width="600" alt="Image of truss bridge"/></p>
+<choiceresponse>
+  <checkboxgroup label="Which highlighted members in the truss shown below is in compression assuming that downward loads (shown as black arrows) are applied along the bottom chord? " direction="vertical">
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+    <choice correct="true">D</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+
+
+</problem>

@@ -1,0 +1,24 @@
+<problem display_name="Knowledge Check 8" markdown="null" max_attempts="2">
+  <img src="/static/C5_KC8.jpg" width="400"/>
+  <p>Which of the images shown below represents the moment diagram for a cantilever beam with a point load at the end?</p>
+  <img src="/static/C5_KC8abcd.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the images shown below represents the moment diagram for a cantilever beam with a point load at the end?" type="MultipleChoice">
+    <choice correct="false">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="true">C</choice>
+    <choice correct="false">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Image C represents the moment diagram for a cantilever beam. For a cantilever beam with the load applied at the end the moment is greatest at the fixed support and decreases linearly to the point load.
+ </p>
+
+</div>
+</solution>
+
+</problem>

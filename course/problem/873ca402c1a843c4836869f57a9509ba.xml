@@ -1,0 +1,16 @@
+<problem display_name="Knowledge Check 8" markdown="null" max_attempts="1">
+  <p>An engineer is considering using a column with one of the cross-sections shown below, A or B. Assuming the cross-sections have the same total cross-sectional area, which will make a stronger column assuming the column will fail by buckling?</p>
+  <img src="/static/C3_WDYT_Q7.png" alt="(A) smaller square solid column or (B) larger square hollow column"/>
+  <multiplechoiceresponse>
+    <choicegroup label="An engineer is considering using a column with one of the cross-sections shown below, A or B. Assuming the cross-sections have the same total area, which will make a stronger column?" type="MultipleChoice">
+      <choice correct="false">Column A, solid square</choice>
+      <choice correct="true">Column B, hollow square</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The hollow cross-section will have a higher moment of inertia since more of the area is away from the center thus will carry a higher load. If the columns were to fail in compression both would be equally strong since the cross-sectional area is the same.</p>
+    </div>
+  </solution>
+</problem>

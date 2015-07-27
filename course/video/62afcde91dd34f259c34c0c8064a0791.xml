@@ -1,0 +1,10 @@
+<video youtube="1.00:nU3ItW0rjRQ" url_name="62afcde91dd34f259c34c0c8064a0791" display_name="Lesson: Angles (Video 5:50)" download_track="true" download_video="true" edx_video_id="3cee0f75-91a6-4de3-bd53-9a16f3b1c744" html5_sources="[]" sub="nU3ItW0rjRQ" track="/static/C2_LessonAngles.pdf" youtube_id_1_0="nU3ItW0rjRQ">
+  <track src="/static/C2_LessonAngles.pdf"/>
+  <video_asset client_video_id="C2_LessonAngles.mp4" duration="349.67">
+    <encoded_video bitrate="1041" file_size="45533343" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001500_DTH.mp4"/>
+    <encoded_video bitrate="202" file_size="8842229" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001500_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="nU3ItW0rjRQ"/>
+    <encoded_video bitrate="1080" file_size="47211499" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001500_DTH.webm"/>
+    <encoded_video bitrate="466" file_size="20406334" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001500_MB1.mp4"/>
+  </video_asset>
+</video>

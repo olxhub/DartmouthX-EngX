@@ -1,0 +1,10 @@
+<video youtube="1.00:wCBcwqY0laU" url_name="62754e5400ac48afa8fe83bb99dc3009" display_name="Build: Tensegrity Sculpture (Video 06:57)" download_track="true" download_video="true" edx_video_id="e92aab9f-97f7-4cdb-bc92-ce44a77f0646" html5_sources="[]" sub="wCBcwqY0laU" track="/static/C4_BuildTensegritySculpture.pdf" youtube_id_1_0="wCBcwqY0laU">
+  <track src="/static/C4_BuildTensegritySculpture.pdf"/>
+  <video_asset client_video_id="C4_BuildTensegritySculpture.mp4" duration="416.82">
+    <encoded_video bitrate="1796" file_size="93612193" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003200_DTH.mp4"/>
+    <encoded_video bitrate="740" file_size="38579189" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003200_MB1.mp4"/>
+    <encoded_video bitrate="292" file_size="15229198" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003200_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="wCBcwqY0laU"/>
+    <encoded_video bitrate="1084" file_size="56520852" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003200_DTH.webm"/>
+  </video_asset>
+</video>

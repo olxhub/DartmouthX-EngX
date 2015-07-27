@@ -1,0 +1,10 @@
+<video youtube="1.00:2h8lzi_0X4U" url_name="15f7053a2a8e4e54a89f68a834894e92" display_name="Build Cable-Stayed Bridge (Video 12:15)" download_track="true" download_video="true" edx_video_id="4bc6745c-698f-40f3-9c10-c3a67e59f357" html5_sources="[]" sub="2h8lzi_0X4U" track="/static/C2_BuildCableStayedBridge.pdf" youtube_id_1_0="2h8lzi_0X4U">
+  <track src="/static/C2_BuildCableStayedBridge.pdf"/>
+  <video_asset client_video_id="C2_BuildCableStayedBridge.mp4" duration="734.01">
+    <encoded_video bitrate="303" file_size="27821489" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001300_MB2.mp4"/>
+    <encoded_video bitrate="678" file_size="62226932" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001300_MB1.mp4"/>
+    <encoded_video bitrate="1713" file_size="157240834" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001300_DTH.mp4"/>
+    <encoded_video bitrate="1071" file_size="98322284" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="2h8lzi_0X4U"/>
+  </video_asset>
+</video>

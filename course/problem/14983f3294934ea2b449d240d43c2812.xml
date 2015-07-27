@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 14" markdown="&gt;&gt;Which of the lateral force-resisting systems tends to be the most flexible, meaning it deflects the most under a given load?&lt;&lt;&#10;(x) moment-resisting frame&#10;( ) braced frame&#10;( ) shearwall&#10;&#10;[explanation]&#10;Moment-resisting frames tend to be the most flexible since it is difficult to create fully moment-resisting connections and the members of the frames tend to be long and slender.&#10;[explanation]&#10;" max_attempts="2">
+<p>Which of the lateral force-resisting systems tends to be the most flexible, meaning it deflects the most under a given load?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the lateral force-resisting systems tends to be the most flexible, meaning it deflects the most under a given load?" type="MultipleChoice">
+    <choice correct="true">moment-resisting frame</choice>
+    <choice correct="false">braced frame</choice>
+    <choice correct="false">shearwall</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Moment-resisting frames tend to be the most flexible since it is difficult to create fully moment-resisting connections and the members of the frames tend to be long and slender.</p>
+
+</div>
+</solution>
+
+</problem>

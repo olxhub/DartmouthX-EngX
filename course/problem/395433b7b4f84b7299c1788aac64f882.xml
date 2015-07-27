@@ -1,0 +1,20 @@
+<problem display_name="Finding 1" markdown="&gt;&gt;Here’s a starting point for you: Design a Howe Truss that has a span of 40m and a height of 8m. Apply a load of 120kN at the center of the bridge and calculate the force in each member of the truss. Which members are in tension? Check all that apply.&lt;&lt;&#10;&#10;[ ] The members along the top&#10;[ ] The diagonal members&#10;[x] The vertical members&#10;[x] The members along the bottom&#10;&#10;[explanation]&#10;When using the simulation, look at the colors of the segments and at the forces on the left side. The red beam AB has a force of 96kN, which is listed as -96kN since it's a compressive force. Now look at the blue beam AC and you can see it has a force of 75kN and is a positive number. This means it's a tensile force.&#10;[explanation]" showanswer="answered" weight="0.0">
+<p>Here’s a starting point for you: Design a Howe Truss that has a span of 40m and a height of 8m. Apply a load of 120kN at the center of the bridge and calculate the force in each member of the truss. Which members are in tension? Check all that apply.</p>
+<choiceresponse>
+  <checkboxgroup label="Here’s a starting point for you: Design a Howe Truss that has a span of 40m and a height of 8m. Apply a load of 120kN at the center of the bridge and calculate the force in each member of the truss. Which members are in tension? Check all that apply." direction="vertical">
+    <choice correct="false">The members along the top</choice>
+    <choice correct="false">The diagonal members</choice>
+    <choice correct="true">The vertical members</choice>
+    <choice correct="true">The members along the bottom</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>When using the simulation, look at the colors of the segments and at the forces on the left side. The red beam AB has a force of 96kN, which is listed as -96kN since it's a compressive force. Now look at the blue beam AC and you can see it has a force of 75kN and is a positive number. This means it's a tensile force.</p>
+
+</div>
+</solution>
+</problem>

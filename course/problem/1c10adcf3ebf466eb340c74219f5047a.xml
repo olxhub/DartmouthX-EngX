@@ -1,0 +1,24 @@
+<problem display_name="Finding 4" markdown="&gt;&gt;If the diameter of the cable is doubled what happens to the maximum load:&lt;&lt;&#10;     ( ) it decreases by a factor of 2&#10;     ( ) it is doubled&#10;     (x) it increases by a factor of 4&#10;     ( ) it decreases by a factor of 4&#10;     &#10;[explanation]&#10;Diameter and allowable load are directly proportional.&#10;[explanation]&#10;&#10;&#10;&#10;&#10;" max_attempts="2" weight="0.0">
+<p>If the diameter of the cable is doubled what happens to the maximum load:</p>
+<multiplechoiceresponse>
+  <choicegroup label="If the diameter of the cable is doubled what happens to the maximum load:" type="MultipleChoice">
+    <choice correct="false">it decreases by a factor of 2</choice>
+    <choice correct="false">it is doubled</choice>
+    <choice correct="true">it increases by a factor of 4</choice>
+    <choice correct="false">it decreases by a factor of 4</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Diameter and allowable load are directly proportional.</p>
+
+</div>
+</solution>
+
+
+
+</problem>

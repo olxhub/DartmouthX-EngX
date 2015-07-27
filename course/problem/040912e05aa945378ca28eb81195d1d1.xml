@@ -1,0 +1,24 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Do you expect a tall, narrow column to fail in compression or by buckling?&lt;&lt;&#10;&#10;This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question was phrased in confusing way to some, when the course ran.&#10;&#10;(x) Compression &#10;(x) Buckling&#10;&#10;[explanation]&#10;The answer is Buckling.&#10;&#10;A tall, narrow column is more likely to fail in buckling since the taller the column the lower the buckling load and the narrower the column cross-section the lower the buckling load.&#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>Do you expect a tall, narrow column to fail in compression or by buckling?</p>
+
+<p>This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question was phrased in confusing way to some, when the course ran.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect a tall, narrow column to fail in compression or by buckling?" type="MultipleChoice">
+    <choice correct="true">Compression</choice>
+    <choice correct="true">Buckling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The answer is Buckling.</p>
+
+<p>A tall, narrow column is more likely to fail in buckling since the taller the column the lower the buckling load and the narrower the column cross-section the lower the buckling load.</p>
+
+</div>
+</solution>
+
+
+</problem>

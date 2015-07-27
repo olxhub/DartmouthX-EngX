@@ -1,0 +1,23 @@
+<problem display_name="Finding 3" markdown="Same set-up as above:&#10;Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. &#10;&#10;&gt;&gt;What happens to the magnitude of the bending moment if you increase the span of the simply-supported beam? Assume that the distributed load remains the same.&lt;&lt;&#10;( ) The magnitude of the moment decreases&#10;( ) The magnitude of the moment remains the same&#10;(x) The magnitude of the moment increases&#10;&#10;[explanation]&#10;As the span increases the moment will increase since a greater span results in a larger moment at the middle both because the load increases and the distance increases.&#10;[explanation]&#10;" showanswer="always" weight="0.0">
+<p>Same set-up as above:</p>
+<p>Design a simply-supported beam with a span of 10m that supports a distributed load of 50kN/m. </p>
+
+<p>What happens to the magnitude of the bending moment if you increase the span of the simply-supported beam? Assume that the distributed load remains the same.</p>
+<multiplechoiceresponse>
+  <choicegroup label="What happens to the magnitude of the bending moment if you increase the span of the simply-supported beam? Assume that the distributed load remains the same." type="MultipleChoice">
+    <choice correct="false">The magnitude of the moment decreases</choice>
+    <choice correct="false">The magnitude of the moment remains the same</choice>
+    <choice correct="true">The magnitude of the moment increases</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the span increases the moment will increase since a greater span results in a larger moment at the middle both because the load increases and the distance increases.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,22 @@
+<problem display_name="Finding 1" markdown="&gt;&gt;Changing the material type (and keeping all other parameters constants) causes:&lt;&lt;&#10;( ) The shear forces to change&#10;( ) The bending moments to change&#10;( ) Both the shear forces and bending moments to change&#10;(x) No change in the shear forces and bending moments&#10;&#9;&#10;[explanation] Changing the material type for a statically determinate beam results in no change in the shear forces and moments. It would, however, result in changes in the stresses.&#10;[explanation]&#10;" max_attempts="3" weight="0.0">
+<p>Changing the material type (and keeping all other parameters constants) causes:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Changing the material type (and keeping all other parameters constants) causes:" type="MultipleChoice">
+    <choice correct="false">The shear forces to change</choice>
+    <choice correct="false">The bending moments to change</choice>
+    <choice correct="false">Both the shear forces and bending moments to change</choice>
+    <choice correct="true">No change in the shear forces and bending moments</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+	
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p> Changing the material type for a statically determinate beam results in no change in the shear forces and moments. It would, however, result in changes in the stresses.</p>
+
+</div>
+</solution>
+
+</problem>

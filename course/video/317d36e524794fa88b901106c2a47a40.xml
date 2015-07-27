@@ -1,0 +1,9 @@
+<video youtube="1.00:cuUtcSNaxWk" url_name="317d36e524794fa88b901106c2a47a40" display_name="Example: Beam Bridge (Video 9:01)" download_track="true" download_video="true" edx_video_id="fa9ae849-1c5c-4d0b-8d15-4048e07aafd4" html5_sources="[]" sub="cuUtcSNaxWk" track="/static/C5_ExampleBeamBridge.pdf" youtube_id_1_0="cuUtcSNaxWk">
+  <track src="/static/C5_ExampleBeamBridge.pdf"/>
+  <video_asset client_video_id="C5_ExampleBeamBridge.mp4" duration="540.75">
+    <encoded_video bitrate="211" file_size="14321920" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004500_MB2.mp4"/>
+    <encoded_video bitrate="383" file_size="25938259" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004500_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="cuUtcSNaxWk"/>
+    <encoded_video bitrate="670" file_size="45300018" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004500_DTH.mp4"/>
+  </video_asset>
+</video>

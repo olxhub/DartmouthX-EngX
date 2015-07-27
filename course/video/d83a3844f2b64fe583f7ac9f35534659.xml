@@ -1,0 +1,10 @@
+<video youtube="1.00:Ao0uqrAiITc" url_name="d83a3844f2b64fe583f7ac9f35534659" display_name="Experimenting With Columns (Video 01:32)" download_track="true" download_video="true" edx_video_id="4fc3d3d4-b670-444b-9293-ad41ff22a6a4" html5_sources="[]" sub="Ao0uqrAiITc" track="/static/C3_ExperimentingWithColumns.pdf" youtube_id_1_0="Ao0uqrAiITc">
+  <track src="/static/C3_ExperimentingWithColumns.pdf"/>
+  <video_asset client_video_id="C3_ExperimentingWithColumns.mp4" duration="91.97">
+    <encoded_video bitrate="188" file_size="2163861" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002100_MB2.mp4"/>
+    <encoded_video bitrate="1100" file_size="12653698" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002100_DTH.webm"/>
+    <encoded_video bitrate="354" file_size="4078461" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002100_MB1.mp4"/>
+    <encoded_video bitrate="748" file_size="8608697" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002100_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Ao0uqrAiITc"/>
+  </video_asset>
+</video>

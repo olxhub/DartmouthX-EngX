@@ -1,0 +1,10 @@
+<video youtube="1.00:gxq9uCrxVEg" url_name="8f3359abdda045d4bda02d54614bcb0e" display_name="Lesson: Trusses (Video 11:11)" download_track="true" download_video="true" edx_video_id="6ce31943-096c-415e-b7e3-3d7874dcdddc" html5_sources="[]" sub="gxq9uCrxVEg" track="/static/C4_LessonTrusses.pdf" youtube_id_1_0="gxq9uCrxVEg">
+  <track src="/static/C4_LessonTrusses.pdf"/>
+  <video_asset client_video_id="C4_LessonTrusses.mp4" duration="670.78">
+    <encoded_video bitrate="373" file_size="31346487" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003500_MB1.mp4"/>
+    <encoded_video bitrate="1037" file_size="86981129" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003500_DTH.webm"/>
+    <encoded_video bitrate="858" file_size="71952740" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003500_DTH.mp4"/>
+    <encoded_video bitrate="187" file_size="15720166" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003500_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="gxq9uCrxVEg"/>
+  </video_asset>
+</video>

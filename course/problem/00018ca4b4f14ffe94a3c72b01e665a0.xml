@@ -1,0 +1,18 @@
+<problem display_name="Query 2" markdown="null" max_attempts="1" showanswer="never">
+  <img src="/static/C2_WDYT_DarwinBellGoldenGate.jpg"/>
+  <p>Which of the elements highlighted in the image of the Golden Gate bridge are in tension only? check all that apply</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the elements highlighted in the image of the Golden Gate bridge are in tension?" direction="vertical" show_correctness="never">
+      <choice correct="false">A</choice>
+      <choice correct="true">B</choice>
+      <choice correct="true">C</choice>
+      <choice correct="false">D</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Great! Your submission has been received <img src="/static/aaa_checkmark.png"/> Thank you for thinking about the structures before starting this concept. </p>
+    </div>
+  </solution>
+</problem>

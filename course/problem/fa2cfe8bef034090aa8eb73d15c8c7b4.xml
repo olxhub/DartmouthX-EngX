@@ -1,0 +1,29 @@
+<problem display_name="Problem 2" markdown="null" max_attempts="2" weight="0.0">
+<table>
+    <tr width="95%">
+      <td width="50%">
+        <p>What is the force in the cable in kN if the height of the funicular form in Problem 1 is changed from 4m to 10m?</p>
+        <p><em>This problem was previously open answer and we have changed it to multiple choice based on feedback.</em></p>
+      </td>
+      <td width="50%">
+        <img src="/static/C2_Prob2.jpg" width="350" alt="diagram"/>
+      </td>
+    </tr>
+  </table>
+
+<multiplechoiceresponse>
+  <choicegroup label="What is the force in the cable in kN if the height of the funicular form in Problem 1 is changed from 4m to 10m?" type="MultipleChoice">
+    <choice correct="false">2.56 kN</choice>
+    <choice correct="true">2.69 kN</choice>
+    <choice correct="false">5.39 kN</choice>
+    <choice correct="false">8.08 kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+ <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <img src="/static/C2_FFProb2.jpg" width="600" alt="angle = atan(10/4)=68.2degrees, F=5kN/(2*sin(68.2)) = 2.69kN"/>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="Finding 1" markdown="&gt;&gt;What happens to the allowable load when the height of a funicular form is increased?&lt;&lt;&#10;     ( ) The allowable load decreases&#10;     (x) The allowable load increases&#10;     ( ) The allowable load remains the same&#10;     &#10;[explanation]&#10;As the cable becomes closer to vertical, the force, &lt;strong&gt;&lt;em&gt;F&lt;/em&gt;&lt;/strong&gt;, in the cable decreases and thus the allowable load increases.&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>What happens to the allowable load when the height of a funicular form is increased?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What happens to the allowable load when the height of a funicular form is increased?" type="MultipleChoice">
+    <choice correct="false">The allowable load decreases</choice>
+    <choice correct="true">The allowable load increases</choice>
+    <choice correct="false">The allowable load remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the cable becomes closer to vertical, the force, <strong><em>F</em></strong>, in the cable decreases and thus the allowable load increases.</p>
+
+</div>
+</solution>
+
+</problem>

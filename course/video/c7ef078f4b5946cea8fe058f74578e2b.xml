@@ -1,0 +1,10 @@
+<video youtube="1.00:9cEHC-NqhyU" url_name="c7ef078f4b5946cea8fe058f74578e2b" display_name="Tutorial: Introduction to SketchUp Make (Video 15:28)" download_track="true" download_video="true" edx_video_id="9bc15773-ff30-46f1-ad15-2df17f961a7b" html5_sources="[]" sub="9cEHC-NqhyU" track="/static/C1_TutorialIntroductionToSketchUp.pdf" youtube_id_1_0="9cEHC-NqhyU">
+  <track src="/static/C1_TutorialIntroductionToSketchUp.pdf"/>
+  <video_asset client_video_id="C1_TutorialIntroductionToSketchUp.mp4" duration="927.2">
+    <encoded_video bitrate="154" file_size="17890618" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000700_MB1.mp4"/>
+    <encoded_video bitrate="159" file_size="18536560" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000700_MB2.mp4"/>
+    <encoded_video bitrate="225" file_size="26185747" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000700_DTH.mp4"/>
+    <encoded_video bitrate="568" file_size="65896772" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="9cEHC-NqhyU"/>
+  </video_asset>
+</video>

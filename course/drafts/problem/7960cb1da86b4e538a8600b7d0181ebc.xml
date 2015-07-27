@@ -1,0 +1,23 @@
+<problem display_name="Query 3 and 4" markdown="null" max_attempts="1" showanswer="never">
+<img src="/static/C5_WDYT3_4.jpg" width="500"/>
+  <p>At which of the points identified in the image do you expect the <strong>bending stress</strong> to be the highest? Assume that the beam cross-sectional shape and material are constant along the length.</p>
+<multiplechoiceresponse>
+  <choicegroup label="At which of the points identified in the image do you expect the bending stress to be the highest? Assume that the beam cross-sectional shape and material are constant along the length." type="MultipleChoice" show_correctness="never">
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+    <choice correct="false">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+  <p>At which of the points identified in the image do you expect the <strong>shear force</strong> to be the highest? Assume that the beam cross-sectional shape and material are constant along the length.
+</p>
+<multiplechoiceresponse>
+  <choicegroup label="At which of the points identified in the image do you expect the shear force to be the highest? Assume that the beam cross-sectional shape and material are constant along the length. " type="MultipleChoice" show_correctness="never">
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+    <choice correct="false">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

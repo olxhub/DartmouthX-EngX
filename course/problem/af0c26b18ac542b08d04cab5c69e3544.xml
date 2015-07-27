@@ -1,0 +1,16 @@
+<problem display_name="Knowledge Check 5" markdown="null" max_attempts="2">
+  <p>Identify the correct loading that goes with the funicular form:</p>
+  <p/>
+  <center>
+    <img src="/static/C2_KC5.jpg" width="600px" alt="Diagram"/>
+  </center>
+  <p/>
+  <multiplechoiceresponse>
+    <choicegroup label="Identify the correct loading that goes with the funicular form:" type="MultipleChoice">
+      <choice correct="false">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="true">C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  
+</problem>

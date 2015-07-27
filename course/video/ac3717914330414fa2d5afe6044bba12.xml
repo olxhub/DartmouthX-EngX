@@ -1,0 +1,10 @@
+<video youtube="1.00:-hrAlY_s7gY" url_name="ac3717914330414fa2d5afe6044bba12" display_name="Example: Owls Basket (Video 3:35)" download_track="true" download_video="true" edx_video_id="e4d7a5e5-af55-4787-8849-349b9d8b7b06" html5_sources="[]" sub="-hrAlY_s7gY" track="/static/C2_ExampleOwlsBasket.pdf" youtube_id_1_0="-hrAlY_s7gY">
+  <track src="/static/C2_ExampleOwlsBasket.pdf"/>
+  <video_asset client_video_id="C2_ExampleOwlsBasket.mp4" duration="214.46">
+    <encoded_video bitrate="231" file_size="6197156" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001000_MB2.mp4"/>
+    <encoded_video bitrate="1083" file_size="29037410" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001000_DTH.mp4"/>
+    <encoded_video bitrate="447" file_size="12002153" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001000_MB1.mp4"/>
+    <encoded_video bitrate="1072" file_size="28750929" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="-hrAlY_s7gY"/>
+  </video_asset>
+</video>

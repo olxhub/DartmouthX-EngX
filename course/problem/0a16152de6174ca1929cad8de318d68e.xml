@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;Why is stone a good material for arches and domes?&lt;&lt;&#10;&#10;[ ] It is weak in compression&#10;[x] It is strong in compression&#10;[ ] It is weak in tension &#10;[ ] It is strong in tension&#10;&#10;[Explanation]&#10;Stone is strong in compression and arches and domes primarily resist compressive forces.&#10;[Explanation]&#10;&#10;&#10;" max_attempts="2">
+<p>Why is stone a good material for arches and domes?</p>
+<choiceresponse>
+  <checkboxgroup label="Why is stone a good material for arches and domes?" direction="vertical">
+    <choice correct="false">It is weak in compression</choice>
+    <choice correct="true">It is strong in compression</choice>
+    <choice correct="false">It is weak in tension </choice>
+    <choice correct="false">It is strong in tension</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Stone is strong in compression and arches and domes primarily resist compressive forces.</p>
+
+</div>
+</solution>
+
+</problem>

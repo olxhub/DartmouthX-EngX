@@ -1,0 +1,10 @@
+<video youtube="1.00:JcS7WrIWeXs" url_name="34acf04eb5204ddabb2886f11036805f" display_name="Build: Truss Bridge (Video 05:27)" download_track="true" download_video="true" edx_video_id="960f166f-3130-4206-bcc6-a914bf0bfde4" html5_sources="[]" sub="JcS7WrIWeXs" track="/static/C4_BuildTrussBridge.pdf" youtube_id_1_0="JcS7WrIWeXs">
+  <track src="/static/C4_BuildTrussBridge.pdf"/>
+  <video_asset client_video_id="C4_BuildTrussBridge.mp4" duration="326.01">
+    <encoded_video bitrate="252" file_size="10275451" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003100_MB2.mp4"/>
+    <encoded_video bitrate="1087" file_size="44333703" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003100_DTH.webm"/>
+    <encoded_video bitrate="1912" file_size="77924677" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003100_DTH.mp4"/>
+    <encoded_video bitrate="696" file_size="28389801" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003100_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="JcS7WrIWeXs"/>
+  </video_asset>
+</video>

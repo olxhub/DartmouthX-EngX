@@ -1,0 +1,17 @@
+<problem display_name="Problem 3" markdown="null" max_attempts="2" weight="0.0">
+  <p>Let’s look at a smaller and thinner femur. If the length of the femur (0.47m) and the inner diameter (0.02m) remain the same but the outer diameter is reduced to 0.025m, how much load can the femur support before it fails in compression? Note that the allowable compressive stress of bone is 170x10<sup>6</sup>Pa.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Let’s look at a smaller and thinner femur. If the length of the femur (0.47m) and the inner diameter (0.02m) remain the same but the outer diameter is reduced to 0.025m, how much load can the femur support before it fails in compression? Note that the allowable compressive stress of bone is 170x106Pa." type="MultipleChoice">
+      <choice correct="false">P<sub>allow</sub> = 110 kN</choice>
+      <choice correct="false">P<sub>allow</sub> = 85 kN</choice>
+      <choice correct="true">P<sub>allow</sub> = 30 kN </choice>
+      <choice correct="false">P<sub>allow</sub> = 17 kN</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation: The cross-sectional area is reduced so the allowable load will also be reduced.</p>
+      <img src="/static/C3_Problem3Ans.jpg" width="600" alt="Pallow = 170x106Pa*(Area =0.000177m^2) = 30.0kN."/>
+    </div>
+  </solution>
+</problem>

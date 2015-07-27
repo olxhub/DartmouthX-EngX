@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;What is the purpose of creating a prototype or model? Check all that apply.&lt;&lt;&#10;&#10;[x]To help you better understand the structure or system&#10;[x]To help you explore different options&#10;[x]To understand how your structure will look&#10;[x]To determine how the structure might fail&#10;&#10;[explanation]&#10;All are good reasons to build a prototype or model!&#10;[explanation]&#10;" max_attempts="2">
+<p>What is the purpose of creating a prototype or model? Check all that apply.</p>
+<choiceresponse>
+  <checkboxgroup label="What is the purpose of creating a prototype or model? Check all that apply." direction="vertical">
+    <choice correct="true">To help you better understand the structure or system</choice>
+    <choice correct="true">To help you explore different options</choice>
+    <choice correct="true">To understand how your structure will look</choice>
+    <choice correct="true">To determine how the structure might fail</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>All are good reasons to build a prototype or model!</p>
+
+</div>
+</solution>
+
+</problem>

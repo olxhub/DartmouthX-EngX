@@ -1,0 +1,27 @@
+<problem display_name="Question 6" markdown="null" max_attempts="1">
+
+<p>The elastic bands, ropes, or cables used in a tensegrity structure resist:
+ </p>
+  <p><img src="/static/C4_CYUQ2.jpg" width="400" alt="Tensegrity Tree"/></p>
+  <p><em>"B Tree by Kenneth Snelson, Image Credit: takomabibelot/Flickr (CC BY-NC-ND-2.0)</em></p>
+<multiplechoiceresponse>
+  <choicegroup label="The elastic bands, ropes, or cables used in a tensegrity structure resist:" type="MultipleChoice">
+    <choice correct="false">Compression only</choice>
+    <choice correct="true">Tension only</choice>
+    <choice correct="false">Compression and tension</choice>
+    <choice correct="false">Shear</choice>
+    
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The elastic bands, ropes, or cables used in a tensegrity structure resist tension only. The dowels resist compression.
+</p>
+
+</div>
+</solution>
+
+</problem>

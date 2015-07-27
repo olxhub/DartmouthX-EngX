@@ -1,0 +1,26 @@
+<problem display_name="Question 5" markdown="&gt;&gt;Which of the diagrams shown below represents the shear diagram for a propped cantilever beam with a point load at the end?&lt;&lt;&#10;&#10;This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question contained an error when the course ran.&#10;&#10;&lt;img src=&quot;/static/C5_CYU_Q5b.jpg&quot; width=&quot;500&quot; /&gt;&#10;&lt;img src=&quot;/static/C5_CYU_Q5.jpg&quot; width=&quot;500&quot; /&gt;&#10;&#10;(x) A&#10;(x) B&#10;(x) C&#10;(x) D&#10;&#10;[explanation]&#10;&#10;The correct answer is A.&#10;&#10;Diagram A represents the shear along the length of a propped cantilever beam. The shear is constant and negative between the supports and constant and positive in the overhanging portion.&#10;&#10;[explanation]&#10;" max_attempts="1">
+<p>Which of the diagrams shown below represents the shear diagram for a propped cantilever beam with a point load at the end?</p>
+
+<p>This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question contained an error when the course ran.</p>
+
+<img src="/static/C5_CYU_Q5b.jpg" width="500"/>
+<img src="/static/C5_CYU_Q5.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the diagrams shown below represents the shear diagram for a propped cantilever beam with a point load at the end?" type="MultipleChoice">
+    <choice correct="true">A</choice>
+    <choice correct="true">B</choice>
+    <choice correct="true">C</choice>
+    <choice correct="true">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>The correct answer is A.</p>
+
+<p>Diagram A represents the shear along the length of a propped cantilever beam. The shear is constant and negative between the supports and constant and positive in the overhanging portion.</p>
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,42 @@
+<problem display_name="Knowledge Check 15" markdown="null" max_attempts="2">
+  <script type="loncapa/python"> 
+import re 
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 1
+</script>
+  <span id="anchor_KC15"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_KC15") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>What are some of the advantages and disadvantages to using each of the different types of lateral-force resisting systems?</p>
+  <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Moment resisting frames tend to be the most flexible, use the least amount of material, and allow for lots of openings. Braced frames tend to be quite stiff and fairly efficient but creating openings is more difficult. Shearwalls are quite stiff and fairly easy to build but require a fair amount of materials and do not allow for openings.</p>
+    </div>
+  </solution>
+</problem>

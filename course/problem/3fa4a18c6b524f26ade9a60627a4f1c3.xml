@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 1" markdown="&gt;&gt;Will it be more difficult to hold your arm out horizontally and support a book near your hand or near your shoulder?&lt;&lt;&#10;(x) It will be more difficult to hold a book near your hand&#10;( ) It will be more difficult to hold a book near your shoulder&#10;( ) There will be no difference between holding a book near my hand or shoulder.&#10;&#10;[explanation]&#10;It will be more difficult to hold your arm horizontal with a book near your hand than near your shoulder since the distance between your hand and the point of support (your shoulder) will be greater. The further a weight (in this case the weight of a book) is from the point of support the greater the tendency of that weight to cause a rotation, which must be resisted.&#10;[explanation]&#10;" max_attempts="2">
+<p>Will it be more difficult to hold your arm out horizontally and support a book near your hand or near your shoulder?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Will it be more difficult to hold your arm out horizontally and support a book near your hand or near your shoulder?" type="MultipleChoice">
+    <choice correct="true">It will be more difficult to hold a book near your hand</choice>
+    <choice correct="false">It will be more difficult to hold a book near your shoulder</choice>
+    <choice correct="false">There will be no difference between holding a book near my hand or shoulder.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>It will be more difficult to hold your arm horizontal with a book near your hand than near your shoulder since the distance between your hand and the point of support (your shoulder) will be greater. The further a weight (in this case the weight of a book) is from the point of support the greater the tendency of that weight to cause a rotation, which must be resisted.</p>
+
+</div>
+</solution>
+
+</problem>

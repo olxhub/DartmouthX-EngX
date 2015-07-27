@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 2" markdown="&gt;&gt;The towers of a cable-stayed bridge must resist what types of forces?&lt;&lt;&#10;     ( ) Tension only&#10;     ( ) Compression only&#10;     ( ) Tension and bending&#10;     (x) Compression and bending&#10;     &#10;[explanation]&#10;The cables of a cable-stayed bridge are connected directly to the tower thus cause bending in addition to compression.&#10;[explanation]&#10;" max_attempts="2">
+<p>The towers of a cable-stayed bridge must resist what types of forces?</p>
+<multiplechoiceresponse>
+  <choicegroup label="The towers of a cable-stayed bridge must resist what types of forces?" type="MultipleChoice">
+    <choice correct="false">Tension only</choice>
+    <choice correct="false">Compression only</choice>
+    <choice correct="false">Tension and bending</choice>
+    <choice correct="true">Compression and bending</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The cables of a cable-stayed bridge are connected directly to the tower thus cause bending in addition to compression.</p>
+
+</div>
+</solution>
+
+</problem>

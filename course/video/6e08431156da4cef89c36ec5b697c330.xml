@@ -1,0 +1,10 @@
+<video youtube="1.00:Ywimq_zIrVY" url_name="6e08431156da4cef89c36ec5b697c330" display_name="Example: Landscape Arch (Video 04:53)" download_track="true" download_video="true" edx_video_id="10a35d49-d733-422a-9704-f5db49d05dfe" html5_sources="[]" sub="Ywimq_zIrVY" track="/static/C3_ExampleLandscapeArch.pdf" youtube_id_1_0="Ywimq_zIrVY">
+  <track src="/static/C3_ExampleLandscapeArch.pdf"/>
+  <video_asset client_video_id="C3_ExampleLandscapeArch.mp4" duration="292.57">
+    <encoded_video bitrate="400" file_size="14664191" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002500_MB1.mp4"/>
+    <encoded_video bitrate="975" file_size="35664559" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002500_DTH.mp4"/>
+    <encoded_video bitrate="187" file_size="6847953" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002500_MB2.mp4"/>
+    <encoded_video bitrate="1076" file_size="39375258" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Ywimq_zIrVY"/>
+  </video_asset>
+</video>

@@ -1,0 +1,23 @@
+<problem display_name="Question 5" markdown="&gt;&gt;What type of lateral force-resisting system does the following building use; the building is 30 St. Mary Axe (the Gherkin) in London?&lt;&lt;&#10;&lt;img src=&quot;/static/C6_Gherkin.jpg&quot; width=&quot;400&quot; /&gt;&#10;&#10;( ) a moment-resisting frame&#10;(x) a braced frame&#10;( ) a shearwall&#10;( ) I don’t know&#10;&#10;[explanation]&#10;The Gherkin uses a braced frame to resist lateral loads; the overall shape of the building is also helpful in resisting lateral loads and could also be classifed as a tube-framed system with and external braced frame at the exterior.&#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>What type of lateral force-resisting system does the following building use; the building is 30 St. Mary Axe (the Gherkin) in London?</p>
+<img src="/static/C6_Gherkin.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="What type of lateral force-resisting system does the following building use; the building is 30 St. Mary Axe (the Gherkin) in London?" type="MultipleChoice">
+    <choice correct="false">a moment-resisting frame</choice>
+    <choice correct="true">a braced frame</choice>
+    <choice correct="false">a shearwall</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The Gherkin uses a braced frame to resist lateral loads; the overall shape of the building is also helpful in resisting lateral loads and could also be classifed as a tube-framed system with and external braced frame at the exterior.</p>
+
+</div>
+</solution>
+
+
+</problem>

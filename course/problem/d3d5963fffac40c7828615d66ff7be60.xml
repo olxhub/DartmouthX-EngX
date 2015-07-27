@@ -1,0 +1,20 @@
+<problem display_name="Finding 2" markdown="&gt;&gt;I’ve designed a column with a solid square cross-section. If I then switch to a hollow, tube cross-section how will the allowable load be affected? Note: the outside dimensions or width will not change, so the cross-sectional area of the column will be reduced.&lt;&lt;&#10;&#10;(x) The allowable load will decrease&#10;( )The allowable load will increase&#10;( )The allowable load will remain the same&#10;&#10;[explanation]&#10;The load will decrease since by switching to a hollow cross-section with the same width you’ve reduced the cross-sectional area and moment of inertia.&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>I’ve designed a column with a solid square cross-section. If I then switch to a hollow, tube cross-section how will the allowable load be affected? Note: the outside dimensions or width will not change, so the cross-sectional area of the column will be reduced.</p>
+<multiplechoiceresponse>
+  <choicegroup label="I’ve designed a column with a solid square cross-section. If I then switch to a hollow, tube cross-section how will the allowable load be affected? Note: the outside dimensions or width will not change, so the cross-sectional area of the column will be reduced." type="MultipleChoice">
+    <choice correct="true">The allowable load will decrease</choice>
+    <choice correct="false">The allowable load will increase</choice>
+    <choice correct="false">The allowable load will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The load will decrease since by switching to a hollow cross-section with the same width you’ve reduced the cross-sectional area and moment of inertia.</p>
+
+</div>
+</solution>
+
+</problem>

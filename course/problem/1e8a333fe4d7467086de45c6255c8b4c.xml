@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;Modern domes tend to be thinner than early stone and masonry dome.&lt;&lt;&#10;&#10;(x) True&#10;( ) False&#10;&#10;[explanation]&#10;True - modern materials used to build domes tend to have higher allowable stresses so may be thinner. Early stone and masonry domes relied on massive amounts of material at the base to resist the outward forces through friction whereas modern dome generally include a thin tension ring at the base made out of steel or a similar material. &#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>Modern domes tend to be thinner than early stone and masonry dome.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Modern domes tend to be thinner than early stone and masonry dome." type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>True - modern materials used to build domes tend to have higher allowable stresses so may be thinner. Early stone and masonry domes relied on massive amounts of material at the base to resist the outward forces through friction whereas modern dome generally include a thin tension ring at the base made out of steel or a similar material. </p>
+
+</div>
+</solution>
+
+
+</problem>

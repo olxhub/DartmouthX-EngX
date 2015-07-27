@@ -1,0 +1,25 @@
+<problem display_name="Question 4" markdown="null" max_attempts="1">
+
+<p>Do you expect the top chord/member (shown in green) of the truss shown below to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows?
+ </p>
+  <p><img src="/static/C4_CYUQ4.JPG" width="350" alt="Image of truss"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="Do you expect the top chord/member (shown in green) of the truss shown below to be in tension, compression, or both tension and compression due to downward loads as shown by the black arrows? " type="MultipleChoice">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression</choice>
+    <choice correct="false">Both tension and compression</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The top chord or member of this truss will be in compression since under the loading shown it will shorten.
+
+</p>
+
+</div>
+</solution>
+
+</problem>

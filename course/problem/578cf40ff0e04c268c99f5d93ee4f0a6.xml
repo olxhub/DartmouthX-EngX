@@ -1,0 +1,13 @@
+<problem display_name="Query 3" markdown="null" max_attempts="1" showanswer="never">
+<p>What is a tensegrity structure?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is a tensegrity structure?" type="MultipleChoice" show_correctness="never">
+    <choice correct="false">A structure that is only in tension</choice>
+    <choice correct="false">A structure that is only in compression</choice>
+    <choice correct="true">A structure in which some elements are in tension and some elements are in compression</choice>
+    <choice correct="false">A structure in which all elements are in both tension and compression</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

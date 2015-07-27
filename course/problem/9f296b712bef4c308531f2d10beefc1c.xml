@@ -1,0 +1,15 @@
+<problem display_name="Query 2" markdown="null" max_attempts="1" showanswer="never">
+<p>Which one of highlighted members in the truss below are in tension assuming that downward loads (shown as black arrows) are applied along the bottom chord?</p>
+  <p><img src="/static/C4_WDYTQ2.jpg" width="500" alt="Image of truss bridge"/></p>
+<choiceresponse>
+  <checkboxgroup label="Which highlighted members in the truss below are in tension assuming that downward loads (shown as black arrows) are applied along the bottom chord?" direction="vertical" show_correctness="never">
+    <choice correct="false">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+    <choice correct="true">D</choice>
+    <choice correct="true">E</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+
+</problem>

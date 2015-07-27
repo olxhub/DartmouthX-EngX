@@ -1,0 +1,9 @@
+<video youtube="1.00:tB9XpE2Auaw" url_name="04cecc4fc6434cff9d1290d0bde38dd3" display_name="Lesson Building Response (Video 3:17)" download_track="true" download_video="true" edx_video_id="bb56ad10-c2b6-47a9-b0d4-417ce9841851" html5_sources="[]" sub="tB9XpE2Auaw" track="/static/C6_LessonBuildingResponse.pdf" youtube_id_1_0="tB9XpE2Auaw">
+  <track src="/static/C6_LessonBuildingResponse.pdf"/>
+  <video_asset client_video_id="C6_LessonBuildingResponse.mp4" duration="197.28">
+    <encoded_video bitrate="173" file_size="4270588" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004600_MB2.mp4"/>
+    <encoded_video bitrate="441" file_size="10890724" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004600_DTH.mp4"/>
+    <encoded_video bitrate="275" file_size="6802930" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004600_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="tB9XpE2Auaw"/>
+  </video_asset>
+</video>

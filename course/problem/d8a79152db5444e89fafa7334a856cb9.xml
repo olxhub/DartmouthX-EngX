@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 4" markdown="&gt;&gt;The modulus of elasticity is a property related to a column’s:&lt;&lt;&#10;     (x) Material&#10;     ( ) Cross-sectional shape&#10;     ( ) Height&#10;     ( ) Color&#10;     &#10;[explanation]&#10;The modulus of elasticity is a function of the material type. You can look up the modulus of elasticity for different materials.&#10;[explanation]&#10;&#10;" max_attempts="2">
+<p>The modulus of elasticity is a property related to a column’s:</p>
+<multiplechoiceresponse>
+  <choicegroup label="The modulus of elasticity is a property related to a column’s:" type="MultipleChoice">
+    <choice correct="true">Material</choice>
+    <choice correct="false">Cross-sectional shape</choice>
+    <choice correct="false">Height</choice>
+    <choice correct="false">Color</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The modulus of elasticity is a function of the material type. You can look up the modulus of elasticity for different materials.</p>
+
+</div>
+</solution>
+
+
+</problem>

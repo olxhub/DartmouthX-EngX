@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 1" markdown="&gt;&gt;An anti-funicular form is designed to resist what type of force:&lt;&lt;&#10;&#10;( ) Tension&#10;(x) Compression &#10;( ) Shear&#10;( ) Lateral&#10;&#10;[Explanation]&#10;Anti-funicular forms are designed to resist compression.&#10;[Explanation]&#10;" max_attempts="2">
+<p>An anti-funicular form is designed to resist what type of force:</p>
+<multiplechoiceresponse>
+  <choicegroup label="An anti-funicular form is designed to resist what type of force:" type="MultipleChoice">
+    <choice correct="false">Tension</choice>
+    <choice correct="true">Compression </choice>
+    <choice correct="false">Shear</choice>
+    <choice correct="false">Lateral</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Anti-funicular forms are designed to resist compression.</p>
+
+</div>
+</solution>
+
+</problem>

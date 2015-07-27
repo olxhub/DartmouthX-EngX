@@ -1,0 +1,10 @@
+<video youtube="1.00:veyup_Nu9qU" url_name="0de245489cbe47708b08517bdabcb957" display_name="Lesson: Calculating Forces in a Truss (Video 12:14)" download_track="true" download_video="true" edx_video_id="ee2d0fc1-38b4-4dde-a63f-c412548c0780" html5_sources="[]" sub="veyup_Nu9qU" track="/static/C4_LessonCalculatingForcesInATruss.pdf" youtube_id_1_0="veyup_Nu9qU">
+  <track src="/static/C4_LessonCalculatingForcesInATruss.pdf"/>
+  <video_asset client_video_id="C4_LessonCalculatingForcesInATruss.mp4" duration="733.59">
+    <encoded_video bitrate="1232" file_size="113002874" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003600_DTH.mp4"/>
+    <encoded_video bitrate="486" file_size="44578451" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003600_MB1.mp4"/>
+    <encoded_video bitrate="208" file_size="19108362" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003600_MB2.mp4"/>
+    <encoded_video bitrate="1083" file_size="99397232" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="veyup_Nu9qU"/>
+  </video_asset>
+</video>

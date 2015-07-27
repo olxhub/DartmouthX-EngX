@@ -1,0 +1,12 @@
+<problem display_name="Problem 5" markdown="If Owl somehow increases the diameter of the tree, how will this affect the buckling load of the ‘column’/tree?&#10;&#10;(x) The buckling load will increase. &#10;( ) The buckling load will decrease.&#10;( ) The buckling load will NOT change. &#10;&#10;&#10;" max_attempts="2" weight="0.0">
+<p>If Owl somehow increases the diameter of the tree, how will this affect the buckling load of the ‘column’/tree?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">The buckling load will increase. </choice>
+    <choice correct="false">The buckling load will decrease.</choice>
+    <choice correct="false">The buckling load will NOT change. </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

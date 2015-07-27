@@ -1,0 +1,10 @@
+<video youtube="1.00:k4gDj59HeG8" url_name="df61eefb2daf429c9b3d89d067bd95a1" display_name="Course Introduction (Video 02:44)" download_track="true" download_video="true" edx_video_id="b335a54d-11ee-41ba-9cec-da7f087b2d58" html5_sources="[]" sub="k4gDj59HeG8" track="/static/C1_WhatToExpectInConcept1.pdf" youtube_id_1_0="k4gDj59HeG8">
+  <track src="/static/C1_WhatToExpectInConcept1.pdf"/>
+  <video_asset client_video_id="C1_WhatToExpectInConcept1.mp4" duration="163.54">
+    <encoded_video bitrate="213" file_size="4358962" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000800_MB2.mp4"/>
+    <encoded_video bitrate="452" file_size="9244175" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000800_MB1.mp4"/>
+    <encoded_video bitrate="1059" file_size="21674264" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000800_DTH.mp4"/>
+    <encoded_video bitrate="994" file_size="20321426" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="k4gDj59HeG8"/>
+  </video_asset>
+</video>

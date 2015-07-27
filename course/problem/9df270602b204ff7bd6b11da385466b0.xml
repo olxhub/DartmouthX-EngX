@@ -1,0 +1,13 @@
+<problem display_name="Observation 3" markdown="&gt;&gt;Which factor - length, size, material, or shape - has the largest effect on the amount of load that a column can support?&lt;&lt;&#10;     (X) Length&#10;     ( ) Size&#10;     ( ) Material&#10;     ( ) Shape&#10;     " max_attempts="3" showanswer="attempted" weight="0.0">
+<p>Which factor - length, size, material, or shape - has the largest effect on the amount of load that a column can support?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which factor - length, size, material, or shape - has the largest effect on the amount of load that a column can support?" type="MultipleChoice">
+    <choice correct="true">Length</choice>
+    <choice correct="false">Size</choice>
+    <choice correct="false">Material</choice>
+    <choice correct="false">Shape</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>     </p>
+</problem>

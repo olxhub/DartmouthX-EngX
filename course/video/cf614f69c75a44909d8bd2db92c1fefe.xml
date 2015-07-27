@@ -1,0 +1,10 @@
+<video youtube="1.00:yrWGrx7jChc" url_name="cf614f69c75a44909d8bd2db92c1fefe" display_name="Example: Owl's Cable-Stayed Bridge (Video 7:00)" download_track="true" download_video="true" edx_video_id="3c30d113-ed57-420b-b36b-881cb45d0aad" html5_sources="[]" sub="yrWGrx7jChc" track="/static/C2_ExampleOwlsCableStayedBridge.pdf" youtube_id_1_0="yrWGrx7jChc">
+  <track src="/static/C2_ExampleOwlsCableStayedBridge.pdf"/>
+  <video_asset client_video_id="C2_ExampleOwlsCableStayedBridge.mp4" duration="419.03">
+    <encoded_video bitrate="214" file_size="11224780" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001100_MB2.mp4"/>
+    <encoded_video bitrate="1175" file_size="61580387" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001100_DTH.mp4"/>
+    <encoded_video bitrate="483" file_size="25317959" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001100_MB1.mp4"/>
+    <encoded_video bitrate="1094" file_size="57346191" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V001100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="yrWGrx7jChc"/>
+  </video_asset>
+</video>

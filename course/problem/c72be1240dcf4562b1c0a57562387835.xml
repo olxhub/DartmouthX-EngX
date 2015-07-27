@@ -1,0 +1,18 @@
+<problem display_name="Query 5" markdown="null" max_attempts="1" showanswer="never">
+<p>True or False: A rope can carry compression.</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False: You can push on a rope." type="MultipleChoice" show_correctness="never">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+ <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Not as philisophical an answer as you might think! You'll see soon!</p>
+
+</div>
+</solution>
+</problem>

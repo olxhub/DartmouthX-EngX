@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 9" markdown="null" max_attempts="2">
+<p>Where will the bending moment be greatest in a propped beam with a point load at the end?</p>
+  <img src="/static/C5_KC9.jpg" width="600"/>
+<multiplechoiceresponse>
+  <choicegroup label="Where will the bending moment be greatest in a propped beam with a point load at the end?" type="MultipleChoice">
+    <choice correct="false">Point A</choice>
+    <choice correct="false">Point B</choice>
+    <choice correct="true">Point C</choice>
+    <choice correct="false">Point D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The bending moment will be greatest at Point C, at the roller support. The moment will steadily increase from the point where the load is applied to the support at C.</p>
+
+</div>
+</solution>
+
+</problem>

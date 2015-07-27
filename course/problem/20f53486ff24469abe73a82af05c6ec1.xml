@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 3" markdown="&gt;&gt;If the height or length of a column, L, is doubled, what will happen to the critical buckling load for the column?&lt;&lt;&#10;     ( ) It will also double&#10;     ( ) It will decrease by a factor of 2 &#10;     ( ) It will increase by a factor of 4&#10;     (x) It will decrease by a factor of 4&#10;     &#10;[explanation]&#10;As the height or length of a column increases the buckling load decreases (and is squared).&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="2">
+<p>If the height or length of a column, L, is doubled, what will happen to the critical buckling load for the column?</p>
+<multiplechoiceresponse>
+  <choicegroup label="If the height or length of a column, L, is doubled, what will happen to the critical buckling load for the column?" type="MultipleChoice">
+    <choice correct="false">It will also double</choice>
+    <choice correct="false">It will decrease by a factor of 2 </choice>
+    <choice correct="false">It will increase by a factor of 4</choice>
+    <choice correct="true">It will decrease by a factor of 4</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As the height or length of a column increases the buckling load decreases (and is squared).</p>
+
+</div>
+</solution>
+
+
+</problem>

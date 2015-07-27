@@ -1,0 +1,10 @@
+<video youtube="1.00:-ONVGO-iU4g" url_name="6ce8ff817e6745d295ba4d0bd13df328" display_name="Lesson: Columns (Video 07:39)" download_track="true" download_video="true" edx_video_id="2a191f2f-5fb5-439c-ba15-943123382445" html5_sources="[]" sub="-ONVGO-iU4g" track="/static/C3_LessonColumns.pdf" youtube_id_1_0="-ONVGO-iU4g">
+  <track src="/static/C3_LessonColumns.pdf"/>
+  <video_asset client_video_id="C3_LessonColumns.mp4" duration="458.9">
+    <encoded_video bitrate="329" file_size="18880715" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002400_MB1.mp4"/>
+    <encoded_video bitrate="1094" file_size="62774602" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002400_DTH.webm"/>
+    <encoded_video bitrate="173" file_size="9945366" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002400_MB2.mp4"/>
+    <encoded_video bitrate="774" file_size="44401345" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002400_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="-ONVGO-iU4g"/>
+  </video_asset>
+</video>

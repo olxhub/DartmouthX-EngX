@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 9" markdown="&gt;&gt;Make your predictions! When I oscillate the base of my model with two SDOF systems, will the taller or shorter model move more assuming the masses are equal &lt;&lt;&#10;( ) The taller model will move more&#10;( ) The shorter model will move more&#10;( ) The two models will move the same&#10;( ) Don't know&#10;&#10;[explanation]&#10;Check out the next video for an explanation!&#10;[explanation]&#10;" max_attempts="2">
+<p>Make your predictions! When I oscillate the base of my model with two SDOF systems, will the taller or shorter model move more assuming the masses are equal </p>
+<multiplechoiceresponse>
+  <choicegroup label="Make your predictions! When I oscillate the base of my model with two SDOF systems, will the taller or shorter model move more assuming the masses are equal " type="MultipleChoice">
+    <choice correct="false">The taller model will move more</choice>
+    <choice correct="false">The shorter model will move more</choice>
+    <choice correct="false">The two models will move the same</choice>
+    <choice correct="false">Don't know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Check out the next video for an explanation!</p>
+
+</div>
+</solution>
+
+</problem>

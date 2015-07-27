@@ -1,0 +1,24 @@
+<problem display_name="Question 7" markdown="&gt;&gt;Will a short, stiff building or a tall, flexible building be more damaged during an earthquake?&lt;&lt;&#10;&#10;( ) A short, stiff building will be more damaged during an earthquake&#10;( ) A tall, flexible building will be more damaged during an earthquake&#10;( ) They will be damaged the same amount during an earthquake&#10;(x) It depends&#10;( ) I don’t know&#10;&#9;&#10;[explanation]&#10;It depends on the input or earthquake ground motion. An earthquake that causes the ground to shake back and forth quickly will tend to cause more damage to shorter, stiffer buildings but an earthquake that causes the ground to shake back and forth slowly will tend to cause more damage to tall, flexible buildings.&#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>Will a short, stiff building or a tall, flexible building be more damaged during an earthquake?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Will a short, stiff building or a tall, flexible building be more damaged during an earthquake?" type="MultipleChoice">
+    <choice correct="false">A short, stiff building will be more damaged during an earthquake</choice>
+    <choice correct="false">A tall, flexible building will be more damaged during an earthquake</choice>
+    <choice correct="false">They will be damaged the same amount during an earthquake</choice>
+    <choice correct="true">It depends</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+	
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>It depends on the input or earthquake ground motion. An earthquake that causes the ground to shake back and forth quickly will tend to cause more damage to shorter, stiffer buildings but an earthquake that causes the ground to shake back and forth slowly will tend to cause more damage to tall, flexible buildings.</p>
+
+</div>
+</solution>
+
+
+</problem>

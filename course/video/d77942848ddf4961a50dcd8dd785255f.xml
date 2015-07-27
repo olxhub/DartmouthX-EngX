@@ -1,0 +1,9 @@
+<video youtube="1.00:bFmjlJYYYMQ" url_name="d77942848ddf4961a50dcd8dd785255f" display_name="Week 2 in Review" download_track="true" download_video="true" edx_video_id="2c00ed1c-e331-40ea-948f-31e73ae99321" html5_sources="[]" sub="bFmjlJYYYMQ" track="/static/C2_Weekly_Review_2.pdf" youtube_id_1_0="bFmjlJYYYMQ">
+  <track src="/static/C2_Weekly_Review_2.pdf"/>
+  <video_asset client_video_id="WeeklyReview_2.mp4" duration="235.75">
+    <encoded_video bitrate="207" file_size="6104810" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005100_MB1.mp4"/>
+    <encoded_video bitrate="357" file_size="10545169" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005100_DTH.mp4"/>
+    <encoded_video bitrate="186" file_size="5487115" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005100_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="bFmjlJYYYMQ"/>
+  </video_asset>
+</video>

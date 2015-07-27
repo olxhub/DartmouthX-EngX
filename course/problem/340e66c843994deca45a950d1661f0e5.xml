@@ -1,0 +1,20 @@
+<problem display_name="Knowledge Check 7" markdown="&gt;&gt;A stiffer building will deflect ____ a flexible building:&lt;&lt;&#10;(x) less than&#10;( ) more than&#10;( ) the same as&#10;&#10;[explanation]&#10;Stiffness is a measure of the amount of deflection expected under a given load. A stiffer system will deflect less than a more flexible system. Shorter, wider buildings and buildings made of materials that have a higher modulus of elasticity value will be stiffer. &#10;[explanation]&#10;" max_attempts="2">
+<p>A stiffer building will deflect ____ a flexible building:</p>
+<multiplechoiceresponse>
+  <choicegroup label="A stiffer building will deflect ____ a flexible building:" type="MultipleChoice">
+    <choice correct="true">less than</choice>
+    <choice correct="false">more than</choice>
+    <choice correct="false">the same as</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Stiffness is a measure of the amount of deflection expected under a given load. A stiffer system will deflect less than a more flexible system. Shorter, wider buildings and buildings made of materials that have a higher modulus of elasticity value will be stiffer. </p>
+
+</div>
+</solution>
+
+</problem>

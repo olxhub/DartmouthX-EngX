@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 1" markdown="&gt;&gt;Select the two ways that a column can fail:&lt;&lt;&#10;&#10;[x] In compression&#10;[ ] In tension&#10;[x] By buckling&#10;[ ] By overturning&#10;[ ] By sliding&#10;&#10;[explanation]&#10;A column can fail in compression (crushing or yielding depending on the material type) or buckling (a horizontal motion).&#10;[explanation]" max_attempts="2" showanswer="finished">
+<p>Select the two ways that a column can fail:</p>
+<choiceresponse>
+  <checkboxgroup label="Select the two ways that a column can fail:" direction="vertical">
+    <choice correct="true">In compression</choice>
+    <choice correct="false">In tension</choice>
+    <choice correct="true">By buckling</choice>
+    <choice correct="false">By overturning</choice>
+    <choice correct="false">By sliding</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>A column can fail in compression (crushing or yielding depending on the material type) or buckling (a horizontal motion).</p>
+
+</div>
+</solution>
+</problem>

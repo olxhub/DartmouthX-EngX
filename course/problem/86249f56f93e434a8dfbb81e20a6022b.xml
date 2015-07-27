@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 5" markdown="null" max_attempts="2">
+<p>Which of the following images represents a cantilever beam?</p>
+  <img src="/static/C5_KC6.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following images represents a cantilever beam?" type="MultipleChoice">
+    <choice correct="false">A</choice>
+    <choice correct="true">B</choice>
+    <choice correct="false">C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Image B represents a cantilever beam. Image A represents a simply-supported beam. And image C represents a propped cantilever beam. 
+</p>
+
+</div>
+</solution>
+
+</problem>

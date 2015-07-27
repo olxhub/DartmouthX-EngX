@@ -1,0 +1,22 @@
+<problem display_name="Knowledge Check 6" markdown="&gt;&gt;Identify the two main elements of a building used to resist vertical (or downward) loads:&lt;&lt;&#10;&#10;[x] Beams&#10;[ ] Shearwalls&#10;[x] Columns&#10;[ ] Braced Frames&#10;[ ] Moment-Resisting Frames&#10;&#10;[explanation]&#10;Beams and columns are the main elements used to resist vertical loads. Vertical loads are typically applied to the beams, which then transfer the loads to the columns and ultimately down to the ground. Shearwalls, braced frames, and moment-resisting frames are used primarily to resist lateral loads.&#10;[explanation]&#10;" max_attempts="2">
+<legend>Identify the two main elements of a building used to resist vertical (or downward) loads:</legend>
+<choiceresponse>
+  <checkboxgroup label="Identify the two main elements of a building used to resist vertical (or downward) loads:" direction="vertical">
+    <choice correct="true">Beams</choice>
+    <choice correct="false">Shearwalls</choice>
+    <choice correct="true">Columns</choice>
+    <choice correct="false">Braced Frames</choice>
+    <choice correct="false">Moment-Resisting Frames</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Beams and columns are the main elements used to resist vertical loads. Vertical loads are typically applied to the beams, which then transfer the loads to the columns and ultimately down to the ground. Shearwalls, braced frames, and moment-resisting frames are used primarily to resist lateral loads.</p>
+
+</div>
+</solution>
+
+</problem>

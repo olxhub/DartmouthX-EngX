@@ -1,0 +1,22 @@
+<problem display_name="Report Participation" markdown="null" showanswer="attempted">
+  <p><strong>Report your participation in Share Your World here!</strong></p>
+
+<p>Did you post an image in Concept 5's Share Your World?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Did you post an image in Concept 2's Share Your World?" type="MultipleChoice" show_correctness="never">
+    <choice correct="true">Yes, I posted an image</choice>
+    <choice correct="false">No, I did not participate for this concept</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>If you are on the Certificate Track, you will receive 1 point for participating in Share Your World, as self-reported above.</p>
+
+</div>
+</solution>
+
+</problem>

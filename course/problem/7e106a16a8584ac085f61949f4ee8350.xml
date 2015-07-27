@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 7" markdown="null" max_attempts="2">
+  <img src="/static/C5_KC7.jpg" width="400"/>
+  <p>Which of the images below represents the above shear diagram for a simply-supported beam with a point load at the center?</p>
+  <img src="/static/C5_KC7abcd.jpg" width="400"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the images represents the above shear diagram for a simply-supported beam with a point load at the center?" type="MultipleChoice">
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">C</choice>
+    <choice correct="false">D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Image A represents the shear diagram for a simply-supported beam with a point load at the center. Image B represents the shear diagram for a simply supported beam with a distributed load across the beam. Image C represents an unloaded beam with reaction at the supports. Image D represents the moment diagram for a simply-supported beam with a point load at the center. </p>
+
+</div>
+</solution>
+
+</problem>

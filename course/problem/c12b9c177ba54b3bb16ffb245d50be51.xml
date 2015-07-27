@@ -1,0 +1,21 @@
+<problem display_name="Finding 4" markdown="&gt;&gt;Let’s go back to the arch in finding 1 that is 25m tall, spans 75m, and supports a load of 100kN/m. Does changing the depth or the span of the arch have a larger impact on the compressive force in the arch? &lt;&lt;&#10;&#10;( ) Changing the depth of the arch has a larger impact on the compressive force in the arch&#10;(x) Changing the span of the arch has a larger impact on the compressive force in the arch &#10;( ) Changing the span and depth have the same impact on the compressive force in the arch&#10;&#10;[explanation]&#10;Explanation: changing the span (or length, L) has a larger affect since changing the length will change the total amount of load AND the moment (or rotational motion).&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="2" weight="0.0">
+<p>Let’s go back to the arch in finding 1 that is 25m tall, spans 75m, and supports a load of 100kN/m. Does changing the depth or the span of the arch have a larger impact on the compressive force in the arch? </p>
+<multiplechoiceresponse>
+  <choicegroup label="Let’s go back to the arch in finding 1 that is 25m tall, spans 75m, and supports a load of 100kN/m. Does changing the depth or the span of the arch have a larger impact on the compressive force in the arch? " type="MultipleChoice">
+    <choice correct="false">Changing the depth of the arch has a larger impact on the compressive force in the arch</choice>
+    <choice correct="true">Changing the span of the arch has a larger impact on the compressive force in the arch </choice>
+    <choice correct="false">Changing the span and depth have the same impact on the compressive force in the arch</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: changing the span (or length, L) has a larger affect since changing the length will change the total amount of load AND the moment (or rotational motion).</p>
+
+</div>
+</solution>
+
+
+</problem>

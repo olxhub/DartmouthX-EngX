@@ -1,0 +1,13 @@
+<problem display_name="Query 2" markdown="null" max_attempts="1" showanswer="never">
+  <img src="/static/C2_WDYT_DarwinBellGoldenGate.jpg"/>
+  <p>Which of the elements highlighted in the image of the Golden Gate bridge are primarily in compression? check all that apply</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the elements highlighted in the image of the Golden Gate bridge are only in compression?" direction="vertical" show_correctness="never">
+      <choice correct="true">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="false">C</choice>
+      <choice correct="false">D</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:qL0w_rhMH3o" url_name="c8d05abef8094b159561e17c0494d2f5" display_name="Lesson: Vaults and Domes (Video 01:32)" download_track="true" download_video="true" edx_video_id="be34b41b-15b3-4168-9992-4c24c5249761" html5_sources="[]" sub="qL0w_rhMH3o" track="/static/C3_LessonVaultsAndDomes.pdf" youtube_id_1_0="qL0w_rhMH3o">
+  <track src="/static/C3_LessonVaultsAndDomes.pdf"/>
+  <video_asset client_video_id="C3_LessonVaultsAndDomes.mp4" duration="91.83">
+    <encoded_video bitrate="425" file_size="4887827" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002200_MB1.mp4"/>
+    <encoded_video bitrate="964" file_size="11069840" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002200_DTH.mp4"/>
+    <encoded_video bitrate="206" file_size="2367316" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002200_MB2.mp4"/>
+    <encoded_video bitrate="1074" file_size="12332680" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="qL0w_rhMH3o"/>
+  </video_asset>
+</video>

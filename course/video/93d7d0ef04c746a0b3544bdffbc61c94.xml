@@ -1,0 +1,10 @@
+<video youtube="1.00:KyqX4sFWemc" url_name="93d7d0ef04c746a0b3544bdffbc61c94" display_name="Example: Bone Femur (Video 06:31)" download_track="true" download_video="true" edx_video_id="6f8387dc-f02d-4f75-8943-08c1ff5c6c99" html5_sources="[]" sub="KyqX4sFWemc" track="/static/C3_ExampleBoneFemur.pdf" youtube_id_1_0="KyqX4sFWemc">
+  <track src="/static/C3_ExampleBoneFemur.pdf"/>
+  <video_asset client_video_id="C3_ExampleBoneFemur.mp4" duration="390.0">
+    <encoded_video bitrate="184" file_size="8993760" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002600_MB2.mp4"/>
+    <encoded_video bitrate="954" file_size="46519730" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002600_DTH.mp4"/>
+    <encoded_video bitrate="391" file_size="19106398" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002600_MB1.mp4"/>
+    <encoded_video bitrate="1084" file_size="52848903" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="KyqX4sFWemc"/>
+  </video_asset>
+</video>

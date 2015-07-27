@@ -1,0 +1,9 @@
+<video youtube="1.00:CBWoJr9QgEE" url_name="42d7b8ec705040588d12dec3db951ef7" display_name="Lesson: Shear and Bending Stress (Video 6:58)" download_track="true" download_video="true" edx_video_id="6e6b16b1-e4d3-4568-84dd-199914585ee0" html5_sources="[]" sub="CBWoJr9QgEE" track="/static/C5_LessonShearAndBendingStress.pdf" youtube_id_1_0="CBWoJr9QgEE">
+  <track src="/static/C5_LessonShearAndBendingStress.pdf"/>
+  <video_asset client_video_id="C5_LessonShearAndMoment.mp4" duration="418.26">
+    <encoded_video bitrate="194" file_size="6733137" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004200_MB1.mp4"/>
+    <encoded_video bitrate="177" file_size="9300131" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004200_MB2.mp4"/>
+    <encoded_video bitrate="339" file_size="17773174" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004200_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="CBWoJr9QgEE"/>
+  </video_asset>
+</video>

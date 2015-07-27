@@ -1,0 +1,21 @@
+<problem display_name="Finding 1" markdown="null" max_attempts="2" weight="0.0">
+<p>Here a starting point for you: create an arch that is 25m tall, spans 75m, and supports a load of 100kN/m. Use the arch simulator to determine the compressive force in the arch. </p>
+<multiplechoiceresponse>
+  <choicegroup label="Here a starting point for you: create an arch that is 25m tall, spans 75m, and supports a load of 100kN/m. Use the arch simulator to determine the compressive force in the arch." type="MultipleChoice">
+    <choice correct="false">C = 1216kN</choice>
+    <choice correct="true">C = 2813kN </choice>
+    <choice correct="false">C = 3213kN</choice>
+    <choice correct="false">C = 5416kN</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+  <p><img src="/static/C3_ExploreArchesAns1.png" width="600"/></p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:ABuQb8IjSZY" url_name="e782ace4f1514b2d85091ff2190c2076" display_name="Week 1 Review (Video 05:08)" download_track="true" download_video="false" edx_video_id="dcbe85bc-6f15-42aa-a365-e5329f987559" html5_sources="[]" sub="ABuQb8IjSZY" track="/static/C1_WeeklyReview_1.pdf" youtube_id_1_0="ABuQb8IjSZY">
+  <track src="/static/C1_WeeklyReview_1.pdf"/>
+  <video_asset client_video_id="WeeklyReview_1.mp4" duration="307.97">
+    <encoded_video bitrate="222" file_size="8570562" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003800_MB1.mp4"/>
+    <encoded_video bitrate="358" file_size="13787524" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003800_DTH.mp4"/>
+    <encoded_video bitrate="191" file_size="7374409" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003800_MB2.mp4"/>
+    <encoded_video bitrate="1060" file_size="40831022" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="ABuQb8IjSZY"/>
+  </video_asset>
+</video>

@@ -1,0 +1,13 @@
+<problem display_name="Query 6" markdown="null" max_attempts="1" showanswer="never">
+<p>Which of the beam cross-sections shown below would you use if you wanted to design a beam that deflected the least vertically due to an applied vertical load?</p>
+<img src="/static/C5_WDYT6.jpg" width="500"/>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the beam cross-sections shown below would you use if you wanted to design a beam that deflected the least vertically?" type="MultipleChoice" show_correctness="never">
+    <choice correct="false">A</choice>
+    <choice correct="true">B</choice>
+    <choice correct="false">C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

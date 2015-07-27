@@ -1,0 +1,22 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" weight="0.0">
+<p>Which member(s) in this truss will be in tension? Check all that apply.</p>
+  <p/>
+<choiceresponse>
+  <checkboxgroup label="Which member(s) in this truss will be in tension? Check all that apply." direction="vertical">
+    <choice correct="true">Member AB</choice>
+    <choice correct="false">Member AC</choice>
+    <choice correct="false">Member BC</choice>
+    <choice correct="false">None of the members</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>I expect member AB to be in tension. As you push down from above the diagonal members will shorten and the bottom member will elongate. Support B will roll to the right (away from A).</p>
+
+</div>
+</solution>
+
+</problem>

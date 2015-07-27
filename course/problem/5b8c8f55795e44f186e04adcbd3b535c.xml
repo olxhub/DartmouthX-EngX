@@ -1,0 +1,20 @@
+<problem display_name="Observation 1" markdown="&gt;&gt;Will a SDOF system with a shorter height oscillate faster, slower, or the same? Try it by shortening the height or length of the dowel or piece of spaghetti.&lt;&lt;&#10;(x) faster&#10;( ) slower&#10;( ) same&#10;&#10;[explanation]&#10;As you decrease the height of the column/SDOF system you increase the stiffness and cause the system to oscillate at a faster rate. The frequency, or rate of oscillation, increases.&#10;[explanation]&#10;" max_attempts="3" weight="0.0">
+<p>Will a SDOF system with a shorter height oscillate faster, slower, or the same? Try it by shortening the height or length of the dowel or piece of spaghetti.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Will a SDOF system with a shorter height oscillate faster, slower, or the same? Try it by shortening the height or length of the dowel or piece of spaghetti." type="MultipleChoice">
+    <choice correct="true">faster</choice>
+    <choice correct="false">slower</choice>
+    <choice correct="false">same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As you decrease the height of the column/SDOF system you increase the stiffness and cause the system to oscillate at a faster rate. The frequency, or rate of oscillation, increases.</p>
+
+</div>
+</solution>
+
+</problem>

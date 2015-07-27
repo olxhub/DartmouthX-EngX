@@ -1,0 +1,19 @@
+<problem display_name="Finding 1" markdown="&gt;&gt;As you decrease the height of the SDOF system, what happens to the frequency?&lt;&lt;&#10;&#10;(x) The frequency increases&#10;( ) The frequency decreases&#10;( ) The frequency remains the same&#10;&#10;[explanation]&#10;As you decrease the height the system becomes stiffer, meaning it displaces less, and the frequency or rate of oscillations increases, meaning the system moves faster.&#10;[explanation]" max_attempts="3" weight="0.0">
+<p>As you decrease the height of the SDOF system, what happens to the frequency?</p>
+<multiplechoiceresponse>
+  <choicegroup label="As you decrease the height of the SDOF system, what happens to the frequency?" type="MultipleChoice">
+    <choice correct="true">The frequency increases</choice>
+    <choice correct="false">The frequency decreases</choice>
+    <choice correct="false">The frequency remains the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As you decrease the height the system becomes stiffer, meaning it displaces less, and the frequency or rate of oscillations increases, meaning the system moves faster.</p>
+
+</div>
+</solution>
+</problem>

@@ -1,0 +1,20 @@
+<problem display_name="Problem 6" markdown="&gt;&gt;Where along the height of the Eiffel Tower is the shear force the greatest due to a wind load?&lt;&lt;&#10;( ) at the top&#10;( ) at the mid-height&#10;(x) at the base&#10;&#10;[explanation]&#10;The shear force (and bending moment) will be greatest at the base due to a wind load.&#10;[explanation]&#10;" max_attempts="2" weight="0.0">
+<p>Where along the height of the Eiffel Tower is the shear force the greatest due to a wind load?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Where along the height of the Eiffel Tower is the shear force the greatest due to a wind load?" type="MultipleChoice">
+    <choice correct="false">at the top</choice>
+    <choice correct="false">at the mid-height</choice>
+    <choice correct="true">at the base</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The shear force (and bending moment) will be greatest at the base due to a wind load.</p>
+
+</div>
+</solution>
+
+</problem>

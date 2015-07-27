@@ -1,0 +1,24 @@
+<problem display_name="Knowledge Check 4" markdown="null" max_attempts="2">
+  <p>If the cables are adjusted so that they are perfectly vertical, what is the force, F, in the cable given that the applied load is 2Newtons (2N)?
+</p>
+  <p/>
+  <center>
+    <img src="/static/C2_KC4.jpg" width="125px" alt="Diagram"/>
+  </center>
+  <p/>
+  <multiplechoiceresponse>
+    <choicegroup label="If the cables are adjusted so that they are perfectly horizontal, what is the force in the cable given that the applied load is 2Newtons (2N)?" type="MultipleChoice">
+      <choice correct="false">2N</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">10N</choice>
+      <choice correct="true">1N</choice>
+      <choice correct="false">Not possible</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Each of the cables will support half of the load in this case.</p>
+    </div>
+  </solution>
+</problem>

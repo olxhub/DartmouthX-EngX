@@ -1,0 +1,22 @@
+<problem display_name="Problem 1" markdown="null" max_attempts="2" weight="0.0">
+
+<p>If Owl stands closer to the edge of the diving board, will the bending moment in the diving board increase, decrease or remain the same?</p>
+<p><img src="/static/C5_OwlDivingP1_closertoend.jpg" width="500"/></p>
+<multiplechoiceresponse>
+  <choicegroup label="If Owl stands closer to the edge of the diving board, will the bending moment in the diving board increase, decrease or remain the same?" type="MultipleChoice">
+    <choice correct="true">The bending moment will increase</choice>
+    <choice correct="false">The bending moment will decrease</choice>
+    <choice correct="false">The bending moment will remain the same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>If Owl stands closer to the edge of the diving board than the bending moment, which is maximal at the support closest to Owl, will increase. Bending moment is a function of the force (in this case the weight of Owl) and the distance (in this case the distance between Owl and the closest support). As the distance increases the moment will also increase.</p>
+
+</div>
+</solution>
+
+</problem>

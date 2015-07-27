@@ -1,0 +1,10 @@
+<video youtube="1.00:TXJRrlb0YUc" url_name="314ac63fefc94ed6b98548ec516b4335" display_name="Example: Taftsville Bridge (Video 15:21)" download_track="true" download_video="true" edx_video_id="a1766e80-4ffc-4c42-8d3f-7a326a21ea1b" html5_sources="[]" sub="TXJRrlb0YUc" track="/static/C4_ExampleTaftsvilleBridge.pdf" youtube_id_1_0="TXJRrlb0YUc">
+  <track src="/static/C4_ExampleTaftsvilleBridge.pdf"/>
+  <video_asset client_video_id="C4_ExampleTaftsvilleBridge.mp4" duration="920.39">
+    <encoded_video bitrate="162" file_size="18749812" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003300_MB2.mp4"/>
+    <encoded_video bitrate="276" file_size="31855378" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003300_MB1.mp4"/>
+    <encoded_video bitrate="560" file_size="64447196" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003300_DTH.mp4"/>
+    <encoded_video bitrate="1091" file_size="125535498" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V003300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="TXJRrlb0YUc"/>
+  </video_asset>
+</video>

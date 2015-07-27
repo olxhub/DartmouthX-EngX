@@ -1,0 +1,20 @@
+<problem display_name="Question 3" markdown="&gt;&gt;Will doubling the length, modulus of elasticity, or moment of inertia have the largest effect on the amount of load that a column can support before buckling? &lt;&lt;&#10;(x) length &#10;( ) modulus of elasticity&#10;( ) moment of inertia&#10;&#10;[explanation]&#10;Explanation: modifying the length of the column will typically have the largest effect on the response. As an example, a column that is twice as tall will carry four times less load whereas a column with a modulus of elasticity that is twice as high will result in a column that is able to carry twice as much load.&#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+<p>Will doubling the length, modulus of elasticity, or moment of inertia have the largest effect on the amount of load that a column can support before buckling? </p>
+<multiplechoiceresponse>
+  <choicegroup label="Will doubling the length, modulus of elasticity, or moment of inertia have the largest effect on the amount of load that a column can support before buckling? " type="MultipleChoice">
+    <choice correct="true">length </choice>
+    <choice correct="false">modulus of elasticity</choice>
+    <choice correct="false">moment of inertia</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: modifying the length of the column will typically have the largest effect on the response. As an example, a column that is twice as tall will carry four times less load whereas a column with a modulus of elasticity that is twice as high will result in a column that is able to carry twice as much load.</p>
+
+</div>
+</solution>
+
+</problem>

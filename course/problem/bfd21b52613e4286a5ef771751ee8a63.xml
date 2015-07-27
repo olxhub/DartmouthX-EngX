@@ -1,0 +1,24 @@
+<problem display_name="Question 1" markdown="null" max_attempts="1">
+  <p>Which of the elements highlighted in the image of the cable-stayed bridge are in only tension? </p>
+  <center>
+    <img src="/static/C2_Q1.jpg" width="700"/>
+  </center>
+  <choiceresponse>
+    <checkboxgroup label="Which of the elements highlighted in the image of the cable-stayed bridge are in tension? " direction="vertical">
+      <choice correct="false">A</choice>
+      <choice correct="true">B</choice>
+      <choice correct="false">C</choice>
+      <choice correct="false">D</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  
+  <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The correct answer is B.</p>
+
+</div>
+</solution>
+
+</problem>

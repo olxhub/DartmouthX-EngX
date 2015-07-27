@@ -1,0 +1,49 @@
+<problem display_name="Owl's Solution" markdown="null" max_attempts="2">
+  <script type="loncapa/python"> 
+import re 
+   
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 0
+
+   
+</script>
+  <span id="anchor_change_my_id_for_each_one_on_the_page"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_change_my_id_for_each_one_on_the_page") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>
+    <strong><font color="black">What aspects of the design do you think helped ensure that the treehouse, library and bridge were able to withstand the motions caused by the wind storm?</font></strong>
+  </p>
+   <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation: </p>
+      <p>Could Owl's treehouse, bridge, and library withstand such a windstorm? It appears they did (we didn't have the heart to destroy another of Owl's bridges...)! The bridge, in particular, would need to be designed to resist such motions, and potentially different motions between the two trees. Such connections are not easy but are possible. Part of the point of this concept was that stiffer and stronger is not always better. Owl's trees are definitely flexible but performed well.</p>
+      <p/>
+      <p/>
+    </div>
+  </solution>
+</problem>

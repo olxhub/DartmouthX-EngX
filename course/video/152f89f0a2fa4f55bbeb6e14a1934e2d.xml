@@ -1,0 +1,9 @@
+<video youtube="1.00:sDC8fISCMB4" url_name="152f89f0a2fa4f55bbeb6e14a1934e2d" license="creative-commons: ver=4.0 BY NC ND" display_name="Reflections from Week 6 (Video 4:18)" download_track="true" download_video="true" edx_video_id="7e0281bd-7d86-442f-a953-76d59f4569aa" html5_sources="[]" sub="sDC8fISCMB4" track="/static/WeeklyReview_6.pdf" youtube_id_1_0="sDC8fISCMB4">
+  <track src="/static/WeeklyReview_6.pdf"/>
+  <video_asset client_video_id="WeeklyReview6.mp4" duration="258.53">
+    <encoded_video bitrate="231" file_size="7475226" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005600_MB1.mp4"/>
+    <encoded_video bitrate="398" file_size="12885926" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005600_DTH.mp4"/>
+    <encoded_video bitrate="194" file_size="6281445" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V005600_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="sDC8fISCMB4"/>
+  </video_asset>
+</video>

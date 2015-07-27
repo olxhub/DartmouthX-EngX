@@ -1,0 +1,21 @@
+<problem display_name="Question 2" markdown="&gt;&gt;What type of force do ropes and cables resist?&lt;&lt;&#10;( ) Compression&#10;(x) Tension&#10;( ) Bending&#10;( ) Shear&#10;&#10;[explanation]&#10;You may only pull on a rope or cable, thus causing tension. &#10;[explanation]&#10;" max_attempts="1">
+<p>What type of force do ropes and cables resist?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What type of force do ropes and cables resist?" type="MultipleChoice">
+    <choice correct="false">Compression</choice>
+    <choice correct="true">Tension</choice>
+    <choice correct="false">Bending</choice>
+    <choice correct="false">Shear</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You may only pull on a rope or cable, thus causing tension. </p>
+
+</div>
+</solution>
+
+</problem>

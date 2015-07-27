@@ -1,0 +1,10 @@
+<video youtube="1.00:Ohhu2RKmn2s" url_name="8b4a0d6b67dc47f08b8303a0a167ea3e" display_name="Example: Owl's Tree (Video 06:14)" download_track="true" download_video="true" edx_video_id="9ed6ba1c-2847-45eb-b1f2-26b9f4ef961a" html5_sources="[]" sub="Ohhu2RKmn2s" track="/static/C3_ExampleOwlsTree.pdf" youtube_id_1_0="Ohhu2RKmn2s">
+  <track src="/static/C3_ExampleOwlsTree.pdf"/>
+  <video_asset client_video_id="C3_ExampleOwlsTree.mp4" duration="372.98">
+    <encoded_video bitrate="182" file_size="8514864" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002700_MB2.mp4"/>
+    <encoded_video bitrate="963" file_size="44944247" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002700_DTH.mp4"/>
+    <encoded_video bitrate="392" file_size="18304437" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002700_MB1.mp4"/>
+    <encoded_video bitrate="1100" file_size="51303497" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V002700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Ohhu2RKmn2s"/>
+  </video_asset>
+</video>

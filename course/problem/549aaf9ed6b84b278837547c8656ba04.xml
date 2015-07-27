@@ -1,0 +1,21 @@
+<problem display_name="Knowledge Check 17" markdown="&gt;&gt;Why is a tube-framed system more efficient at resisting lateral loads than a traditionally framed building?&lt;&lt;&#10;&#10;(x) The tube-framed system has a higher moment of inertia&#10;( ) The tube-framed system has a higher cross-sectional area&#10;( ) The tube-framed system has a higher yield stress&#10;( ) I don’t know&#10;&#10;[explanation]&#10;By placing the columns of a building on the perimeter you use fewer columns, thus a lower cross-sectional area, to achieve the same moment of inertia. More of the mass (in this case columns) is further from the center, thus increasing the moment of inertia.&#10;[explanation]&#10;" max_attempts="2">
+<p>Why is a tube-framed system more efficient at resisting lateral loads than a traditionally framed building?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Why is a tube-framed system more efficient at resisting lateral loads than a traditionally framed building?" type="MultipleChoice">
+    <choice correct="true">The tube-framed system has a higher moment of inertia</choice>
+    <choice correct="false">The tube-framed system has a higher cross-sectional area</choice>
+    <choice correct="false">The tube-framed system has a higher yield stress</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>By placing the columns of a building on the perimeter you use fewer columns, thus a lower cross-sectional area, to achieve the same moment of inertia. More of the mass (in this case columns) is further from the center, thus increasing the moment of inertia.</p>
+
+</div>
+</solution>
+
+</problem>

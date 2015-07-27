@@ -1,0 +1,22 @@
+<problem display_name="Question 6" markdown="&gt;&gt;Which system, a braced frame or a shearwall or a moment-resisting frame, do you expect to deflect the most under a lateral load?&lt;&lt;&#10;&#10;( ) Braced frame will tend to deflect the most&#10;(x) Moment-resisting frame will tend to deflect the most&#10;( ) Shearwall will tend to deflect the most&#10;( ) I don’t know&#10;&#9;&#10;[explanation]&#10;Moment-resisting frames tend to deflect the most under lateral loads since they are fairly flexible systems created with long, slender elements.&#10;[explanation]&#10;" max_attempts="1">
+<p>Which system, a braced frame or a shearwall or a moment-resisting frame, do you expect to deflect the most under a lateral load?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which system, a braced frame or a shearwall or a moment-resisting frame, do you expect to deflect the most under a lateral load?" type="MultipleChoice">
+    <choice correct="false">Braced frame will tend to deflect the most</choice>
+    <choice correct="true">Moment-resisting frame will tend to deflect the most</choice>
+    <choice correct="false">Shearwall will tend to deflect the most</choice>
+    <choice correct="false">I don’t know</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+	
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Moment-resisting frames tend to deflect the most under lateral loads since they are fairly flexible systems created with long, slender elements.</p>
+
+</div>
+</solution>
+
+</problem>

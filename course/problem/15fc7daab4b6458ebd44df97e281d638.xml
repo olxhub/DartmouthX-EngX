@@ -1,0 +1,23 @@
+<problem display_name="Knowledge Check 10" markdown="null" max_attempts="2">
+<p>Where will the shear force be greatest for a cantilever beam that supports a distributed load?</p>
+  <img src="/static/C5_KC10.jpg" width="600"/>
+<multiplechoiceresponse>
+  <choicegroup label="Where will the bending moment be greatest in a propped beam with a point load at the end?" type="MultipleChoice">
+    <choice correct="true">Point A</choice>
+    <choice correct="false">Point B</choice>
+    <choice correct="false">Point C</choice>
+    <choice correct="false">Point D</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The shear force will be greatest at the support of a cantilever beam that supports a distributed load.
+</p>
+
+</div>
+</solution>
+
+</problem>

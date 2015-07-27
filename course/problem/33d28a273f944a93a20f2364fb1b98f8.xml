@@ -1,0 +1,26 @@
+<problem display_name="Question 2" markdown="&gt;&gt;A more flexible building will deflect ____ a stiffer building:&lt;&lt;&#10;&#10;This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question contained an error when the course ran.&#10;&#10;(x) less than&#10;(x) more than&#10;(x) the same as&#10;&#9;&#10;[explanation]&#10;The answer is 'more than'.&#10;&#10;Stiffness is a measure of the amount of deflection expected under a given load. A flexible system will deflect more than a more stiff system. Taller, slender systems tend to be more flexible than shorter, wider systems.&#10;[explanation]&#10;&#10;" max_attempts="1">
+<p>A more flexible building will deflect ____ a stiffer building:</p>
+
+<p>This problem has been reconfigured to give full credit to anyone who submitted an answer (right or wrong) as the question contained an error when the course ran.</p>
+<multiplechoiceresponse>
+  <choicegroup label="A more flexible building will deflect ____ a stiffer building:" type="MultipleChoice">
+    <choice correct="true">less than</choice>
+    <choice correct="true">more than</choice>
+    <choice correct="true">the same as</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+	
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The answer is 'more than'.</p>
+
+<p>Stiffness is a measure of the amount of deflection expected under a given load. A flexible system will deflect more than a more stiff system. Taller, slender systems tend to be more flexible than shorter, wider systems.</p>
+
+</div>
+</solution>
+
+
+</problem>

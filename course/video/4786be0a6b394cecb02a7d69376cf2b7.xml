@@ -1,0 +1,9 @@
+<video youtube="1.00:Ct1wrrkVyx4" url_name="4786be0a6b394cecb02a7d69376cf2b7" display_name="Guest Lecture: Using Glass as a Structural Material (Video 5:39)" download_track="true" download_video="true" edx_video_id="36516235-e92d-49b2-991f-62bac8e69e43" html5_sources="[]" sub="Ct1wrrkVyx4" track="/static/C6_UsingGlassAsAStructuralMaterialTimEliassen.pdf" youtube_id_1_0="Ct1wrrkVyx4">
+  <track src="/static/C6_UsingGlassAsAStructuralMaterialTimEliassen.pdf"/>
+  <video_asset client_video_id="C6_UsingGlassAsAStructuralMaterialTimEliassen.mp4" duration="339.89">
+    <encoded_video bitrate="227" file_size="9661092" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004700_MB2.mp4"/>
+    <encoded_video bitrate="692" file_size="29432550" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004700_DTH.mp4"/>
+    <encoded_video bitrate="327" file_size="13931253" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004700_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="Ct1wrrkVyx4"/>
+  </video_asset>
+</video>

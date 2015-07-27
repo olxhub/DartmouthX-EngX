@@ -1,0 +1,18 @@
+<problem display_name="Knowledge Check 3" markdown="null" max_attempts="2">
+  <p>Identify the anti-funicular form for an evenly distributed load:</p>
+  <img src="/static/C3_KCAntiFunEvenLoad.png" width="600"/>
+  <multiplechoiceresponse>
+    <choicegroup label="Identify the anti-funicular form for an evenly distributed load:" type="MultipleChoice">
+      <choice correct="false">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="true">C</choice>
+      <choice correct="false">D</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+ <p>An anti-funicular form is the inverse of a funicular form.</p>
+</div>
+</solution>
+</problem>

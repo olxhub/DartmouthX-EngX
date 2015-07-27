@@ -1,0 +1,48 @@
+<problem display_name="What do you think of Owl's Solution?" markdown="null" max_attempts="3" showanswer="answered">
+  <script type="loncapa/python"> 
+import re 
+   
+def checkAnswer4(expect, ans): 
+  response = re.search('', ans) 
+  if response: 
+    return 1 
+  else: 
+    return 0
+
+   
+</script>
+  <span id="anchor_change_my_id_for_each_one_on_the_page"/>
+  <script type="text/javascript"> 
+    /* The object here is to replace the single line input with a textarea */ 
+   (function() { 
+    var elem = $("#anchor_change_my_id_for_each_one_on_the_page") 
+        .closest("div.problem") 
+        .find(":text"); 
+    /* There's CSS in the LMS that controls the height, so we have to override here */ 
+    var textarea = $('<textarea style="height:150px" rows="20" cols="70"/>'); 
+    console.log(elem); 
+    console.log(textarea); 
+    //This is just a way to do an iterator in JS 
+    for (attrib in {'id':null, 'name':null}) { 
+        textarea.attr(attrib, elem.attr(attrib)); 
+    } 
+    /* copy over the submitted value */ 
+    textarea.val(elem.val()) 
+    elem.replaceWith(textarea); 
+     
+   })(); 
+  </script>
+  <p>
+    <strong>How is the truss bridge similar to and different from the cable-stayed bridge?</strong>
+  </p>
+   <customresponse cfn="checkAnswer4">
+    <textline size="40" correct_answer="" label="Problem Text"/>
+  </customresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Owl decided to build a truss bridge this time. A truss bridge tends to be stiffer than a cable-stayed bridge, meaning that it will deflect less when loaded. I hope that Owl paid close attention to the connections to the trees. This is a scenario where I'd want to design a bridge that allowed for movement on one end. A statically determinate bridge with a pinned connection on one end and a roller support on the other that allowed for lots of differential motion between the trees would be ideal.</p>
+      <p/>
+    </div>
+  </solution>
+</problem>

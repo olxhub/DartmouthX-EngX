@@ -1,0 +1,10 @@
+<video youtube="1.00:OthShkOFTS4" url_name="c5343e21ce9445109b67fbe14d98b258" display_name="Design Challenge: Cardboard Chair (Video 2:32)" download_track="true" download_video="true" edx_video_id="1b7b6d35-e53a-4776-be56-6556ca8d8208" html5_sources="[]" sub="OthShkOFTS4" track="/static/C1_DesignChallengeCardboardChair.pdf" youtube_id_1_0="OthShkOFTS4">
+  <track src="/static/C1_DesignChallengeCardboardChair.pdf"/>
+  <video_asset client_video_id="C1_DesignChallengeCardboardChair.mp4" duration="151.9">
+    <encoded_video bitrate="394" file_size="7486064" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000100_MB1.mp4"/>
+    <encoded_video bitrate="938" file_size="17819825" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000100_DTH.mp4"/>
+    <encoded_video bitrate="213" file_size="4051899" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000100_MB2.mp4"/>
+    <encoded_video bitrate="1094" file_size="20791677" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V000100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="OthShkOFTS4"/>
+  </video_asset>
+</video>

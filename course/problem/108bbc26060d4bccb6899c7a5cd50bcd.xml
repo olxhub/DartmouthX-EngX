@@ -1,0 +1,11 @@
+<problem display_name="Knowledge Check 3" markdown="&gt;&gt;True or False? Cable-stayed bridges tend to have shorter spans and larger towers than suspension bridges.&lt;&lt;&#10;     (x) True&#10;     ( ) False&#10;&#10;&#10;&#10;" max_attempts="1">
+<p>True or False? Cable-stayed bridges tend to have shorter spans and larger towers than suspension bridges.</p>
+<multiplechoiceresponse>
+  <choicegroup label="True or False? Cable-stayed bridges tend to have shorter spans and larger towers than suspension bridges." type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

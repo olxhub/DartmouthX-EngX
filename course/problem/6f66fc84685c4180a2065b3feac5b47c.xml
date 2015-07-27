@@ -1,0 +1,18 @@
+<problem display_name="Question 2" markdown="null" max_attempts="1">
+  <img src="/static/C2_WDYT_DarwinBellGoldenGate.jpg"/>
+  <p>Which one of the elements highlighted in the image of the Golden Gate bridge are primarily in compression?</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the elements highlighted in the image of the Golden Gate bridge are primarily in compression?" direction="vertical">
+      <choice correct="true">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="false">C</choice>
+      <choice correct="false">D</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation: The towers of a suspension bridge are primarily in compression. The deck is in both tension AND compression and the cables are in tension.</p>
+      <p/>
+    </div>
+  </solution>
+</problem>

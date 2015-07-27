@@ -1,0 +1,24 @@
+<problem display_name="Knowledge Check 5" markdown="&gt;&gt;The moment of inertia is a property related to a column’s:&lt;&lt;&#10;     ( ) Material&#10;     (x) Cross-sectional shape&#10;     ( ) Height&#10;     ( ) Color&#10;     &#10;     &#10;[explanation]&#10;Explanation: Moment of inertia is a function of the cross-sectional shape of the column.&#10;[explanation]&#10;&#10;" max_attempts="2">
+<p>The moment of inertia is a property related to a column’s:</p>
+<multiplechoiceresponse>
+  <choicegroup label="The moment of inertia is a property related to a column’s:" type="MultipleChoice">
+    <choice correct="false">Material</choice>
+    <choice correct="true">Cross-sectional shape</choice>
+    <choice correct="false">Height</choice>
+    <choice correct="false">Color</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Explanation: Moment of inertia is a function of the cross-sectional shape of the column.</p>
+
+</div>
+</solution>
+
+
+</problem>

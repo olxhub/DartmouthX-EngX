@@ -1,0 +1,15 @@
+<problem display_name="Question 7" markdown="&gt;&gt;The supports at the base of an arch or vault must resist only downward forces.&lt;&lt;&#10;( ) True&#10;(x) False &#10;&#10;[explanation]&#10;False - they must support both downward and outward forces&#10;[explanation]" max_attempts="1">
+  <p>The supports at the base of an arch or vault must resist only downward forces.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The supports at the base of an arch or vault must resist only downward forces." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>False - they must support both downward and outward forces</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,9 @@
+<video youtube="1.00:ibmHpgGacqc" url_name="f481deabc4f2448a9d37f0a8b082cc58" display_name="Examples: Owl's Diving Board (Video 6:33)" download_track="true" download_video="true" edx_video_id="7748c3ee-e2a4-4df5-9521-51cae917c709" html5_sources="[]" sub="ibmHpgGacqc" track="/static/C5_ExampleOwlsDivingBoard.pdf" youtube_id_1_0="ibmHpgGacqc">
+  <track src="/static/C5_ExampleOwlsDivingBoard.pdf"/>
+  <video_asset client_video_id="C5_ExampleOwlsDivingBoard.mp4" duration="393.6">
+    <encoded_video bitrate="351" file_size="17307832" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004300_MB1.mp4"/>
+    <encoded_video bitrate="211" file_size="10413969" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004300_MB2.mp4"/>
+    <encoded_video bitrate="707" file_size="34802162" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENGS1/DRTENGS1T215-V004300_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="ibmHpgGacqc"/>
+  </video_asset>
+</video>
