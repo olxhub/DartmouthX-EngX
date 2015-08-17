@@ -1,0 +1,6 @@
+The Engineering of Structures Around Us DARTX.ENGS.01.X by Dartmouth
+College is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License unless
+otherwise specified where the content is shown. Illustrations are
+created by Katherine Roy and special permission may be needed to
+re-use. Simulations and code therein is created by ThirdCat, LLC.
